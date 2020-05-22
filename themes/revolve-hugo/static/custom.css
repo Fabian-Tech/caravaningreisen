@@ -1,0 +1,6 @@
+.bg-image{
+    background-image: url("/images/200522_Header_Lakolk_Panorama7.jpg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+}
