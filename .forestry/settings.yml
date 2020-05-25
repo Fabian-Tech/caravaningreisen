@@ -8,7 +8,7 @@ sections:
   path: content
   label: Pages
   create: all
-  match: "*"
+  match: "**/*"
 - type: directory
   path: content/search
   label: Search
@@ -28,6 +28,10 @@ sections:
   path: content/about
   label: About
   create: all
+  match: "**/*"
+- type: document
+  path: config.toml
+  label: Configuration
   match: "**/*"
 upload_dir: static/uploads
 public_path: "/uploads"
