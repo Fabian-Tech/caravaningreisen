@@ -10,40 +10,40 @@ disqusShortname = "revolve" #get your shortname form : disqus.com
 [outputs]
   home = ["HTML", "AMP", "RSS", "JSON"]
 
-############################# Plugins ##############################
+############################# plugins ##############################
 [params.plugins]
 
-  # CSS Plugins
+  # CSS plugins
   [[params.plugins.css]]
-  URL = "plugins/bootstrap/bootstrap.min.css"
+  URL = "/plugins/bootstrap/bootstrap.min.css"
   [[params.plugins.css]]
-  URL = "plugins/slick/slick.css"
+  URL = "/plugins/slick/slick.css"
   [[params.plugins.css]]
-  URL = "plugins/slick/slick-theme.css"
+  URL = "/plugins/slick/slick-theme.css"
   [[params.plugins.css]]
-  URL = "plugins/themify-icons/themify-icons.css"
+  URL = "/plugins/themify-icons/themify-icons.css"
   [[params.plugins.css]]
-  URL = "plugins/magnific-popup/magnific-popup.css"
+  URL = "/plugins/magnific-popup/magnific-popup.css"
 
-  # JS Plugins
+  # JS plugins
   [[params.plugins.js]]
-  URL = "plugins/jQuery/jquery.min.js"
+  URL = "/plugins/jQuery/jquery.min.js"
   [[params.plugins.js]]
-  URL = "plugins/bootstrap/bootstrap.min.js"
+  URL = "/plugins/bootstrap/bootstrap.min.js"
   [[params.plugins.js]]
-  URL = "plugins/slick/slick.min.js"
+  URL = "/plugins/slick/slick.min.js"
   [[params.plugins.js]]
-  URL = "plugins/instafeed/instafeed.min.js"
+  URL = "/plugins/instafeed/instafeed.min.js"
   [[params.plugins.js]]
-  URL = "plugins/magnific-popup/magnific-popup.js"
+  URL = "/plugins/magnific-popup/magnific-popup.js"
   [[params.plugins.js]]
-  URL = "plugins/search/fuse.min.js"
+  URL = "/plugins/search/fuse.min.js"
   [[params.plugins.js]]
-  URL = "plugins/search/mark.js"
+  URL = "/plugins/search/mark.js"
   [[params.plugins.js]]
-  URL = "plugins/search/search.js"
+  URL = "/plugins/search/search.js"
   [[params.plugins.js]]
-  URL = "plugins/google-map/gmap.js"
+  URL = "/plugins/google-map/gmap.js"
 
   
 ############################## navigation ###############################
