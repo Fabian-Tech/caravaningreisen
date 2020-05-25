@@ -27,7 +27,7 @@ bio = "I'm Liam, last year I decided to quit my job and travel the world. You ca
 designation = "Travel Blogger"
 image = "/images/author.jpg"
 name = "Liam Mason"
-signature = "images/liammason.png"
+signature = "/images/liammason.png"
 [params.newsletter]
 subtitle = "Subscribe my Newsletter for new blog posts , tips and info."
 title = "Subscribe Newsletter"
