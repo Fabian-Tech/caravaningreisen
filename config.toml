@@ -1,103 +1,70 @@
-######################## default configuration ####################
 baseURL = ""
+disqusShortname = "revolve"
 languageCode = "en-us"
-title = "Revolve | Hugo Blog Template"
-theme = "revolve-hugo"
-summaryLength = "10"
 paginate = 8
-disqusShortname = "revolve" #get your shortname form : disqus.com
-
+summaryLength = "10"
+theme = "revolve-hugo"
+title = "Revolve | Hugo Blog Template"
+[[menu.main]]
+URL = "about"
+name = "About"
+weight = 1
+[[menu.main]]
+URL = "contact"
+name = "Contact"
+weight = 2
 [outputs]
-  home = ["HTML", "AMP", "RSS", "JSON"]
-
-############################# plugins ##############################
-[params.plugins]
-
-  # CSS plugins
-  [[params.plugins.css]]
-  URL = "/plugins/bootstrap/bootstrap.min.css"
-  [[params.plugins.css]]
-  URL = "/plugins/slick/slick.css"
-  [[params.plugins.css]]
-  URL = "/plugins/slick/slick-theme.css"
-  [[params.plugins.css]]
-  URL = "/plugins/themify-icons/themify-icons.css"
-  [[params.plugins.css]]
-  URL = "/plugins/magnific-popup/magnific-popup.css"
-
-  # JS plugins
-  [[params.plugins.js]]
-  URL = "/plugins/jQuery/jquery.min.js"
-  [[params.plugins.js]]
-  URL = "/plugins/bootstrap/bootstrap.min.js"
-  [[params.plugins.js]]
-  URL = "/plugins/slick/slick.min.js"
-  [[params.plugins.js]]
-  URL = "/plugins/instafeed/instafeed.min.js"
-  [[params.plugins.js]]
-  URL = "/plugins/magnific-popup/magnific-popup.js"
-  [[params.plugins.js]]
-  URL = "/plugins/search/fuse.min.js"
-  [[params.plugins.js]]
-  URL = "/plugins/search/mark.js"
-  [[params.plugins.js]]
-  URL = "/plugins/search/search.js"
-  [[params.plugins.js]]
-  URL = "/plugins/google-map/gmap.js"
-
-  
-############################## navigation ###############################
-[menu]
-    
-  [[menu.main]]
-  name = "About"
-  URL = "about"
-  weight = 1
-  
-  [[menu.main]]
-  name = "Contact"
-  URL = "contact"
-  weight = 2
-
-
-#################### default parameters ################################
+home = ["HTML", "AMP", "RSS", "JSON"]
 [params]
-logo = "/images/200522_LogoSchirm_transparent.png"
-home = "Home"
-# Meta description
-description = "This is meta description"
-# Google Analitycs
-googleAnalitycsID = "Your ID"
-# contact form action url
-contactFormAction = "#" # contactr form works with formspree.io
-# copyright
+contactFormAction = "#"
 copyright = "@2019 [Themefisher](https://themefisher.com) All Rights Reserved"
-
-  # Preloader
-  [params.preloader]
-  enable = true
-  preloader = "" # use .png , .svg or .gif format
-
-  # search
-  [params.search]
-  enable = true
-
-
-########################### author [blog sidebar] ###############
+description = "This is meta description"
+googleAnalitycsID = "Your ID"
+home = "Home"
+logo = "/images/200522_LogoSchirm_transparent.png"
 [params.author]
-name = "Liam Mason"
-designation = "Travel Blogger"
-image = "images/author.jpg"
 bio = "I'm Liam, last year I decided to quit my job and travel the world. You can follow my journey on this blog!"
+designation = "Travel Blogger"
+image = "/images/author.jpg"
+name = "Liam Mason"
 signature = "images/liammason.png"
-
-############################# social site ########################
-[[params.social]]
-title = "facebook"
-icon = "ti-facebook" # themify icon : https://themify.me/themify-icons
-link = "https://www.facebook.com/CaravaningReisen/"
-
-############################ newsletter #############################
 [params.newsletter]
-title = "Subscribe Newsletter"
 subtitle = "Subscribe my Newsletter for new blog posts , tips and info."
+title = "Subscribe Newsletter"
+[[params.plugins.css]]
+URL = "/plugins/bootstrap/bootstrap.min.css"
+[[params.plugins.css]]
+URL = "/plugins/slick/slick.css"
+[[params.plugins.css]]
+URL = "/plugins/slick/slick-theme.css"
+[[params.plugins.css]]
+URL = "/plugins/themify-icons/themify-icons.css"
+[[params.plugins.css]]
+URL = "/plugins/magnific-popup/magnific-popup.css"
+[[params.plugins.js]]
+URL = "/plugins/jQuery/jquery.min.js"
+[[params.plugins.js]]
+URL = "/plugins/bootstrap/bootstrap.min.js"
+[[params.plugins.js]]
+URL = "/plugins/slick/slick.min.js"
+[[params.plugins.js]]
+URL = "/plugins/instafeed/instafeed.min.js"
+[[params.plugins.js]]
+URL = "/plugins/magnific-popup/magnific-popup.js"
+[[params.plugins.js]]
+URL = "/plugins/search/fuse.min.js"
+[[params.plugins.js]]
+URL = "/plugins/search/mark.js"
+[[params.plugins.js]]
+URL = "/plugins/search/search.js"
+[[params.plugins.js]]
+URL = "/plugins/google-map/gmap.js"
+[params.preloader]
+enable = true
+preloader = ""
+[params.search]
+enable = true
+[[params.social]]
+icon = "ti-facebook"
+link = "https://www.facebook.com/CaravaningReisen/"
+title = "facebook"
