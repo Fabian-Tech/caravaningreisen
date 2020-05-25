@@ -62,7 +62,7 @@ disqusShortname = "revolve" #get your shortname form : disqus.com
 
 #################### default parameters ################################
 [params]
-logo = "images/200522_LogoSchirm_transparent.png"
+logo = "/images/200522_LogoSchirm_transparent.png"
 home = "Home"
 # Meta description
 description = "This is meta description"
