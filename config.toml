@@ -6,12 +6,12 @@ summaryLength = "10"
 theme = "revolve-hugo"
 title = "Revolve | Hugo Blog Template"
 [[menu.main]]
-URL = "about"
-name = "About"
+URL = "über-mich"
+name = "Über mich"
 weight = 1
 [[menu.main]]
-URL = "contact"
-name = "Contact"
+URL = "kontakt"
+name = "Kontakt"
 weight = 2
 [outputs]
 home = ["HTML", "AMP", "RSS", "JSON"]
