@@ -12,7 +12,7 @@
       </div>
 
       <div class="sidebar-widget follow mb-5 text-center">
-        <h4 class="text-center widget-title">Follow Me</h4>
+        <h4 class="text-center widget-title">Folgen Sie uns</h4>
         <div class="follow-socials">
           {{ range .Site.Params.social }}
           <a href="{{ .link | safeURL }}"><i class="{{ .icon }}"></i></a>
@@ -21,7 +21,7 @@
       </div>
 
       <div class="sidebar-widget mb-5 ">
-        <h4 class="text-center widget-title">Recent Posts</h4>
+        <h4 class="text-center widget-title">Neueste Einträge</h4>
 
         {{ range $index, $element:= first 3 (where .Site.RegularPages "Type" "post" )}}
         {{ if eq $index 0 }}
@@ -49,7 +49,7 @@
       </div>
 
       <div class="sidebar-widget category mb-5">
-        <h4 class="text-center widget-title">Catgeories</h4>
+        <h4 class="text-center widget-title">Kategorien</h4>
         {{- if isset .Site.Taxonomies "categories" }}
         {{- if not (eq (len .Site.Taxonomies.categories) 0) }}
         <ul class="list-unstyled">
