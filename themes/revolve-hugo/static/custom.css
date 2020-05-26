@@ -3,4 +3,10 @@
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
+    background-color: rgb(2,139,255);
+}
+
+.navigation .menu li a{
+    color: wheat;
+    mix-blend-mode: screen;
 }

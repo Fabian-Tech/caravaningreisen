@@ -25,17 +25,17 @@ weight = 4
 home = ["HTML", "AMP", "RSS", "JSON"]
 [params]
 contactFormAction = "#"
-copyright = "@2019 [Themefisher](https://themefisher.com) All Rights Reserved"
-description = "This is meta description"
+copyright = "Ralph Binder Public Relations 2020"
+description = "Online-Magazin über Camping, Caravaning, Wohnwagen, Wohnmobile und Campingplätze"
 googleAnalitycsID = "Your ID"
-home = "Home"
+home = "Startseite"
 logo = "/images/200522_LogoSchirm_transparent.png"
 [params.author]
-bio = "I'm Liam, last year I decided to quit my job and travel the world. You can follow my journey on this blog!"
-designation = "Travel Blogger"
+bio = "Unsere Reiseberichte erzählen vom Camping- und Caravaning-Urlaub in Europas schönsten Reisezielen und von den besten Campingplätzen in den entsprechenden Regionen."
+designation = "Caravaning Reisen"
 image = "/images/author.jpg"
-name = "Liam Mason"
-signature = "/images/liammason.png"
+name = "Ralph Binder"
+signature = ""
 [params.newsletter]
 subtitle = "Subscribe my Newsletter for new blog posts , tips and info."
 title = "Subscribe Newsletter"
