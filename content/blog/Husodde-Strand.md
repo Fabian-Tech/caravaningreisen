@@ -4,7 +4,7 @@ subTitle: "Viel zu Entdecken"
 summary: "Husodde Strand Camping liegt an der Ostküste Jütlands ganz in der Nähe der Stadt Horsens. Obwohl die Fahrzeit zum Stadtzentrum im gemütlichen Fahrrad-Tempo lediglich 15 Minuten beträgt, befindet sich der Gast auf Husodde Strand Camping mitten in der Natur. Der familiäre Campingplatz liegt unmittelbar am Wasser des Horsens Fjord.}"
 
 # post thumb
-image: "110523_Husodde_0173_kl.jpg"
+image: "/images/items/110523_Husodde_0173_kl.jpg"
 
 # taxonomies
 categories: 

@@ -4,7 +4,7 @@ subTitle: "Kultur statt Kohle"
 summary: "Touristen sollen nun Kohle bringen in eine Region, die bisher selbst Kohle gefördert hat. Im Ruhrgebiet ist der Strukturwandel vollzogen. Alte Zechen und Stahlwerke mutieren zu Monumenten der Montanindustrie. Wir waren in einem Reisemobil Made in Duisburg der Industriekultur auf der Spur. Glück auf, Glück auf! Der Steiger kommt, und er hat sein helles Licht bei der Nacht,}"
 
 # post thumb
-image: "100323_RB_Ruhr_06_kl.jpg"
+image: "/images/items/100323_RB_Ruhr_06_kl.jpg"
 
 # taxonomies
 categories: 

@@ -4,7 +4,7 @@ subTitle: "Kamele, Dünen und großes Kino  "
 summary: "In Erfoud, einem der Tore zur Sahara, wird in den zahlreichen Schleifer-Werkstätten für fossile Steine deutlich, dass die Wüste einst Meeresboden war. Vorbei an einem Geysir mit eisenhaltigem Wasser führt der Wegdurch die Dünen, in denen die Reste eines urzeitlichen Riffs den fossilen Rohstoff für die Schleifer-Werkstätten liefern. Der weitere Streckenverlauf ist nicht ungefährlich: }"
 
 # post thumb
-image: "100925_RB_MarokT2_R2_001_kl.jpg"
+image: "/images/items/100925_RB_MarokT2_R2_001_kl.jpg"
 
 # taxonomies
 categories: 

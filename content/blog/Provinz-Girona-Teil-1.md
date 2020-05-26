@@ -4,7 +4,7 @@ subTitle: "Blumen und Vulkane"
 summary: "Eine Caravaningreise nach Katalonien hat viele Reize. Auch, oder vielleicht gerade abseits des Touristenmagneten Barcelona. Im Norden Kataloniens liegt die Provinz Girona. Touristisch hat sie viel zu bieten. Das Mittelmeer und die Pyrenäen sind die landschaftlich prägenden Elemente der Region. Die Ausläufer der Pyrenäen }"
 
 # post thumb
-image: "120523_Girona_kl.jpg"
+image: "/images/items/120523_Girona_kl.jpg"
 
 # taxonomies
 categories: 

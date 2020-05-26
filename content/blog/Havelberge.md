@@ -4,7 +4,7 @@ subTitle: "Abwechslungsreiches Naturerlebnis"
 summary: "Unweit von Neustrelitz mitten in der Natur der Mecklenburgischen Seenplatte liegt der Campingplatz Havelbergeunmittelbar am Woblitzsee. Die Anlage ist auf hügeligem Gelände gebaut. Der Weg zum Wohnwagen kann daher schon mal steil werden. Die Hügel teilen den großen Campingplatz jedoch in viele überschaubare Bereiche auf. Ob auf }"
 
 # post thumb
-image: "120630_HavelbTag2_0334_kl.jpg"
+image: "/images/items/120630_HavelbTag2_0334_kl.jpg"
 
 # taxonomies
 categories: 

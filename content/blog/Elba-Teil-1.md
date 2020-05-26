@@ -4,7 +4,7 @@ subTitle: "Napoleon, Strand und Eisenerz"
 summary: "Das große Angebot von Feriendörfern und Campingplätzen auf Elba kann dem Touristenansturm in der Hochsaison kaum gerecht werden. Ein Besuch im Sommer ist ohne frühzeitige Reservierung nicht ratsam. Wohnmobil-Reisende, die Elba in vollem Glanz erleben möchten, besuchen es am besten in der Vor- oder Nachsaison. }"
 
 # post thumb
-image: "130305_RB_Elba_Portoferraio_T1R1_002_kl.jpg"
+image: "/images/items/130305_RB_Elba_Portoferraio_T1R1_002_kl.jpg"
 
 # taxonomies
 categories: 

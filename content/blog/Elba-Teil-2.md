@@ -4,7 +4,7 @@ subTitle: "Strände und Bergbau"
 summary: "147 Kilometer Küste, bieten auf Elba den Besuchern eine farbenfrohe, abwechslungsreiche Badelandschaft. Von Sant‘Andrea aus zieht sich eine Panorama-Straße um die westlichen Ufer von Elba. Sie führt zu kleinen Orten mit intim anmutenden Badebuchten wie die von bizarren Klippen umgebene Contoncella Bucht. Die Felsen im Becken }"
 
 # post thumb
-image: "130306-RB-Elba-009-Marina-di-Campo_kl.jpg"
+image: "/images/items/130306-RB-Elba-009-Marina-di-Campo_kl.jpg"
 
 # taxonomies
 categories: 

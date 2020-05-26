@@ -4,7 +4,7 @@ subTitle: "Wikinger und Ingenieurskunst"
 summary: "Seeland ist die größte Ostseeinsel Dänemarks. Und zugleich die wichtigste. Schließlich liegt auf ihr die aktuelle Hauptstadt Dänemarks, Kopenhagen, und die ehemalige Hauptstadt, Roskilde. Kopenhagen werden wir im letzten Teil unserer Reise ausführlich besuchen. Roskilde ist allein des berühmten Domes wegen einen Besuch wert.}"
 
 # post thumb
-image: "110715_RB_SeelandHafen_kl.jpg"
+image: "/images/items/110715_RB_SeelandHafen_kl.jpg"
 
 # taxonomies
 categories: 

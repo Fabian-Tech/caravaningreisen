@@ -4,7 +4,7 @@ subTitle: "Entspannter Familienurlaub"
 summary: "Albatross Reisen ist spezialisiert auf Campingreisen in Europa. Der Reiseanbieter vermietet rund 1000 Unterkünfte in unterschiedlichen Varianten auf über 120 Campingplätze in 11 europäischen Ländern, von Italien über Kroatien und Spanien bis hin nach Deutschland. Gebucht wird im Internet und per Telefon. Die Anreise erfolgt }"
 
 # post thumb
-image: "120607_RA_Alba_Bardolino_kl.jpg"
+image: "/images/items/120607_RA_Alba_Bardolino_kl.jpg"
 
 # taxonomies
 categories: 

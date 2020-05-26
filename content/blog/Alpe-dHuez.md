@@ -4,7 +4,7 @@ subTitle: "Mobil zur Tour"
 summary: "Das Wohnmobil ist das ideale Vehikel, um die Tour de France hautnah zu erleben. Noch intensiver ist nur der Selbstversuch: Allein auf dem Rad nach Alpe d’Huez! Der Campingplatz La Piscine in Bourg d’Oisans bietet dafür das ideale Basislager. Die Verbindung von Fahrrad und Caravaning hat Tradition. Auch der Amerikaner Gary Fisher, }"
 
 # post thumb
-image: "100408_RB_Alpe_07_kl.jpg"
+image: "/images/items/100408_RB_Alpe_07_kl.jpg"
 
 # taxonomies
 categories: 

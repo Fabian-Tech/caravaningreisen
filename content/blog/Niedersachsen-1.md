@@ -4,7 +4,7 @@ subTitle: "Goslar, Harz und Yukon Bay"
 summary: "Niedersachsen hat enorm viel zu bieten: Ostfriesland, das Land hinter dem Deich. Osnabrück, die Stadt des Westfälischen Friedens. Der Harz, das Gebirge Niedersachsens. Die Lüneburger Heide und das „Nasse Dreieck“ zwischen Elbe- und Wesermündung, von Mooren durchzogen, mit der Künstlerkolonie Worpswede.}"
 
 # post thumb
-image: "100908_Goslar_034_kl.jpg"
+image: "/images/items/100908_Goslar_034_kl.jpg"
 
 # taxonomies
 categories: 

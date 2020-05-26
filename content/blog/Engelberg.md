@@ -4,7 +4,7 @@ subTitle: "Schweizer Charme im Schnee"
 summary: "Engelberg am Titlis hat sich vom stillen Klosterdorf zur Skiarena für die ganze Familie gewandelt. Anfänger, Könner, Freestyler – hier wird jeder glücklich. Wintercamper sind im Camping Eienwäldli perfekt aufgehoben. „Stiebender Pulverschnee. Eine rasante Abfahrt inmitten einer herrlichen Bergwelt.}"
 
 # post thumb
-image: "110207_RB_Engel_14_kl.jpg"
+image: "/images/items/110207_RB_Engel_14_kl.jpg"
 
 # taxonomies
 categories: 

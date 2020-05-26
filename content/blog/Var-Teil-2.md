@@ -4,7 +4,7 @@ subTitle: "Bergdörfer, Kunst und Küste"
 summary: "Die Dracenie, die bergige Region rund um Draguignan, zieht sich von der Maures-Ebene bis an die Gorges du Verdon und besteht aus zahlreichen Bergdörfern. Sie schmiegen sich an die Hügel oder thronen auf einem Berg mit weitem Ausblick in die Region. Neben der Landwirtschaft, die vor allem Blumen, Obst, Gemüse, Käse,}"
 
 # post thumb
-image: "110515_RB_Var2_R2_014_kl.jpg"
+image: "/images/items/110515_RB_Var2_R2_014_kl.jpg"
 
 # taxonomies
 categories: 

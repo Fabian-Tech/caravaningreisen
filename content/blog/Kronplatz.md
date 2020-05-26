@@ -4,7 +4,7 @@ subTitle: "Pistenspaß am Kronplatz"
 summary: "Nachsaison. Das klingt ein bisschen nach Torschlusspanik. Oder nach Schnäppchenjagd. Bloß noch schnell weg und ein Stückchen Urlaub ergattern, auch wenn es nicht mehr das Beste ist. Hauptsache günstig. Manche Nachsaison-Urlauber mögen von diesen Gedanken beseelt sein, den Kern des Themas trifft es aber nicht.}"
 
 # post thumb
-image: "110406_RB_Kron_01_kl.jpg"
+image: "/images/items/110406_RB_Kron_01_kl.jpg"
 
 # taxonomies
 categories: 

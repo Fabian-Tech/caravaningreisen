@@ -4,7 +4,7 @@ subTitle: "Weißwein in den Dünen"
 summary: "Aabo Camping Vandland ist ein vier Sterne-Platz im Norden Dänemarks neben dem kleinen Örtchen Tversted. Hirtshals, der Fährhafen nach Norwegen, liegt nur wenige Kilometer entfernt. Aaabo Camping bietet sich daher auch als Etappenziel auf dem Weg nach Norwegen an. Aber der Platz ist zu schön, um gleich wieder weiterzufahren.}"
 
 # post thumb
-image: "110712_Aabo_R2_009_kl.jpg"
+image: "/images/items/110712_Aabo_R2_009_kl.jpg"
 
 # taxonomies
 categories: 

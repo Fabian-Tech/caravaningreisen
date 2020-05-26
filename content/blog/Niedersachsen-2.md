@@ -4,7 +4,7 @@ subTitle: "Schnucken, Spaß und Schöngeist"
 summary: "Streng genommen ist die Lüneburger Heide eine einmalige Landschaft zwischen den Metropolen Hamburg, Bremen und Hannover. Als touristische Region Lüneburger Heide werden jedoch nur die Landkreise Harburg, Celle, Lüneburg, Uelzen und Soltau-Fallingbostel zusammengefasst. Die Heideblüte im August }"
 
 # post thumb
-image: "100910_RB_Nied_Luen_01_kl.jpg"
+image: "/images/items/100910_RB_Nied_Luen_01_kl.jpg"
 
 # taxonomies
 categories: 

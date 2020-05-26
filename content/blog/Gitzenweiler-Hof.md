@@ -4,7 +4,7 @@ subTitle: "Immer was los am Bodensee"
 summary: "Der Campingplatz Gitzenweiler Hof liegt nur wenige Kilometer vor Lindau in der wunderschönen Bodenseeregion. Der Platz ist eine feste Größe in der deutschen und europäischen Campinglandschaft. Bekannt ist der Gitzenweiler Hof für die zahlreichen Veranstaltungen, seine Naturverbundenheit und familienfreundliche Atmosphäre.}"
 
 # post thumb
-image: "120909_CP_Gitz_Zeltwiese_kl.jpg"
+image: "/images/items/120909_CP_Gitz_Zeltwiese_kl.jpg"
 
 # taxonomies
 categories: 

@@ -4,7 +4,7 @@ subTitle: "Erlebniszentrum im Osnabrücker Land"
 summary: "Der Ferien- und Erholungspark Alfsee ist ein Erlebniszentrum für jung und alt! Die kleinen Gäste können ein umfangreiches und aufregendes Animationsprogramm erleben. Erwachsene amüsieren sich beim Sport oder den organisierten Spieleabenden, bei Ausflügen oder Open Air Konzerten. Die 750 Stellplätze mit moderner, komfortabler}"
 
 # post thumb
-image: "110820_Alfsee_WaSkiProf_kl.jpg"
+image: "/images/items/110820_Alfsee_WaSkiProf_kl.jpg"
 
 # taxonomies
 categories: 
