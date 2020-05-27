@@ -1,4 +1,4 @@
-baseURL = ""
+baseURL = "/"
 disqusShortname = "revolve"
 languageCode = "de-de"
 paginate = 8
