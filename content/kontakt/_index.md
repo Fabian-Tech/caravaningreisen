@@ -1,13 +1,8 @@
 ---
-title: "Contact Me"
-date: 2019-10-29T13:49:23+06:00
-draft: false
-
-# meta description
-description: "this is meta description"
-
-# image
+title: Kontaktieren Sie uns
+date: 2019-10-29T07:49:23.000+00:00
+description: Online-Magazin über Camping, Caravaning, Wohnwagen, Wohnmobile und Campingplätze
 image: "/images/contact.jpg"
----
 
-Something splashing about in the pool a little way off, and she swam nearer to make out what it was: at first she thought it must be a walrus or hippopotamus, but then she remembered how small she was now, and she soon made out that it was only a mouse that had slipped in like herself.
+---
+Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
