@@ -33,7 +33,7 @@ logo = "/images/200522_LogoSchirm_transparent.png"
 [params.author]
 bio = "Unsere Reiseberichte erzählen vom Camping- und Caravaning-Urlaub in Europas schönsten Reisezielen und von den besten Campingplätzen in den entsprechenden Regionen."
 designation = "Caravaning Reisen"
-image = "/images/author.jpg"
+image = "/images/author.png"
 name = "Ralph Binder"
 signature = ""
 [params.newsletter]

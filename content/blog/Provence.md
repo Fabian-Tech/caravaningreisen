@@ -6,7 +6,7 @@ date = ""
 draft = false
 
 # post thumb
-image = "http://caravaningreisen.de/Portals/caravaning/Images/Items/180129-Provence-001-Landschaft-kl.jpg"
+image = "http://caravaningreisen.de/Portals/caravaning/Images/Items/180129-Provence-001-Landschaft.jpg"
 
 # post type
 type = "featured"
