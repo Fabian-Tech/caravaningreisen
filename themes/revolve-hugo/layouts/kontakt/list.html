@@ -13,9 +13,9 @@
     <div class="row justify-content-center">
       <div class="col-lg-8">
         <div class="mt-5 mb-5 content-wrapper">{{ .Content }}</div>
+        {{ if .Site.Params.contactFormEnabled }}
 
         <h2 class="mb-4">Kontaktieren Sie uns</h2>
-
         <form id="contact-form" class="contact-form" action="{{ .Site.Params.contactFormAction | safeURL }}" method="POST">
           <div class="row">
             <div class="col-md-12">
@@ -40,6 +40,7 @@
             </div>
           </div>
         </form>
+        {{ end }}
       </div>
     </div>
   </div>

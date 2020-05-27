@@ -1,5 +1,5 @@
 ---
-title: Kontaktieren Sie uns
+title: Kontakt
 date: 2019-10-29T07:49:23.000+00:00
 description: Online-Magazin über Camping, Caravaning, Wohnwagen, Wohnmobile und Campingplätze
 image: "/images/contact.jpg"

@@ -31,6 +31,7 @@ weight = 4
 home = ["HTML", "AMP", "RSS", "JSON"]
 [params]
 contactFormAction = "#"
+contactFormEnabled = false
 copyright = "Ralph Binder Public Relations 2020"
 description = "Online-Magazin über Camping, Caravaning, Wohnwagen, Wohnmobile und Campingplätze"
 googleAnalitycsID = "Your ID"
