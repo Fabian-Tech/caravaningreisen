@@ -9,16 +9,12 @@ smallBlock1Content: Unsere Reiseberichte erzählen vom Camping- und Caravaning-U
   Regionen. In unseren Fahrzeugvorstellungen präsentieren wir Ihnen Wohnwagen und
   Wohnmobile mit Videos, Fotos, Texten und Kennzahlen und erläutern die verschiedenen
   Fahrzeugkategorien, wie etwa Kastenwagen-Wohnmobile oder Familienwohnwagen.
-smallBlock2Title: Alle wichtigen Infos rund um Campingreisen und Campingfahrzeuge
-smallBlock2Content: Unsere Nachrichten informieren über die wichtigsten Messen, wie
-  etwa den Caravan Salon Düsseldorf, die CMT Stuttgart, die Free München oder die
-  Reise Camping Essen. Nützliche Praxistipps geben Einsteigern erste Unterstützung
-  beim Umgang mit ihrem Freizeitfahrzeug und den nötigen Vorbereitungen für einen
-  Kauf, die Miete oder den nächsten Urlaub. Wenn Sie sich zu bestimmten Fahrzeugtypen
-  aus dem Bereich Caravaning informieren möchten, wie beispielsweise über Allrad-Wohnmobile
-  oder teilintegrierte Wohnmobile, ist dies in unserem Magazin ebenfalls bestens möglich.
-  Der Serviceteil unseres Onlineportals enthält Suchmaschinen für Fachhändler und
-  Campingplätze sowie eine Buchungsmaschine für Campingplätze.
+smallBlock2Title: Weitere infos
+smallBlock2Content: Nam liber tempor cum soluta nobis eleifend option congue nihil
+  imperdiet doming id quod mazim placerat facer possim assum. Lorem ipsum dolor sit
+  amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet
+  dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci
+  tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.
 
 ---
 ### Wohnwagen, Wohnmobile und Campingbusse – wir geben praktische Tipps
