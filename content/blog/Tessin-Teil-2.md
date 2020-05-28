@@ -7,7 +7,7 @@ summary: |
  Das Tessin hat eine wechselvolle Geschichte hinter sich. Im Mittelalter gehörte das Tessin zum Herzogtum Mailand. Nach der Gründung der Eidgenossenschaft der Kantone Uri, Schwyz und Unterwalden wurde das Tessin bald zum Gegenstand eines Machtkampfes zwischen Mailand und den Eidgenossen. Im Jahr 1500 setzen sich die Schweizer durch
 
 # post thumb
-image: '/images/items/110914_RB_TessT2_R1_03_kl.jpg'
+image: '/images/items/110914_RB_TessT2_R1_03.jpg'
 
 # taxonomies
 categories: 

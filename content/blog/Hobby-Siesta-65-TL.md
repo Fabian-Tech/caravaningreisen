@@ -7,7 +7,7 @@ summary: |
  Hobby startete im Sommer eine Neuauflage der Teilintegriertenserie Siesta, die jetzt aus drei Modellen besteht. Prompt entwickelte sich die derzeit günstigste Baureihe von Hobby zum Bestseller. Der Profitest der Zeitschrift Reisemobil International klärt, welche Stärken und Schwächen das teilintegrierte Wohnmobil Hobby Siesta 65 TL besitzt. 
 
 # post thumb
-image: '/images/items/120123_WM_HobSiest65TL_a_kl.jpg'
+image: '/images/items/120123_WM_HobSiest65TL_a.jpg'
 
 # taxonomies
 categories: 

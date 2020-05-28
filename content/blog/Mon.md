@@ -7,7 +7,7 @@ summary: |
  Møn ist eine der kleineren Inseln Dänemarks. Das kleine Eiland in der Dänischen Südsee hat jedoch einen großen Namen, dank der spektakulären Kreidefelsen von Møns Klint. Entstanden sind sie vor 20.000 Jahren, als zurückgehendes Gletschereis die Kreide aus dem Boden hob. Das Fundament tritt nur an wenigen Stellen aus der Erde hervor,
 
 # post thumb
-image: '/images/items/110715_RB_Moen_KlippenSegel_kl.jpg'
+image: '/images/items/110715_RB_Moen_KlippenSegel.jpg'
 
 # taxonomies
 categories: 

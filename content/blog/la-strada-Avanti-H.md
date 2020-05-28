@@ -7,7 +7,7 @@ summary: |
  Das Wohnmobil la strada Avanti H bringt auf kleinem Raum viel Wohnkomfort für zwei Reisende unter. Das Kastenwagen-Wohnmobil aus der hessischen Manufaktur verfügt über ein großes Hubbett und ein geräumiges Heckbad und hat auch sonst viele durchdachte Lösungen zu bieten. 
 
 # post thumb
-image: '/images/items/170606-01-lastrada-Avanti-H-a-kl.jpg'
+image: '/images/items/170606-01-lastrada-Avanti-H-a.jpg'
 
 # taxonomies
 categories: 

@@ -7,7 +7,7 @@ summary: |
  Mit den Modellen 350 TB, 380 TB, 400 SFe und 420 KB gibt es in der De Luxe Baureihe des Wohnwagenherstellers Hobby gleich vier neue Grundrissvarianten, die sich bereits mit Zugwagen der Golf-Klasse kombinieren lassen. Der kleinste der Leichtgewichte, De Luxe 350 TB, steht ab knapp unter 12.000 Euro beim Händler.
 
 # post thumb
-image: '/images/items/100920_WW_DeLuxe350TB_a_kl.jpg'
+image: '/images/items/100920_WW_DeLuxe350TB_a.jpg'
 
 # taxonomies
 categories: 

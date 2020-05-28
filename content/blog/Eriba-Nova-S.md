@@ -7,7 +7,7 @@ summary: |
  Der Wohnwagen Eriba Nova S ist das neue Spitzenmodell aus dem Hause Hymer. Der Luxuscaravan zeigt sich außen mit komplett neuem Gesicht, innen stehen drei unterschiedliche Grundrisse zur Wahl. Der winterfeste Wohnwagen Eriba Nova S wartet ab Juni bei den Händlern auf anspruchsvolle Käufer.
 
 # post thumb
-image: '/images/items/160512-Eriba-Nova-S-a-kl.jpg'
+image: '/images/items/160512-Eriba-Nova-S-a.jpg'
 
 # taxonomies
 categories: 

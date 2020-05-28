@@ -7,7 +7,7 @@ summary: |
  Die Nova-Baureihe von Hymer ist seit Jahrzehnten eine feste Größe in der Wohnwagen-Oberklasse. Im Profitest der Fachzeitschrift Camping, Cars & Caravans muss der aktuelle Sprössling Nova 545 dem großen Namen seiner Abstammung gerecht werden. Der Nova 545 vereint alle Neuerungen der Baureihe in einem komfortablen Grundriss bei 
 
 # post thumb
-image: '/images/items/120604_WW_HymNov545_a_kl.jpg'
+image: '/images/items/120604_WW_HymNov545_a.jpg'
 
 # taxonomies
 categories: 

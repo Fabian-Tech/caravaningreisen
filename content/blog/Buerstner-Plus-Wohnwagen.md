@@ -7,7 +7,7 @@ summary: |
  Bürstner ist der Profi in Sachen Hubbett. Auch bei den Plus Wohnwagen des Herstellers hat sich dieses innovative und platzsparende Konzept durchgesetzt. Es ermöglicht eine geringere Aufbaulänge bei zugleich üppigem Wohnraum. Wir haben uns den Bürstner Premio plus 510 TK und den Bürstner Averso plus 500 TS näher angeschaut.
 
 # post thumb
-image: '/images/items/160708-Buerstner-Plus-Wohnwagen-a1-kl.jpg'
+image: '/images/items/160708-Buerstner-Plus-Wohnwagen-a1.jpg'
 
 # taxonomies
 categories: 

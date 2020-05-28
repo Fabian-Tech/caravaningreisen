@@ -7,7 +7,7 @@ summary: |
  Mit dem Premium hat Hobby auf dem Caravan Salon 2011 das Design der Luxusklasse in die Großserienmodelle übernommen. Das elegante und moderne Äußere des Premium wird im Innenraum des 495 UL durch die zurückhaltende, klare Möbelgestaltung ergänzt. Der Einstiegspreis von knapp unter 20.000 Euro ist eine deutliche Ansage 
 
 # post thumb
-image: '/images/items/121025_WW_HobPrem495UL_a_kl.jpg'
+image: '/images/items/121025_WW_HobPrem495UL_a.jpg'
 
 # taxonomies
 categories: 

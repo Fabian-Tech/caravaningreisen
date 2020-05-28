@@ -7,7 +7,7 @@ summary: |
  Das Wohnmobil Dethleffs Esprit kommt in der neuen Saison grundlegend überarbeitet auf den Markt. Mit Qualität, Haltbarkeit und interessanten neuen Details will die gehobene Mittelklasse erobert werden. Die Profis der Fachzeitschrift Reisemobil International haben den Neuling Dethleffs Esprit T 7150-2 DBT ausprobiert.
 
 # post thumb
-image: '/images/items/151001-Dethleffs-Esprit-T-7150-2DBT-a-qu-kl.jpg'
+image: '/images/items/151001-Dethleffs-Esprit-T-7150-2DBT-a-qu.jpg'
 
 # taxonomies
 categories: 

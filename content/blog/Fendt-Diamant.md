@@ -7,7 +7,7 @@ summary: |
  Der Diamant des Modelljahres 2012 erfuhr die größte Änderungen im ganzen Fendt-Caravan-Programm. Das komplett neue Modellprogramm des Diamant umfasst vier Grundrisse für Paare: 495 SFB, 550 SG, 560 SG, 650 SGD. Der Anspruch war nicht weniger, als außen wie innen die Messlatte in der Oberklasse neu zu setzen.
 
 # post thumb
-image: '/images/items/110622_WW_FenDia550_a_kl.jpg'
+image: '/images/items/110622_WW_FenDia550_a.jpg'
 
 # taxonomies
 categories: 

@@ -7,7 +7,7 @@ summary: |
  Das Wohnmobil Carthago C-Tourer Sport tritt mit leichterem Gewicht und gegenüber dem älteren C Tourer mit deutlich günstigerem Einstiegspreis an, um die Kunden zu überzeugen. Ob die Diät den Vollintegrierten attraktiver macht, zeigt der Profitest der Fachzeitschrift Reisemobil International.
 
 # post thumb
-image: '/images/items/150113-Carthago-C-Tourer-Sport-a-kl.jpg'
+image: '/images/items/150113-Carthago-C-Tourer-Sport-a.jpg'
 
 # taxonomies
 categories: 

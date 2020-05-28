@@ -7,7 +7,7 @@ summary: |
  Der Regent S ist la stradas kompaktes Kastenwagen-Reisemobil auf Basis des Mercedes-Benz Sprinter. Der Wohnraum des la strada Regent S ist für zwei Personen ausgelegt. la strada ergänzt die Ausstattung des Regent S um einen zuschaltbaren Allradantrieb, basierend auf dem Elektronischen Traktions-System 4ETS von Mercedes-Benz.
 
 # post thumb
-image: '/images/items/150915-la-strada-Regent-S-Allrad-0034-kl.jpg'
+image: '/images/items/150915-la-strada-Regent-S-Allrad-0034.jpg'
 
 # taxonomies
 categories: 

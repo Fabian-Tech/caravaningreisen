@@ -7,7 +7,7 @@ summary: |
  Bei Wilk heißen die Baureihen seit neuestem Vida, Sento und Eterno. Mit dem Eterno möchte die Traditionsmarke einen Wohnwagen der Premiumklasse anbieten, der mit Einstiegspreisen zwischen 23.000 und 25.000 Euro für diese Liga recht günstig ist. Im Profitest der Zeitschrift Camping, Cars & Caravans tritt der Wilk Eterno 590 UE an.
 
 # post thumb
-image: '/images/items/120302_WW_WilkEtern590UE_a_kl.jpg'
+image: '/images/items/120302_WW_WilkEtern590UE_a.jpg'
 
 # taxonomies
 categories: 

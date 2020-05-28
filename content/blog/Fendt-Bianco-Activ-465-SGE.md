@@ -7,7 +7,7 @@ summary: |
  Mit dem Wohnwagen Fendt Bianco Activ will Fendt das Reise-Camping neu definieren. Das Modell 465 SGE soll dafür den Beweis antreten. Der Paarwohnwagen Fendt Bianco Activ 465 SGE stellt sich dafür dem Profitest der Fachzeitschrift Camping, Cars & Caravans.
 
 # post thumb
-image: '/images/items/160920-Fendt-Bianco-Activ-465-SGE-a-kl.jpg'
+image: '/images/items/160920-Fendt-Bianco-Activ-465-SGE-a.jpg'
 
 # taxonomies
 categories: 

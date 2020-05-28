@@ -7,7 +7,7 @@ summary: |
  Beim Wohnmobil Dethleffs Globebus ist außer dem Namen nichts mehr beim Alten: Der Teilintegrierte wurde von Grund auf überarbeitet und um einige Details ergänzt. Die Profis der Fachzeitschrift Reisemobil International haben sich den Dethleffs Globebus T6 GT genauer angesehen. 
 
 # post thumb
-image: '/images/items/160914-Dethleffs-Globebus-T6-GT-a-kl.jpg'
+image: '/images/items/160914-Dethleffs-Globebus-T6-GT-a.jpg'
 
 # taxonomies
 categories: 

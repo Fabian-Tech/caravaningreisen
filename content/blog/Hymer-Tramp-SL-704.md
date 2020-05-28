@@ -7,7 +7,7 @@ summary: |
  Das Wohnmobil Hymer Tramp SL 704 erweitert als wintertaugliche Variante die Baureihe Tramp. Dabei überrascht der Teilintegrierte mit einer unkonventionellen Konstruktion des beheizten Doppelbodens. Was den Hymer Tramp SL 704 außerdem ausmacht, testen die Profis der Fachzeitschrift Reisemobil International.
 
 # post thumb
-image: '/images/items/150204-Hymer-Tramp-SL-704-a-kl.jpg'
+image: '/images/items/150204-Hymer-Tramp-SL-704-a.jpg'
 
 # taxonomies
 categories: 

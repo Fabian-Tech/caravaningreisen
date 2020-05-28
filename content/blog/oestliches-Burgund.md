@@ -7,7 +7,7 @@ summary: |
  Das Burgund hat viele Facetten. Sanfte hügelige Landschaft, bewegte Geschichte, unzählige kleine Schlösser und Burgen, gute landwirtschaftliche Produkte wie Fleisch, Käse und Senf. Ein Produkt sticht jedoch hervor wie kein zweites: Der Burgunder Wein.
 
 # post thumb
-image: '/images/items/130705_RB_Burgund_T1R1_005_kl.jpg'
+image: '/images/items/130705_RB_Burgund_T1R1_005.jpg'
 
 # taxonomies
 categories: 

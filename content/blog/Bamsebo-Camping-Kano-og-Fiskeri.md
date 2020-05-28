@@ -7,7 +7,7 @@ summary: |
  Der dänische Campingplatz Bamsebo Camping Kano og Fiskeri liegt mitten in Jütland zwischen den Städten Aarhus und Viborg. Direkt am Fluss Gudena ist er ideal geeignet für Kanutouren und gemütliche Angeltage. Bamsebo heißt übrigens auf Dänisch „Teddybär“. Das erklärt auch die beiden Bären im Logo des Platzes.
 
 # post thumb
-image: '/images/items/161206-Bamsebo-Camping-001-kl.jpg'
+image: '/images/items/161206-Bamsebo-Camping-001.jpg'
 
 # taxonomies
 categories: 

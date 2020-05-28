@@ -7,7 +7,7 @@ summary: |
  Der Wohnwagen Tabbert Vivaldi ist ein seit Jahren bewährter und unveränderter Mittelklasse-Caravan. Nun stattet Tabbert den Vivaldi mit einem Luxus-Paket aus, das ihn deutlich aufwertet. Ist er immer noch so meisterlich mit einem Komfort und Wohngefühl, wie es manches Hotel nicht bietet? Das testen die Profis von Camping, Cars & Caravans.
 
 # post thumb
-image: '/images/items/170118-Tabbert-Vivaldi-560-E-a-kl.jpg'
+image: '/images/items/170118-Tabbert-Vivaldi-560-E-a.jpg'
 
 # taxonomies
 categories: 

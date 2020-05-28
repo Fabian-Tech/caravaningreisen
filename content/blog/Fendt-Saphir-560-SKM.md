@@ -7,7 +7,7 @@ summary: |
  Der Wohnwagen Fendt Saphir kommt aus der Einsteiger-Reihe des süddeutschen Herstellers. Für die neue Saison wurde die Baureihe nun runderneuert. Das Modell Fendt Saphir 560 SKM ist mit Etagenbett und Duschbad auf reisende Familien ausgerichtet. Die Profis von Camping, Cars & Caravans testen die Neuerungen.
 
 # post thumb
-image: '/images/items/181008-Fendt-Saphir-560-SKM-a-kl.jpg'
+image: '/images/items/181008-Fendt-Saphir-560-SKM-a.jpg'
 
 # taxonomies
 categories: 

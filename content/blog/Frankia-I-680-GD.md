@@ -7,7 +7,7 @@ summary: |
  Das Wohnmobil Frankia I 680 GD hat eine klare Zielgruppe: Reisefreudige Paare, die Wert auf hochwertigen Möbelbau und einen langlebigen Aufbau legen. Der Profitest der Fachzeitschrift Reisemobil International untersucht, ob der Vollintegrierte diesem Anspruch gerecht wird.
 
 # post thumb
-image: '/images/items/140507-Frankia-I-680-GD-a-kl.jpg'
+image: '/images/items/140507-Frankia-I-680-GD-a.jpg'
 
 # taxonomies
 categories: 

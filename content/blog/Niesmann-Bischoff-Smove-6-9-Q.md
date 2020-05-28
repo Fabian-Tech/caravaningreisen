@@ -7,7 +7,7 @@ summary: |
  Das Wohnmobil Niesmann+Bischoff Smove zeigt, dass Luxus im Reisemobil keine Frage der Größe sein muss. Bei dem Teilintegrierten finden sich teilweise sogar Merkmale eines Liners. Wie der Niesmann+Bischoff Smove 6.9 Q ankommt, zeigt sich im Profitest der Fachzeitschrift Reisemobil International. 
 
 # post thumb
-image: '/images/items/170213-Niesmann-Bischoff-Smove-6-9-Q-a-kl.jpg'
+image: '/images/items/170213-Niesmann-Bischoff-Smove-6-9-Q-a.jpg'
 
 # taxonomies
 categories: 

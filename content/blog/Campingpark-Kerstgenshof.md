@@ -7,7 +7,7 @@ summary: |
  Am Niederrhein, nicht weit von Xanten, liegt der Campingpark Kerstgenshof. Der Platz gehört zu einem Bauernhof, auf dem auch die edlen Limousin-Rinder gezüchtet werden, und zählt mit 84 Standplätzen zu den kleinen Campingplätzen. Doch Qualität und Service werden auf dem familiären Platz groß geschrieben.
 
 # post thumb
-image: '/images/items/160613-Campingpark-Kerstgenshof-0001_kl.jpg'
+image: '/images/items/160613-Campingpark-Kerstgenshof-0001.jpg'
 
 # taxonomies
 categories: 

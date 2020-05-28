@@ -7,7 +7,7 @@ summary: |
  Der aktuelle Ford Transit kämpft in derselben Gewichtsklasse wie der Ducato und seine französischen Verwandten von Peugeot und Citroen. Ende 2013 wird der aktuelle Ford Transit von seinem Nachfolger abgelöst. Um möglichst viele Varianten zu ermöglichen und damit einen möglichst breiten Kundenkreis anzusprechen, 
 
 # post thumb
-image: '/images/items/130204-BF-Ford-Transit-neuFront_kl.jpg'
+image: '/images/items/130204-BF-Ford-Transit-neuFront.jpg'
 
 # taxonomies
 categories: 

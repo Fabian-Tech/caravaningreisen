@@ -7,7 +7,7 @@ summary: |
  Der Zusatz „Exclusive“ kennzeichnet die edlere Variante der Knaus Südwind Wohnwagen. Acht Grundrisse sollen den Südwind in Richtung Oberklasse wehen. Ein auf den zweiten Blick etwas spezieller Grundriss aus der Südwind Exclusive Baureihe hat den Weg in den Profitest der Fachzeitschrift Camping, Cars & Caravans gefunden. Der Knaus
 
 # post thumb
-image: '/images/items/110622_WW_KnaSueEcl580UE_a_kl.jpg'
+image: '/images/items/110622_WW_KnaSueEcl580UE_a.jpg'
 
 # taxonomies
 categories: 

@@ -7,7 +7,7 @@ summary: |
  Der Wohnwagen LMC Maestro wartet in der Saison 2014 mit einer neuen Aufbau-Technologie auf: Der Oberklassen-Caravan für Paare setzt auf Langlebigkeit und will auch mit der Innenausstattung glänzen. Ob das gelingt, zeigt der Profitest der Fachzeitschrift Camping, Cars & Caravans.
 
 # post thumb
-image: '/images/items/140528-LMC-Maestro-510-E-a-kl.jpg'
+image: '/images/items/140528-LMC-Maestro-510-E-a.jpg'
 
 # taxonomies
 categories: 

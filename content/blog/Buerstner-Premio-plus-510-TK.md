@@ -7,7 +7,7 @@ summary: |
  Ein praktischer Familienwohnwagen für Einsteiger, das ist der Bürstner Premio plus 510 TK. Der Neuling erhält eine umfangreiche Serienausstattung und einen Leichtbauboden aus GfK. Seine 1500 Kilo Gesamtgewicht lassen sich auch von kleineren Familienwagen ziehen.
 
 # post thumb
-image: '/images/items/141031-Premio-plus-510-TK-a3-kl.jpg'
+image: '/images/items/141031-Premio-plus-510-TK-a3.jpg'
 
 # taxonomies
 categories: 

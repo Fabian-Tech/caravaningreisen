@@ -7,7 +7,7 @@ summary: |
  Der Wohnwagen Carado C geht zurück zu den Wurzeln: Der Einsteiger-Caravan ist sehr günstig zu haben und mit allem ausgestattet, was zum Camping nötig ist. Auf jeglichen Kosten steigernden Luxus wird verzichtet. Ob das Konzept des Carado C aufgeht, zeigt sich im Profitest der Fachzeitschrift Camping, Cars & Caravans.
 
 # post thumb
-image: '/images/items/150730-Carado-C-167-L-a-kl.jpg'
+image: '/images/items/150730-Carado-C-167-L-a.jpg'
 
 # taxonomies
 categories: 

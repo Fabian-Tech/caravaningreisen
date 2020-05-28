@@ -7,7 +7,7 @@ summary: |
  Er ist der jüngste und der günstigste Carthago-Spross: Carthago C-Tourer T 143. Mit zwei Längsbetten im Heck möchte das teilintegrierte Wohnmobil zwei Personen den bei Carthago üblichen Mix aus Komfort und Qualität bieten. Als Listenpreis für den C-Tourer rufen die Schmalegger 58.250 Euro auf, vermerken aber auf der Preisliste:
 
 # post thumb
-image: '/images/items/111118_WM_CarthCTourT143_a_kl.jpg'
+image: '/images/items/111118_WM_CarthCTourT143_a.jpg'
 
 # taxonomies
 categories: 

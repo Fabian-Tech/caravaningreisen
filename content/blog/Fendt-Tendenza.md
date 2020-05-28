@@ -7,7 +7,7 @@ summary: |
  Mit dem Tendenza zeigte die Fendt Caravan GmbH in der Saison 2011 Mut zu mehr Farbe im Innenraum. Das fand auf Anhieb so viele Freunde, dass Fendt in dieser Saison gleich drei neue Grundrisse als Ergänzung im Tendenza-Programm aufnahm. Die auffallendste Besonderheit ist die Raumgestaltung, die sich vom übrigen Fendt Programm 
 
 # post thumb
-image: '/images/items/110622_WW_FeTend465_a2_kl.jpg'
+image: '/images/items/110622_WW_FeTend465_a2.jpg'
 
 # taxonomies
 categories: 

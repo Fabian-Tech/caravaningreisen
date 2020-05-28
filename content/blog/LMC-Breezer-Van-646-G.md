@@ -7,7 +7,7 @@ summary: |
  Das teilintegrierte Wohnmobil  LMC Breezer Van 646 G ist ein Leichtgewicht. Der Sassenberger Hersteller setzt konsequent auf Leichtbau und ermöglicht damit hohe Zuladung bei geringem Grundgewicht. Ob dabei auch die Qualität stimmt, zeigt der Profitest der Fachzeitschrift Reisemobil International.
 
 # post thumb
-image: '/images/items/140215-LMC-BreezerVan-a2_kl.jpg'
+image: '/images/items/140215-LMC-BreezerVan-a2.jpg'
 
 # taxonomies
 categories: 

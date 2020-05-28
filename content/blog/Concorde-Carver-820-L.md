@@ -7,7 +7,7 @@ summary: |
  Seit 2007 bis heute ist der Carver Concordes günstigster Integrierter mit Liner-Attributen wie erhöhtem Cockpit und modelliertem Armaturenbrett aus hellem GfK. Der Carver geht mit modernisiertem Mobiliar und neuem Grundriss in die Saison 2012. Der neue Concorde Carver 820 L im Profitest der Zeitschrift Reisemobil International.
 
 # post thumb
-image: '/images/items/111008_WM_ConCarv820L_a_kl.jpg'
+image: '/images/items/111008_WM_ConCarv820L_a.jpg'
 
 # taxonomies
 categories: 

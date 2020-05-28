@@ -7,7 +7,7 @@ summary: |
  Ertebölle Strand Camping ist ein kleiner familiär geführter Platz am Limfjord im oberen Drittel Jütlands. Der Platz liegt windgeschützt in einem der schönsten Naturgebiete von Himmerland. In einer entspannten Stimmung sollen sich auf Ertebölle Strand Camping sowohl die Gäste als auch deren vierbeinige Begleiter wohl fühlen.
 
 # post thumb
-image: '/images/items/160202-Erteboelle-Strand-Camping-012-kl.jpg'
+image: '/images/items/160202-Erteboelle-Strand-Camping-012.jpg'
 
 # taxonomies
 categories: 

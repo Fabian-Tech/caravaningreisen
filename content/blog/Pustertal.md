@@ -7,7 +7,7 @@ summary: |
  Südtirol ist schon seit langem ein beliebtes Urlaubsziel. Der Weg über den Brenner ist nicht weit. Das mediterrane Flair Italiens, gepaart mit der Gemütlichkeit der Alpenregion, gibt dem Land der Dolomiten eine besondere Attraktivität. Die Naturschönheit der Region hat auch für Caravaning-Urlauber ihren Reiz.
 
 # post thumb
-image: '/images/items/160216-Pustertal-020-kl.jpg'
+image: '/images/items/160216-Pustertal-020.jpg'
 
 # taxonomies
 categories: 

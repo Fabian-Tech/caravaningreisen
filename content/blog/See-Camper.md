@@ -7,7 +7,7 @@ summary: |
  Wer die Müritz einmal vom Wasser her erleben möchte, aber trotzdem auf den Komfort seines Wohnwagens oder Wohnmobils nicht verzichten will, der ist beim Seecamper richtig. Hier wird das eigene Freizeitfahrzeug auf einem schwimmenden Katamaran verzurrt – dem Seecamper. Dieser wird von einem Außenbordmotor
 
 # post thumb
-image: '/images/items/120629_Seec_Natur2_kl.jpg'
+image: '/images/items/120629_Seec_Natur2.jpg'
 
 # taxonomies
 categories: 

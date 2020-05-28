@@ -7,7 +7,7 @@ summary: |
  Die Integra Style Baureihe ist die zweithöchsten Fahrzeugklasse bei Eura Mobil. Der Grundriss des Integra Style 650 EB vereint eine für die Fahrzeugklasse noch überschaubare Gesamtlänge von 6,93m mit einem großzügigen Raumgefühl. Für einen hohen Schlafkomfort sorgen die Einzelbetten im Heck. Der IS 650 EB ist zu einem Preis ab rund 66.000 Euro erhältlich.
 
 # post thumb
-image: '/images/items/110221_WM_EuraIS650EB_a_kl.jpg'
+image: '/images/items/110221_WM_EuraIS650EB_a.jpg'
 
 # taxonomies
 categories: 

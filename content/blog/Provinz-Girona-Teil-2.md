@@ -7,7 +7,7 @@ summary: |
  Cap Creus ist einer der Orte, denen die Costa Brava, die wilde Küste, ihren Namen verdankt. Hier ist es wild. Die Pyrenäen fallen förmlich ins Mittelmeer und das hat daraus über die Jahrtausende eine der schönsten Küsten Spaniens geformt. Die oft heftigen Tramuntana Winde haben derweil den Felsen zum Teil bizarre Formen
 
 # post thumb
-image: '/images/items/130221_RB-Cap-Creus-T2R1-010_kl.jpg'
+image: '/images/items/130221_RB-Cap-Creus-T2R1-010.jpg'
 
 # taxonomies
 categories: 

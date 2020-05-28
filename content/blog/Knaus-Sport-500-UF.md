@@ -7,7 +7,7 @@ summary: |
  Der Wohnwagen Knaus Sport läuft schon sehr lange fast unverändert im Knaus-Programm. Mit 15 Grundrissen bietet der Caravan eine breite Auswahl. Im Profitest der Fachzeitschrift Camping, Cars & Caravans wird der Wohnwagen Knaus Sport 500 UF, ein Paarwohnwagen, unter die Lupe genommen. 
 
 # post thumb
-image: '/images/items/170525-Knaus-Sport-500-UF-a-kl.jpg'
+image: '/images/items/170525-Knaus-Sport-500-UF-a.jpg'
 
 # taxonomies
 categories: 

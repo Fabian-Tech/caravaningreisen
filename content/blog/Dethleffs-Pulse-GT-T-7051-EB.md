@@ -7,7 +7,7 @@ summary: |
  Das Wohnmobil Dethleffs Pulse verfügt dank neuer Konstruktion über einen neuartigen, ebenen Doppelboden, der ohne Podest unter der Sitzgruppe auskommt. Am Beispiel des teilintegrierten Modells Dethleffs Pulse GT 7051 ET haben sich die Profis von Reisemobil International die neue Lösung angesehen.
 
 # post thumb
-image: '/images/items/180813-Dethleffs-Pulse-GT-T-7051-EB-a-kl.jpg'
+image: '/images/items/180813-Dethleffs-Pulse-GT-T-7051-EB-a.jpg'
 
 # taxonomies
 categories: 

@@ -7,7 +7,7 @@ summary: |
  Dieser Winkel Deutschlands gehört zu den weltweit bekanntesten. Selbst japanische oder amerikanische Touristen, die sich für ganz Europa höchstens zwei Wochen Zeit nehmen, kommen hier vorbei: Füssen im Ostallgäu mit den Königsschlössern Hohenschwangau und Neuschwanstein. Beide Schlösser gehören zu 
 
 # post thumb
-image: '/images/items/100809_RB_Ostall_01_kl.jpg'
+image: '/images/items/100809_RB_Ostall_01.jpg'
 
 # taxonomies
 categories: 

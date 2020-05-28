@@ -7,7 +7,7 @@ summary: |
  Der Aviano auf Fiat Ducato ist ein Dauerbrenner im Wohnmobil-Programm von Bürstner. Dass der Hersteller aus Kehl nach wie vor auf den Aviano setzt, zeigen die zahlreichen Grundrisse der Baureihe. Im Profitest der Fachzeitschrift Reisemobil International tritt der Aviano i 709 an, um die Familienehre der Avianos zu verteidigen.
 
 # post thumb
-image: '/images/items/120214_WM_BuerAviaI709_a_kl.jpg'
+image: '/images/items/120214_WM_BuerAviaI709_a.jpg'
 
 # taxonomies
 categories: 

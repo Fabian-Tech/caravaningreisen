@@ -7,7 +7,7 @@ summary: |
  Das Wohnmobil Frankia T 72 FD-L Selection setzt beim Innenausbau erstmals komplett auf Balsaholz, um Gewicht einzusparen. Ob es dem Teilintegrierten gelingt, mit Leichtigkeit zu überzeugen, untersuchen die Profis der Fachzeitschrift Reisemobil International.
 
 # post thumb
-image: '/images/items/150420-Frankia-T-72-FD-L-Selection-a-kl.jpg'
+image: '/images/items/150420-Frankia-T-72-FD-L-Selection-a.jpg'
 
 # taxonomies
 categories: 

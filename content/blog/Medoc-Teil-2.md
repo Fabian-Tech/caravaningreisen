@@ -7,7 +7,7 @@ summary: |
  Vier Jahre vergingen, bis wir wieder ins Médoc kamen. Im Jahr 2012 wurde der Plan angepasst: Ein Familienwohnwagen Bürstner Averso Plus 440 TK hing an unserem la strada Avanti C Kastenwagen. Wir fuhren also mit Wohnmobil und Wohnwagen. Die Anreise erfolgte in nur zwei Etappen. Diesmal war das Ziel das Ziel.
 
 # post thumb
-image: '/images/items/130523-T2R2015-Blumenwiese-kl.jpg'
+image: '/images/items/130523-T2R2015-Blumenwiese.jpg'
 
 # taxonomies
 categories: 

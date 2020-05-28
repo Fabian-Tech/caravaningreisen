@@ -7,7 +7,7 @@ summary: |
  Der Wohnwagen Adria Adora erhielt für die neue Saison eine neue Gestaltung. Beim Familiencaravan aus Slowenien fällt das große Panoramadach im Bug sofort ins Auge. Welche Neuerungen der Adria Adora sonst noch mitbringt, prüfen die Tester der Fachzeitschrift Camping, Cars & Caravans.
 
 # post thumb
-image: '/images/items/150204-Adria-Adora-573-PT-a-kl.jpg'
+image: '/images/items/150204-Adria-Adora-573-PT-a.jpg'
 
 # taxonomies
 categories: 

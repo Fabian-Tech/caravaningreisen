@@ -7,7 +7,7 @@ summary: |
  Die Baureihe Averso plus verkörpert die gelungene Kombination eines kompakten Reisewohnwagens mit bis zu 7 Schlafplätzen. Möglich macht dies das Hubbett über der Sitzgruppe. Es schafft mehr Wohnraum auf kompakter Grundfläche. Der Familienwohnwagen Averso Plus 510 TK ist der grösste Vertreter dieser Baureihe.
 
 # post thumb
-image: '/images/items/130710-Buerstner-Averso-Plus-510-TK-015_kl.jpg'
+image: '/images/items/130710-Buerstner-Averso-Plus-510-TK-015.jpg'
 
 # taxonomies
 categories: 

@@ -7,7 +7,7 @@ summary: |
  An der Ostsee, direkt hinterm Deich, auf dem großzügig angelegten Feriencamp Börgerende findet der Camper eine Oase der Ruhe. Kein Streß, keine Hektik – sich fallen lassen und einfach Abschalten, Nichtstun und die gesunde Seeluft schnuppern. Wer mehr Programm möchte, kann das Campen an der Ostsee mit ausgedehnten Spaziergängen
 
 # post thumb
-image: '/images/items/131128-Camping-Boergerende-R1-006_kl.jpg'
+image: '/images/items/131128-Camping-Boergerende-R1-006.jpg'
 
 # taxonomies
 categories: 

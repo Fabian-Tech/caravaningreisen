@@ -7,7 +7,7 @@ summary: |
  Das Wohnmobil Weinsberg Cara Loft ist ein typisches Einstiegsmodell: Mit günstigem Basispreis und vergleichsweise einfacher Ausstattung spricht der Teilintegrierte Kunden mit schmalerem Geldbeutel an. Der Profitest der Fachzeitschrift Reisemobil International prüft, welche Qualitäten der Weinsberg Cara Loft mitbringt.
 
 # post thumb
-image: '/images/items/150817-Weinsberg-CaraLoft-600MF-a-kl.jpg'
+image: '/images/items/150817-Weinsberg-CaraLoft-600MF-a.jpg'
 
 # taxonomies
 categories: 

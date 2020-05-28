@@ -7,7 +7,7 @@ summary: |
  Der Wohnwagen LMC Maestro zählt zu den Oberklassen-Caravans. Mit dem LMC Maestro 522 K bieten die Sassenberger einen hochwertig ausgestatteten Wohnwagen mit Kinderzimmer an, eine Besonderheit in dieser Preisklasse. Die Profis von Camping, Cars & Caravans testen das Premium-Modell für Familien. 
 
 # post thumb
-image: '/images/items/180213-LMC-Maestro-522-K-a-kl.jpg'
+image: '/images/items/180213-LMC-Maestro-522-K-a.jpg'
 
 # taxonomies
 categories: 

@@ -7,7 +7,7 @@ summary: |
  Der Wohnwagen Sterckeman Evolution wendet sich an reisende Paare, die einen leichten und praktischen Caravan suchen. Der Franzose kommt optisch eher schlicht daher, will sich innen aber als Mittelklasse-Wohnwagen präsentieren. Camping, Cars & Caravans nimmt sich den Sterckeman Evolution 470 CP im Profitest vor.
 
 # post thumb
-image: '/images/items/180115-Sterckeman-Evolution-470-CP-a-kl.jpg'
+image: '/images/items/180115-Sterckeman-Evolution-470-CP-a.jpg'
 
 # taxonomies
 categories: 

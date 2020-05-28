@@ -7,7 +7,7 @@ summary: |
  Das Wohnmobil Weinsberg Cara Compact Pepper ist ein erfolgreiches Sondermodell. Der Teilintegrierte verfügt über eine umfangreiche Ausstattung und über einen ansprechenden Preisvorteil. Was den Weinsberg Cara Compact Pepper 600 MEG auszeichnet, testen die Profis von Reisemobil International.
 
 # post thumb
-image: '/images/items/180917-Weinsberg-Cara-Compact-Pepper-600-MEG-a-kl.jpg'
+image: '/images/items/180917-Weinsberg-Cara-Compact-Pepper-600-MEG-a.jpg'
 
 # taxonomies
 categories: 

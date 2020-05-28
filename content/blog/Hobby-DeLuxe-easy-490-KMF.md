@@ -7,7 +7,7 @@ summary: |
  Mit Idealmaßen will der neue Wohnwagen Hobby De Luxe easy punkten: Beim Einsteigermodell für Familien stehen Leichtigkeit und schmale Breite im Vordergrund. Der Profitest der Fachzeitschrift Camping, Cars & Caravans untersucht, wie der Hobby De Luxe easy diese Ziele erreicht.
 
 # post thumb
-image: '/images/items/140313-Hobby-DeLuxe-easy-490-KMF-a_kl.jpg'
+image: '/images/items/140313-Hobby-DeLuxe-easy-490-KMF-a.jpg'
 
 # taxonomies
 categories: 

@@ -7,7 +7,7 @@ summary: |
  Der Wohnwagen Tabbert Rossini ist klein, aber komplett: Der Caravan wurde für die Einstiegsklasse neu aufgelegt. Mit typischem Tabbert-Look außen, aber heller Einrichtung innen soll der Rossini eher jüngerem Publikum gefallen. Der Profitest der Fachzeitschrift Camping, Cars & Caravans haben bei dieser Komposition genau hingehört.
 
 # post thumb
-image: '/images/items/150531-Tabbert-Rossini-450-TD-a-kl.jpg'
+image: '/images/items/150531-Tabbert-Rossini-450-TD-a.jpg'
 
 # taxonomies
 categories: 

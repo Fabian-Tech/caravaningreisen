@@ -7,7 +7,7 @@ summary: |
  Wer einen Stern an seinem Wohnmobil möchte, wählt als Basisfahrzeug den Sprinter von Mercedes-Benz. Der neue Sprinter löste 2013 seinen Vorgänger nach sieben Dienstjahren ab. Er ist mit einer optisch veränderten Bugpartie, Euro VI Motoren und zahlreichen neuen Assistenzsystemen ausgestattet.
 
 # post thumb
-image: '/images/items/140204-Mercedes-Sprinter-ChassisFront-kl.jpg'
+image: '/images/items/140204-Mercedes-Sprinter-ChassisFront.jpg'
 
 # taxonomies
 categories: 

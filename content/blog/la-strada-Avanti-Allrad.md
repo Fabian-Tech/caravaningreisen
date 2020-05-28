@@ -7,7 +7,7 @@ summary: |
  Die Wohnmobile von la strada werden seit Jahren auf Fiat Ducato und Mercedes Benz Sprinter aufgebaut. Ab Modelljahr 2018 kommt nun auch der Citroën Jumper zum Einsatz. Der Franzose wird alle Allrad-Aufgaben für die Avanti-Baureihe übernehmen, während die Avanti-Modelle mit Frontantrieb weiterhin auf Fiat Ducato gebaut werden. 
 
 # post thumb
-image: '/images/items/180122-la-strada-Avanti-L-Allrad-a1-kl.jpg'
+image: '/images/items/180122-la-strada-Avanti-L-Allrad-a1.jpg'
 
 # taxonomies
 categories: 

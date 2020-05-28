@@ -7,7 +7,7 @@ summary: |
  Argos time heißt die neue Modellreihe von Bürstner mit der sich der Reisemobil-Spezialist aus Kehl im Bereich der Alkoven-Fahrzeuge breiter aufstellt. Die drei Argos time Modelle A 650, A 660 und A 670 G sind preislich besonders attraktive Varianten mit einem überdurchschnittlichen Platzangebot. Der Preis der Argos time Modelle beginnt
 
 # post thumb
-image: '/images/items/110209_WM_Argostime650_a_kl.jpg'
+image: '/images/items/110209_WM_Argostime650_a.jpg'
 
 # taxonomies
 categories: 

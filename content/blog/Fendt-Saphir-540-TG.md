@@ -7,7 +7,7 @@ summary: |
  Wer sich für einen Fendt Wohnwagen entscheidet, darf Qualität erwarten – das gilt auch für das Einsteigermodell Fendt Saphir 540 TG. Für 2014 wurde der Paarwohnwagen nur im Detail überarbeitet. Der Profitest der Fachzeitschrift Camping, Cars & Caravans prüft, ob der Fendt Saphir 540 TG seinen Preis wert ist.
 
 # post thumb
-image: '/images/items/140204-Fendt-Saphir-540-a_kl.jpg'
+image: '/images/items/140204-Fendt-Saphir-540-a.jpg'
 
 # taxonomies
 categories: 

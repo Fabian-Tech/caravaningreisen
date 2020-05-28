@@ -7,7 +7,7 @@ summary: |
  Nicht ohne Grund haben alle führenden europäischen Campingclubs Hvidbjerg-Strand Ferienpark mit Höchstnoten bewertet. Die Anlage bei Blavand an Dänemarks Westküste gilt als einer der besten Campingplätze Europas. Besondere Aufmerksamkeit verdient die Wellnessanlage. Stylische Architektur und natürliche Materialien sorgen für
 
 # post thumb
-image: '/images/items/110521_Hvidbjerg_0048_kl.jpg'
+image: '/images/items/110521_Hvidbjerg_0048.jpg'
 
 # taxonomies
 categories: 

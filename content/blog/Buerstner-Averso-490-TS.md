@@ -7,7 +7,7 @@ summary: |
  Der Wohnwagen Bürstner Averso 490 TS wurde für die neue Saison generalüberholt. Der Caravan für zwei läuft nun in Isny vom Band, wie seine baugleichen Geschwister aus der Hymer-Gruppe. Die Profis der Fachzeitschrift Camping, Cars & Caravans haben sich den Wohnwagen Bürstner Averso 490 TS genauer angesehen.
 
 # post thumb
-image: '/images/items/161024-Buerstner-Averso-490-TS-a-kl.jpg'
+image: '/images/items/161024-Buerstner-Averso-490-TS-a.jpg'
 
 # taxonomies
 categories: 

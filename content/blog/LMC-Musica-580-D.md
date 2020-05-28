@@ -7,7 +7,7 @@ summary: |
  Der Grundriss des LMC Münsterland Musica 580 D überrascht: Küche quer im Bug und Bad quer im Heck sind in dieser Kombination äußerst ungewöhnlich. Sitzgruppe und französisches Bett teilen sich die Mitte des Wohnwagens. So soll im 2,50 Meter breiten Münsterland ein großzügiger und wohnlicher Raum geschaffen werden. Im Profitest der 
 
 # post thumb
-image: '/images/items/120820_WW_LMCMusic580D_a_kl.jpg'
+image: '/images/items/120820_WW_LMCMusic580D_a.jpg'
 
 # taxonomies
 categories: 

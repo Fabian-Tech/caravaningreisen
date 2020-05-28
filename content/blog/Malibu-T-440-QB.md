@@ -7,7 +7,7 @@ summary: |
  Das Wohnmobil Malibu T 440 QB kommt aus dem Hause Carthago, kostet aber weniger als vergleichbare Modelle des Mutterunternehmens. Muss der Kunde deshalb mit Abstrichen rechnen? Das soll der Malibu T 440 QB im Profitest der Fachzeitschrift Reisemobil International zeigen.
 
 # post thumb
-image: '/images/items/170313-Malibu-T-440-QB-a-kl.jpg'
+image: '/images/items/170313-Malibu-T-440-QB-a.jpg'
 
 # taxonomies
 categories: 

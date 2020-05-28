@@ -7,7 +7,7 @@ summary: |
  Vacanceselect ist ein Anbieter von Campingreisen in ganz Europa. Die dem Unternehmen angeschlossenen Marken Selectcamp, Camp2Relax und Tendi bieten Mobilheime, Lodge- und Bungalowzelte auf über 150 ausgewählten Campingplätzen. Das jüngste Angebot von Vacanselect heißt Glamping. Die Wortschöpfung aus glamour und camping
 
 # post thumb
-image: '/images/items/120906_CR_VacanceVillBarr_Abend_kl.jpg'
+image: '/images/items/120906_CR_VacanceVillBarr_Abend.jpg'
 
 # taxonomies
 categories: 

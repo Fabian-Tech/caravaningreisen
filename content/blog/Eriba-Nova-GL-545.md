@@ -7,7 +7,7 @@ summary: |
  Der Wohnwagen Eriba Nova kommt in der Saison 2015 nahezu rundum erneuert in zwei Versionen auf den Markt und versteht sich als Allround-Talent, das mit ausgeklügelter Technik aufwarten will. Ob der neue Nova überzeugt, testen die Profis der Fachzeitschrift Camping, Cars & Caravans.
 
 # post thumb
-image: '/images/items/150112-Eriba-Nova-GL-545-a-kl.jpg'
+image: '/images/items/150112-Eriba-Nova-GL-545-a.jpg'
 
 # taxonomies
 categories: 

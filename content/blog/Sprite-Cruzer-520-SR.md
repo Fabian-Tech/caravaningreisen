@@ -7,7 +7,7 @@ summary: |
  Der Wohnwagen Sprite Cruzer, ein englisches Fabrikat, ist in Deutschland noch ein seltener Anblick. Es lohnt sich aber, den komfortablen Briten mit besonderem Grundriss genauer anzusehen. Die Profis von der Fachzeitschrift Camping, Cars & Caravans testen den Wohnwagen Sprite Cruzer 520 SR auf Stärken und Schwächen.
 
 # post thumb
-image: '/images/items/180326-Sprite-Cruzer-520-SR-a-kl.jpg'
+image: '/images/items/180326-Sprite-Cruzer-520-SR-a.jpg'
 
 # taxonomies
 categories: 

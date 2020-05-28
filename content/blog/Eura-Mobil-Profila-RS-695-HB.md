@@ -7,7 +7,7 @@ summary: |
  Das Wohnmobil Eura Mobil Profila RS bietet alle Annehmlichkeiten eines Teilintegrierten. In die neue Saison startet das Wohnmobil mit beheiztem Doppelboden und interessanter Ausstattung. Der Profitest von Reisemobil International zeigt, was im Eura Mobil Profila RS 695 HB noch steckt. 
 
 # post thumb
-image: '/images/items/171113-Eura-Mobil-Profila-RS-695-HB-a-kl.jpg'
+image: '/images/items/171113-Eura-Mobil-Profila-RS-695-HB-a.jpg'
 
 # taxonomies
 categories: 

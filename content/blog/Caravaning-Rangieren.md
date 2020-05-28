@@ -7,7 +7,7 @@ summary: |
  Rangieren mit einem Wohnwagen oder Wohnmobil: Vor dieser Aufgabe haben Neulinge den größten Respekt. Der Umgang mit einem sechs bis sieben Meter langen über zwei Meter breiten und rund drei Meter hohen Wohnmobil will geübt sein. Erst recht gilt dies für das Rangieren eines PKW-Wohnwagen-Gespanns. 
 
 # post thumb
-image: '/images/items/131216_Rangieren_kl.jpg'
+image: '/images/items/131216_Rangieren.jpg'
 
 # taxonomies
 categories: 

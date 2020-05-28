@@ -7,7 +7,7 @@ summary: |
  Hjarbaek Fjord Camping liegt am Hjarbaek Fjord in der Region Mitteljütland in Dänemark. Das terrassierte Gelände ist umgeben von sanften Hügeln. Die zurückgezogene Lage oberhalb des Sees macht die Aussicht von zahlreichen Stellplätzen auf Hjarbaek Fjord Camping zu einem besonderen Genuss. 
 
 # post thumb
-image: '/images/items/170124-Hjarbaek-Fjord-Camping-020-kl.jpg'
+image: '/images/items/170124-Hjarbaek-Fjord-Camping-020.jpg'
 
 # taxonomies
 categories: 

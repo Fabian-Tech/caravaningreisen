@@ -7,7 +7,7 @@ summary: |
  Die Fahrsicherheit eines Wohnwagen-Gespanns oder Wohnmobils hängt maßgeblich von der Einhaltung der zulässigen Massen und Gewichte des Freizeitfahrzeugs ab. Daher sind die folgenden Kilogramm-Angaben im Fahrzeugschein unbedingt einzuhalten:
 
 # post thumb
-image: '/images/items/131214_Gewichte_kl.jpg'
+image: '/images/items/131214_Gewichte.jpg'
 
 # taxonomies
 categories: 

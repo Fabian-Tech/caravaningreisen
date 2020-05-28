@@ -7,7 +7,7 @@ summary: |
  Bürstner ist der Erfinder des Hubbetts im teilintegrierten Reisemobil – und stellt mit der Ixeo Generation 2016 jetzt eine komplette Neukreation vor: Neue Form, neues Innenleben, neues Hubbett. CaravaningReisen.de hat sich den Bürstner Ixeo it 680 G einmal genauer angesehen.
 
 # post thumb
-image: '/images/items/150710_Buerstner_Ixeo_it680G_a01_kl.jpg'
+image: '/images/items/150710_Buerstner_Ixeo_it680G_a01.jpg'
 
 # taxonomies
 categories: 

@@ -7,7 +7,7 @@ summary: |
  Der la strada Nova ist das Flaggschiff der Echzeller Wohnmobilmanufaktur und die einzige Baureihe der Hessen, die nicht aus ausgebauten Kastenwagen besteht. Mit dem Monocoque-Aufbau hinter dem Mercedes Sprinter Fahrerhaus gehört der Nova zu den Teilintegrierten. Der Nova M verbindet kompakte Maße mit edlem Ambiente.
 
 # post thumb
-image: '/images/items/131121-la-strada-Nova-M-002-kl.jpg'
+image: '/images/items/131121-la-strada-Nova-M-002.jpg'
 
 # taxonomies
 categories: 

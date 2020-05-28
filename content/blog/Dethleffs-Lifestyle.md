@@ -7,7 +7,7 @@ summary: |
  Für Familien und alle, die viel Platz benötigen, will der Dethleffs Lifestyle A 5981 ein idealer Urlaubspartner sein. Er ist knapp 6,5 Meter lang, aber immer noch recht handlich zu bewegen. Trotzdem bietet er Komfort selbst für große Familien: Bis zu sechs Personen können mit ihm auf Tour gehen. Der Dethleffs Lifestyle A 5981 ist ab rund 48.000 Euro erhältlich.
 
 # post thumb
-image: '/images/items/110302_WM_DethA5981_a_kl.jpg'
+image: '/images/items/110302_WM_DethA5981_a.jpg'
 
 # taxonomies
 categories: 

@@ -7,7 +7,7 @@ summary: |
  Das Wohnmobil Hymer Van 314 ist vor allem eins: Kurz. Mit nur 5,45 Metern Länge will er den ausgebauten Kastenwagen Konkurrenz machen und dabei mit den Vorteilen eines Teilintegrierten punkten. Was auf den kompakten Maßen des Hymer Van 314 untergebracht ist, haben sich die Profis der Fachzeitschrift Reisemobil International angesehen.
 
 # post thumb
-image: '/images/items/151221-Hymer-Van-314-a-kl.jpg'
+image: '/images/items/151221-Hymer-Van-314-a.jpg'
 
 # taxonomies
 categories: 

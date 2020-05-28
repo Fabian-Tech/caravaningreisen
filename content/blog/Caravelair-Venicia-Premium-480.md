@@ -7,7 +7,7 @@ summary: |
  Französische Wohnwagen sind hierzulande eher für günstige und leichte Einsteigermodelle bekannt. Mit dem Venicia Premium möchte Caravelair nun in der Oberklasse mitspielen. Ob der Franzose die dafür nötigen Talente mitbringt, zeigt der Profitest der Fachzeitschrift Camping, Cars & Caravans. Beliebt macht sich der Venicia Premium 
 
 # post thumb
-image: '/images/items/121220_WW_CarVeniPrem480_a_kl.jpg'
+image: '/images/items/121220_WW_CarVeniPrem480_a.jpg'
 
 # taxonomies
 categories: 

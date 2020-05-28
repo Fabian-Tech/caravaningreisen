@@ -7,7 +7,7 @@ summary: |
  Der Wohnwagen Fendt Tendenza ist ein alter Bekannter im Caravan-Markt. Für die neue Saison erhält der Wohnwagen für zwei eine neue Gestaltung und einen neuen Grundriss. Die Profis der Fachzeitschrift Camping, Cars & Caravans haben sich den Fendt Tendenza 495 SFR angesehen.
 
 # post thumb
-image: '/images/items/170821-Fendt-Tendenza-49-SFR-a-kl.jpg'
+image: '/images/items/170821-Fendt-Tendenza-49-SFR-a.jpg'
 
 # taxonomies
 categories: 

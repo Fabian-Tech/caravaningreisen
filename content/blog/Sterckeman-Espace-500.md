@@ -7,7 +7,7 @@ summary: |
  Mit dem Espace 500 hat Sterckeman einen wirklich ungewöhnlichen Grundriss auf die Räder gestellt, der es beim European Innovation Award 2011 sogar auf‘s Siegertreppchen schaffte. In der Ausgabe 01/2012 der Zeitschrift Camping, Cars & Caravans muss der Franzose im Profitest seine Auszeichnungswürdigkeit unter Beweis stellen.
 
 # post thumb
-image: '/images/items/111221_WW_SterckEsp500_a_kl.jpg'
+image: '/images/items/111221_WW_SterckEsp500_a.jpg'
 
 # taxonomies
 categories: 

@@ -7,7 +7,7 @@ summary: |
  Der Wohnwagen Weinsberg Caraone, für die neue Saison mit neuem Heck und neuem Innenraumdekor ausgestattet, lockt mit einem vierstelligen Basispreis. Ob der Käufer dafür mit dem Weinsberg Caraone einen kompletten Wohnwagen bekommt, wissen die Profis der Fachzeitschrift Camping, Cars & Caravans. 
 
 # post thumb
-image: '/images/items/150820-Weinsberg-Caraone-390-QD-a-kl.jpg'
+image: '/images/items/150820-Weinsberg-Caraone-390-QD-a.jpg'
 
 # taxonomies
 categories: 

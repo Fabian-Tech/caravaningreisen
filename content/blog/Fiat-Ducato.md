@@ -7,7 +7,7 @@ summary: |
  Der Fiat Ducato dominiert den Markt der Wohnmobil-Basisfahrzeuge bereits seit Jahrzehnten. Allein im Jahr 2012 baute Fiat 16.386 Ducatos für die Caravaningbranche, derzeit sind rund 500.000 Reisemobile auf Ducato-Basis auf den Straßen unterwegs.
 
 # post thumb
-image: '/images/items/141202-Fiat-Ducato-a1-kl.jpg'
+image: '/images/items/141202-Fiat-Ducato-a1.jpg'
 
 # taxonomies
 categories: 

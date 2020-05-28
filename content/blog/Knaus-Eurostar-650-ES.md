@@ -7,7 +7,7 @@ summary: |
  Der Wohnwagen Knaus Eurostar ist ein Luxusliner. Im Knaus Eurostar 650 ES vereint sich die Oberklasse von Knaus mit dem Grundriss der Studie Caravisio, dem Entwurf für den Wohnwagen der Zukunft. Wie gut diese Kombination gelungen ist, zeigt sich im Profitest der Fachzeitschrift Camping, Cars & Caravans.
 
 # post thumb
-image: '/images/items/160119-Knaus-Eurostar-650-ES-a-kl.jpg'
+image: '/images/items/160119-Knaus-Eurostar-650-ES-a.jpg'
 
 # taxonomies
 categories: 

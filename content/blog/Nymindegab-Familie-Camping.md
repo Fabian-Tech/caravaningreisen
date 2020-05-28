@@ -7,7 +7,7 @@ summary: |
  Nymindegab Familie Camping liegt nahe am südlichen Ende des Rinkøbing Fjords an der Westküste Jütlands in Dänemark. Durch eine ausgedehnte Dünenlandschaft hinter dem Nordseestrand ist der Platz windgeschützt, schön begrünt und umgeben von herrlicher Natur.
 
 # post thumb
-image: '/images/items/161123-Camping-Nymindegab-0026-kl.jpg'
+image: '/images/items/161123-Camping-Nymindegab-0026.jpg'
 
 # taxonomies
 categories: 

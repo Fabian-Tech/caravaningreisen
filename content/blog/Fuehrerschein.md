@@ -7,7 +7,7 @@ summary: |
  Die "normale" Führerscheinklasse B erlaubt ihrem Inhaber das Führen eines Fahrzeugs oder einer Fahrzeugkombination (PKW und Anhänger) bis zu einem zulässigen Gesamtgewicht von 3,5 Tonnen. Nicht zuletzt deshalb findet sich die meiste Produktvielfalt bei Wohnmobilen in dieser Gewichtsklasse.
 
 # post thumb
-image: '/images/items/131214_Fahrerlaubnis_B96_kl.jpg'
+image: '/images/items/131214_Fahrerlaubnis_B96.jpg'
 
 # taxonomies
 categories: 

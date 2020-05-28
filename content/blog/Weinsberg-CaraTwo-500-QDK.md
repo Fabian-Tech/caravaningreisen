@@ -7,7 +7,7 @@ summary: |
  Der Wohnwagen Weinsberg CaraTwo soll die Erfolgswelle des CaraOne weiter surfen. Hat der Familiencaravan das Zeug, den Erfolg des CaraOne zu wiederholen oder gar zu toppen? Der Profitest der Fachzeitschrift Camping, Cars & Caravans gibt anhand des Weinsberg CaraTwo 500 QDK Antworten.
 
 # post thumb
-image: '/images/items/170214-Weinsberg-CaraTwo-500-QDK-a-kl.jpg'
+image: '/images/items/170214-Weinsberg-CaraTwo-500-QDK-a.jpg'
 
 # taxonomies
 categories: 

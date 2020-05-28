@@ -7,7 +7,7 @@ summary: |
  Mit dem New Line bietet Dethleffs eine neue Wohnwagen-Baureihe für Einsteiger: Kompakt, leicht und funktional soll sie sein. Die vier Grundrisse, drei für Paare und einer für Familien, sind auch mit kleineren Zugfahrzeugen zu bewegen. Der Dethleffs New Line 420 HK ist der größte Caravan der New Line Baureihe und zu einem Preis ab rund 11.900 Euro erhältlich.
 
 # post thumb
-image: '/images/items/110131_WW_DethNewLine420_a_kl.jpg'
+image: '/images/items/110131_WW_DethNewLine420_a.jpg'
 
 # taxonomies
 categories: 

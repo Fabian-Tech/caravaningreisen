@@ -7,7 +7,7 @@ summary: |
  Das Wohnmobil Knaus Van I 650 MEG gehört bei Knaus zur Einstiegs-Baureihe in die Vollintegrierten. Mit nur 2,20 Meter Breite und 3,8 Meter Radstand scheinen die Modelle ideal für verträumte Sträßchen. Im Profitest von Reisemobil International beweist nun das Wohnmobil Knaus Van I 650 MEG seine Qualitäten. 
 
 # post thumb
-image: '/images/items/170410-Knaus-Van-I-650-MEG-a2-kl.jpg'
+image: '/images/items/170410-Knaus-Van-I-650-MEG-a2.jpg'
 
 # taxonomies
 categories: 

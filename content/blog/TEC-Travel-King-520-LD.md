@@ -7,7 +7,7 @@ summary: |
  TEC hat seine Wohnwagen für die Saison 2013 grundlegend modernisiert. Zudem tragen sie jetzt alle den offiziellen Namen TEC Weltbummler und danach die Modellbezeichnung. Die Fachzeitschrift Camping, Cars & Caravans hat mit dem TEC Weltbummler Travel King 520 LD eines der ersten Modelle im neuen Look getestet. Der auf reisefreudige 
 
 # post thumb
-image: '/images/items/120926_WW_TECTravKing520LD_a_kl.jpg'
+image: '/images/items/120926_WW_TECTravKing520LD_a.jpg'
 
 # taxonomies
 categories: 

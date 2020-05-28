@@ -7,7 +7,7 @@ summary: |
  Das Wohnmobil Adria Sonic fordert die deutsche Konkurrenz heraus: Der Integrierte aus Nove Mesto beansprucht mit elegantem Auftritt und hochwertiger Verarbeitung seinen Platz im hiesigen Markt. Die Profis der Fachzeitschrift Reisemobil International schätzen die Erfolgschancen des Slowenen ein.
 
 # post thumb
-image: '/images/items/150720-Adria-Sonic-Plus-I700-SL-a-kl.jpg'
+image: '/images/items/150720-Adria-Sonic-Plus-I700-SL-a.jpg'
 
 # taxonomies
 categories: 

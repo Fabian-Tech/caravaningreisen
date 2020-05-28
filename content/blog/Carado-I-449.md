@@ -7,7 +7,7 @@ summary: |
  Das Wohnmobil Carado I 449 ist eine Premiere: Nach Teilintegrierten, Alkoven und Kastenwagen baut Carado nun erstmals Integrierte. Wie schlägt sich der Neue im Markt - Billigheimer oder ausgereiftes Mobil? Das zeigt das Wohnmobil Carado I 449 im Profitest der Fachzeitschrift Reisemobil International.
 
 # post thumb
-image: '/images/items/170708-Carado-I-440-a-kl.jpg'
+image: '/images/items/170708-Carado-I-440-a.jpg'
 
 # taxonomies
 categories: 

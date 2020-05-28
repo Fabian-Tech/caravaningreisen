@@ -7,7 +7,7 @@ summary: |
  Das Wohnmobil Sunlight T 58 gibt es bereits für knapp unter 40.000 Euro. Das günstige Label Sunlight aus dem Hause Dethleffs tritt mit standardisierter Bauweise gegen ausländische Preisbrecher an. Wie sich der Sachse schlägt, zeigt der Profitest der Fachzeitschrift Reisemobil International.
 
 # post thumb
-image: '/images/items/170522-Sunlight-T-58-a-kl.jpg'
+image: '/images/items/170522-Sunlight-T-58-a.jpg'
 
 # taxonomies
 categories: 

@@ -7,7 +7,7 @@ summary: |
  Der Bürstner Premio ist die Einsteigerklasse in das Wohnwagenprogramm des Kehler Herstellers. Er wird serienmäßig in weißer Hammerschlagblech-Ausführung angeboten. Vier neue Grundrisse umfasst das Premio-Programm den 385 TN, 385 TS, 395 TS, 550 TK. Wichtigste Neuerung ist die Leichtbau-Plattform aus einer Wabenkonstruktion.
 
 # post thumb
-image: '/images/items/110817_WW_BuePrem395TS_a_kl.jpg'
+image: '/images/items/110817_WW_BuePrem395TS_a.jpg'
 
 # taxonomies
 categories: 

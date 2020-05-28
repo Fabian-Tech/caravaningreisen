@@ -7,7 +7,7 @@ summary: |
  Im Profitest der Fachzeitschrift Camping, Cars & Caravans tritt der TEC Weltbummler Elegance 510 GK an, um sein Talent als Familienwohnwagen zu beweisen. Äußerlich unterscheidet er sich kaum von der günstigeren Active-Serie, innen sollen Chrom und Creme Akzente setzen. In der Basisausstattung kostet der TEC Weltbummler Elegance 510 GK 17.290 Euro.
 
 # post thumb
-image: '/images/items/110308_WW_TEC510GK_a_kl.jpg'
+image: '/images/items/110308_WW_TEC510GK_a.jpg'
 
 # taxonomies
 categories: 

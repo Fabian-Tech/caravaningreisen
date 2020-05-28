@@ -7,7 +7,7 @@ summary: |
  Der Wohnwagen Eriba Nova S war zwei Jahre lang nicht im Programm des Herstellers. Jetzt kommt der Großraum-Caravan mit neuem Mobiliar und Raumplus-Konzept wieder. Was die rollende Luxus-Suite, den Eriba Nova S 690, auszeichnet, testen die Profis von Camping, Cars & Caravans.  
 
 # post thumb
-image: '/images/items/170715-Eriba-Nova-S-690-a-kl.jpg'
+image: '/images/items/170715-Eriba-Nova-S-690-a.jpg'
 
 # taxonomies
 categories: 

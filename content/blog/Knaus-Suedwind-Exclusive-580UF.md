@@ -7,7 +7,7 @@ summary: |
  Der Wohnwagen Knaus Südwind ist seit über 50 Jahren unterwegs. Zum runden Geburtstag hat Knaus 2011 ein „Exclusive“-Modell herausgebracht, das sich mit gehobener Ausstattung an anspruchsvollere Kunden richtet. Im XXL-Dauertest hat die Fachzeitschrift Camping, Cars & Caravans den Knaus Südwind Exclusive 580 UF geprüft.
 
 # post thumb
-image: '/images/items/140120_Knaus-Suedwind-Exclusive-580-UF-a_kl.jpg'
+image: '/images/items/140120_Knaus-Suedwind-Exclusive-580-UF-a.jpg'
 
 # taxonomies
 categories: 

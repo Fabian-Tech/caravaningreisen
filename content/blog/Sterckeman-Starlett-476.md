@@ -7,7 +7,7 @@ summary: |
  Der Wohnwagen Sterckeman Starlett Comfort 476 PE will Familien für sich gewinnen. Als Besonderheit hat er ein französisches Bett und Längsbad vorn neben dem Einstieg, dafür das Stockbett im Heck. Was der Wohnwagen Sterckeman Starlett Comfort 476 sonst noch bietet, testen die Profis der Fachzeitschrift Camping, Cars & Caravans.
 
 # post thumb
-image: '/images/items/160418-Sterckeman-Starlett-Comfort-476PE-Kids-a-kl.jpg'
+image: '/images/items/160418-Sterckeman-Starlett-Comfort-476PE-Kids-a.jpg'
 
 # taxonomies
 categories: 

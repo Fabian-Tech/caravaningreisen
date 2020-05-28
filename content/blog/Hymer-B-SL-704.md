@@ -7,7 +7,7 @@ summary: |
  Das Wohnmobil Hymer B SL, ein integriertes Modell, wirbt mit einer Rundumerneuerung um die Käufergunst. Das Besondere an der Baureihe ist das in den Doppelboden integrierte Chassis. Der Profitest der Fachzeitschrift Reisemobil International begutachtet den Hymer B SL 704 für vier Reisende.
 
 # post thumb
-image: '/images/items/180212-Hymer-B-SL-704-a-kl.jpg'
+image: '/images/items/180212-Hymer-B-SL-704-a.jpg'
 
 # taxonomies
 categories: 

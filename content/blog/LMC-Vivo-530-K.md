@@ -7,7 +7,7 @@ summary: |
  Der Wohnwagen LMC Vivo 530 K ist Familiensache: Mit zwei Stockbetten im Heck, zwei Längs-Einzelbetten im Bug und einer umbaubaren Sitzbank finden bis zu fünf Personen im Caravan einen Schlafplatz. Die Fachzeitschrift Camping, Cars & Caravans hat das Modell im XXL-Dauertest auf Herz und Nieren überprüft.
 
 # post thumb
-image: '/images/items/150330-LMC-Vivo-530-K-a-kl.jpg'
+image: '/images/items/150330-LMC-Vivo-530-K-a.jpg'
 
 # taxonomies
 categories: 

@@ -7,7 +7,7 @@ summary: |
  Das Wohnmobil Malibu I 440 ist eine Neuheit: Die Tochtermarke von Carthago weitet ihre Produktpalette von Kastenwagen um Teilintegrierte und Integrierte aus. Äußerlich ist die Ähnlichkeit unverkennbar. Ob der günstigere Malibu I 440 auch in der Qualität an Carthago herankommt, testen die Profis der Fachzeitschrift Reisemobil International.
 
 # post thumb
-image: '/images/items/160111-Malibu-I-440-a-kl.jpg'
+image: '/images/items/160111-Malibu-I-440-a.jpg'
 
 # taxonomies
 categories: 

@@ -7,7 +7,7 @@ summary: |
  Das Wohnmobil Knaus Sky TI ist schon lange auf dem Markt, und das nicht ohne Erfolg. Für die neue Saison wurde der Teilintegrierte einer gründlichen Überarbeitung unterzogen. Die Profis der Fachzeitschrift Reisemobil International haben geprüft, wie tiefgreifend die Neuerungen beim Wohnmobil Knaus Sky TI 700 MEG gehen.
 
 # post thumb
-image: '/images/items/160713-Knaus-Sky-TI-700-MEG-a-kl.jpg'
+image: '/images/items/160713-Knaus-Sky-TI-700-MEG-a.jpg'
 
 # taxonomies
 categories: 

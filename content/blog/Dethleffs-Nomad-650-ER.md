@@ -7,7 +7,7 @@ summary: |
  Der Wohnwagen Dethleffs Nomad wartet in der neuen Saison mit komplett neu gestaltetem Innenraum auf und will durch Eleganz und Luxus seine Position in der gehobenen Mittelklasse festigen. Die Profis der Fachzeitschrift Camping, Cars & Caravans prüfen die Qualität des Wohnwagens Dethleffs Nomad 650 ER, einem Tandemachser.
 
 # post thumb
-image: '/images/items/160719-Dethleffs-Nomad-650-ER-a-kl.jpg'
+image: '/images/items/160719-Dethleffs-Nomad-650-ER-a.jpg'
 
 # taxonomies
 categories: 

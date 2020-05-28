@@ -7,7 +7,7 @@ summary: |
  Der Wohnwagen Eriba Feeling hat ein Aufstelldach. Unterwegs duckt sich der Caravan hinters Auto, erst vor Ort wächst er zu voller Größe. Ob das Konzept des Eriba Feeling 425 noch zeitgemäß ist, haben sich die Profis von Camping, Cars & Caravans angesehen. 
 
 # post thumb
-image: '/images/items/161115-Eriba-Feeling-425-a-kl.jpg'
+image: '/images/items/161115-Eriba-Feeling-425-a.jpg'
 
 # taxonomies
 categories: 

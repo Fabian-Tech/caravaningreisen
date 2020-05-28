@@ -7,7 +7,7 @@ summary: |
  Mit dem Wohnwagen Bürstner Premio 520 TK verspricht der Kehler Hersteller ein geräumiges Feriendomizil für Familien zum moderaten Preis. CaravaningReisen.de prüfte in einem Wohntest, wo die Stärken und Schwächen dieses Konzeptes liegen.
 
 # post thumb
-image: '/images/items/150211-Buerstner-Premio-520-TK-0107-a01-kl.jpg'
+image: '/images/items/150211-Buerstner-Premio-520-TK-0107-a01.jpg'
 
 # taxonomies
 categories: 

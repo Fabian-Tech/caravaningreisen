@@ -7,7 +7,7 @@ summary: |
  Die traditionsreiche Südwind-Baureihe von Knaus bewirbt sich als Südwind Exclusive für die Wohnwagen-Oberklasse. Der Südwind Exclusive 450 FU macht deutlich mit welchen Vorzügen Knaus dabei trumpfen will. Da wären das neue Möbeldekor, ergonomische Polster, Säulenhubtisch und Federkernmatratzen. Das Ganze zu Preisen ab knapp unter 17.000 Euro.
 
 # post thumb
-image: '/images/items/100922_WW_KnaSWex450_a_kl.jpg'
+image: '/images/items/100922_WW_KnaSWex450_a.jpg'
 
 # taxonomies
 categories: 

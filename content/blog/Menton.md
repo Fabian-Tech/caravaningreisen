@@ -7,7 +7,7 @@ summary: |
  Während in Deutschland noch Schnee, Matsch und Kälte dominieren, genießen die Menschen an der französischen Côte d’Azur schon Sonne, Wärme – und Zitronen. Zitronen sind gesund. Das weiß jedes Kind. Die gelben Früchte enthalten Vitamin C, das bekanntermaßen vor Erkältungen schützt. Zitronen sind aber auch ein echter Augenschmaus.
 
 # post thumb
-image: '/images/items/110215_RB_Ment_04_kl.jpg'
+image: '/images/items/110215_RB_Ment_04.jpg'
 
 # taxonomies
 categories: 

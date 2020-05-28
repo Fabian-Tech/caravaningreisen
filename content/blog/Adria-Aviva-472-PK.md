@@ -7,7 +7,7 @@ summary: |
  Der Wohnwagen Adria Aviva 472 PK ist ein Familiencaravan. Um dem Trend nach leichten, modernen und preiswerten Modellen gerecht zu werden, bringt der komplett überarbeitete Aviva spannende neue Ideen im Einsteigersegment. Das Konzept des Adria Aviva 472 PK schauen sich die Profis von Camping, Cars & Caravans genauer an.
 
 # post thumb
-image: '/images/items/170422-Adria-Aviva-472-PK-a-kl.jpg'
+image: '/images/items/170422-Adria-Aviva-472-PK-a.jpg'
 
 # taxonomies
 categories: 

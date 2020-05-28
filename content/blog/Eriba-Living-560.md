@@ -7,7 +7,7 @@ summary: |
  Der Wohnwagen Eriba Living 560 ist eines von acht Modellen aus der neuen Einsteiger-Baureihe. Mit bis zu sechs Schlafplätzen ist der Caravan auf reisende Familien ausgerichtet. Wie sich der Eriba Living 560 in der Praxis schlägt, testet die Fachzeitschrift Camping, Cars & Caravans in ihrem Profitest.  
 
 # post thumb
-image: '/images/items/181022-Eriba-Living-560-a-kl.jpg'
+image: '/images/items/181022-Eriba-Living-560-a.jpg'
 
 # taxonomies
 categories: 

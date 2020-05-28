@@ -7,7 +7,7 @@ summary: |
  Carthago setzt in seine Wohnmobile hohe Ansprüche. Als Autarkieweltmeister bezeichnen die Allgäuer den Chic e-line. Dafür spendieren sie dem 4,5-Tonner große Tanks und Stauräume sowie zwei 80 Amperestunden Gelbatterien für den Wohnaufbau. Volle Wintertauglichkeit ist dabei selbstverständlich. Die Alde Compact Warmwasserheizung und 
 
 # post thumb
-image: '/images/items/121009_WM_CarthChicelineI50_a_kl.jpg'
+image: '/images/items/121009_WM_CarthChicelineI50_a.jpg'
 
 # taxonomies
 categories: 

@@ -7,7 +7,7 @@ summary: |
  Der Wohnwagen Dethleffs Camper steht für viel Stauraum, Ausstattung und familiengerechte Grundrisse. Beim Mittelklasse-Modell Dethleffs Camper 650 FMK stehen der Familie 18 Quadratmeter zur Verfügung. Die Profis von Camping, Cars & Caravans testen, wie viel Mehrwert der Caravan bietet.
 
 # post thumb
-image: '/images/items/171023-Dethleffs-Camper-650-FMK-a-kl.jpg'
+image: '/images/items/171023-Dethleffs-Camper-650-FMK-a.jpg'
 
 # taxonomies
 categories: 

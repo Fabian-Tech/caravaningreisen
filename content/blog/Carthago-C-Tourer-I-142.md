@@ -7,7 +7,7 @@ summary: |
  Das Wohnmobil Carthago C-Tourer ist ein bewährtes Erfolgsmodell. Für die neue Saison baut der Allgäuer Hersteller die Stärken des Leichtgewichts weiter aus. Im Profitest der Fachzeitschrift Reisemobil International zeigt sich, was die Optimierungen am Carthago C-Tourer wert sind.
 
 # post thumb
-image: '/images/items/151029-Carthago-C-Tourer-I-142-a-kl.jpg'
+image: '/images/items/151029-Carthago-C-Tourer-I-142-a.jpg'
 
 # taxonomies
 categories: 

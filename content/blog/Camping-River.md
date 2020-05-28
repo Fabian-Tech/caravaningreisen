@@ -7,7 +7,7 @@ summary: |
  Camping River liegt an der Mündung des Flusses Magra in Ligurien knapp hinter der Grenze zur Toskana. Der drei Sterne Platz ist damit ein guter Ausgangspunkt für Ausflüge zu den weltberühmten Küsten- und Bergdörfern von Cinque Terre und den nicht minder berühmten Städten der nördlichen Toskana.
 
 # post thumb
-image: '/images/items/131127-Camping-River-R1-001_kl.jpg'
+image: '/images/items/131127-Camping-River-R1-001.jpg'
 
 # taxonomies
 categories: 

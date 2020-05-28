@@ -7,7 +7,7 @@ summary: |
  Das vollintegrierte Wohnmobil Viseo I 700 ist Bürstners Reaktion auf die steigende Nachfrage nach handlichen Wohnmobilen. Der Viseo I 700 ist einer von 3 Vertretern dieser Baureihe. Seine Breite von nur 2,20 Meter und weniger als 7 Meter Länge vereinfachen das Fahren auf schmalen Nebenstrecken und in engen Ortschaften.
 
 # post thumb
-image: '/images/items/130711-Buerstner-Viseo-I-700-001_kl.jpg'
+image: '/images/items/130711-Buerstner-Viseo-I-700-001.jpg'
 
 # taxonomies
 categories: 

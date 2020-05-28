@@ -7,7 +7,7 @@ summary: |
  Die Ixeo Baureihe von Bürstner mit dem Hubbett über der Sitzgruppe hat es mittlerweile zu einer stattlichen Modellvielfalt gebracht. In der Einsteigerklasse wirbt der Ixeo time um Kundschaft ,die Mittelklasse wird vom Ixeo bedient. Nun sollen vier Grundrisse der Ixeo plus Variante ein Plus an Komfort bringen. 
 
 # post thumb
-image: '/images/items/110908_WM_BuerIxeopl724_a_kl.jpg'
+image: '/images/items/110908_WM_BuerIxeopl724_a.jpg'
 
 # taxonomies
 categories: 

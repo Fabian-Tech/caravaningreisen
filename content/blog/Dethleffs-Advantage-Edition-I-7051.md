@@ -7,7 +7,7 @@ summary: |
  Das Wohnmobil Dethleffs Advantage Edition will mit neuen Möbeln, reichhaltiger Grundausstattung und dem Citroën Jumper als Basis im Markt der deutschen Mittelklasse-Reisemobile auch künftig vorne mitmischen. Die Profis von Reisemobil International haben sich den Dethleffs Advantage Edition I 7051 der neuen Generation angesehen.
 
 # post thumb
-image: '/images/items/170918-Dethleffs-Advantage-Edition-I-7051-a_kl.jpg'
+image: '/images/items/170918-Dethleffs-Advantage-Edition-I-7051-a.jpg'
 
 # taxonomies
 categories: 

@@ -7,7 +7,7 @@ summary: |
  Mit dem Premium Drive gelingt es Hobby in der Mittelklasse einen Teilintegrierten zu präsentieren, der ähnlich revolutionär auftritt wie die Legende Hobby 600 vor 30 Jahren. Grund genug für Reisemobil International den Neuling im Profitest gründlich unter die Lupe zu nehmen. Das Außendesign des Hobby Premium Drive 70 GE setzt in 
 
 # post thumb
-image: '/images/items/121218_WM_HobPremDriv70GE_a_kl.jpg'
+image: '/images/items/121218_WM_HobPremDriv70GE_a.jpg'
 
 # taxonomies
 categories: 

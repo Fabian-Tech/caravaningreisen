@@ -7,7 +7,7 @@ summary: |
  Das Wohnmobil Hobby Optima schließt als neue Modellreihe der Mittelklasse die Lücke zwischen dem Einsteiger- und dem Premiumsegment des norddeutschen Herstellers. Die Profis der Fachzeitschrift Reisemobil International testen, ob der Name des Teilintegrierten auch Programm ist.
 
 # post thumb
-image: '/images/items/150316-Hobby-Optima-T-65-GE-a-kl.jpg'
+image: '/images/items/150316-Hobby-Optima-T-65-GE-a.jpg'
 
 # taxonomies
 categories: 

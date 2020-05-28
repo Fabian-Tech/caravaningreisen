@@ -7,7 +7,7 @@ summary: |
  Odder Strand Camping liegt an der Ostküste Jütlands ziemlich genau in der Mitte zwischen den Städten Horsens und Aarhus.  Der kleine familiär geführte Odder Strand Camping liegt unmittelbar am Wasser der Ostsee. Der öffentliche Strand beginnt praktisch direkt vor der Schranke des Platzes.
 
 # post thumb
-image: '/images/items/150604-Odder-Strand-Camping-014-kl.jpg'
+image: '/images/items/150604-Odder-Strand-Camping-014.jpg'
 
 # taxonomies
 categories: 

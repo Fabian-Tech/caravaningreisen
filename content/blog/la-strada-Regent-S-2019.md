@@ -7,7 +7,7 @@ summary: |
  Die nächste Generation des Mercedes Benz Sprinter verleiht dem la strada Regent S zur Saison 2019 neuen Glanz. Assistenzsysteme aus dem PKW-Bereich ergänzen die Ausstattung des Reisemobils. Sprachbedienung, Abstandstempomat und ein 360 Grad Rundumblick der Rückfahrkamera sind im la strada Regent S erhältlich.
 
 # post thumb
-image: '/images/items/180814-lastrada-Regent-S-2366-kl.jpg'
+image: '/images/items/180814-lastrada-Regent-S-2366.jpg'
 
 # taxonomies
 categories: 

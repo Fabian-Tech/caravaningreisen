@@ -7,7 +7,7 @@ summary: |
  Das Wohnmobil Pössl Summit 640 greift als Kastenwagen mit Längs-Einzelbetten einen aktuellen Trend auf. Der Ruf, günstige, gut gemachte Mobile zu bauen, eilt dem Hersteller voraus. Bei Reisemobil International stellt sich der 6,36 Meter lange Kastenwagen Pössl Summit 640 auf Basis des Citroën Jumper dem Profitest.
 
 # post thumb
-image: '/images/items/170117-Poessl-Summit-640-a-kl.jpg'
+image: '/images/items/170117-Poessl-Summit-640-a.jpg'
 
 # taxonomies
 categories: 

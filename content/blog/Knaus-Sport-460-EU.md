@@ -7,7 +7,7 @@ summary: |
  Der Wohnwagen Knaus Sport sieht dem Mittelklasse-Modell Südwind optisch zum Verwechseln ähnlich: Für die Saison 2014 hat Knaus seiner Einsteiger-Baureihe Sport ein neues Gesicht gegeben. Der Profitest der Fachzeitschrift Camping, Cars & Caravans prüft die inneren Werte des Paarwohnwagens Knaus Sport 460 EU.
 
 # post thumb
-image: '/images/items/140414-Knaus-Sport-460-EU-a_kl.jpg'
+image: '/images/items/140414-Knaus-Sport-460-EU-a.jpg'
 
 # taxonomies
 categories: 

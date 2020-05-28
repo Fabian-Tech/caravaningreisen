@@ -7,7 +7,7 @@ summary: |
  Auf dem Caravan Salon 2011 enthüllte Adria den Super Sonic. Obwohl der dem Sonic zum Verwechseln ähnlich sieht, gilt er bei Adria als eigenständiges Modell. Das AL-KO-Hochrahmenchassis, eine Alde-Warmwasserheizung, silberne Lackierung und ein GFK-Dach machen den Unterschied. Der Super Sonic SL im Profitest.
 
 # post thumb
-image: '/images/items/120322_WM_AdriaSuperSon701SL_a_kl.jpg'
+image: '/images/items/120322_WM_AdriaSuperSon701SL_a.jpg'
 
 # taxonomies
 categories: 

@@ -7,7 +7,7 @@ summary: |
  Das vollintegrierte Wohnmobil Bürstner Elegance I 890 ist das Flaggschiff des Kehler Herstellers. Und der Bürstner Elegance I 890 macht seinem Namen alle Ehre. Trotz ihrer 9 Meter Länge und 5 Tonnen zulässigem Gesamtgewicht wirkt die Edelkarosse nicht klobig. Auch dank der serienmäßigen Metallic Lackierung „Opale“ 
 
 # post thumb
-image: '/images/items/130323_WM_Buerstner-Elegance-I-890_a_kl.jpg'
+image: '/images/items/130323_WM_Buerstner-Elegance-I-890_a.jpg'
 
 # taxonomies
 categories: 

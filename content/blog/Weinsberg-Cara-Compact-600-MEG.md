@@ -7,7 +7,7 @@ summary: |
  Das Wohnmobil Weinsberg Cara Compact ist ein Premierenmodell: Mit dem Van steigt der Hersteller neu in dieses Fahrzeugsegment ein und bietet den schmalen Teilintegrierten deutlich günstiger an als viele Mitbewerber. Der Profitest der Fachzeitschrift Reisemobil International prüft, ob der Van empfehlenswert ist.
 
 # post thumb
-image: '/images/items/150127-Weinsberg-Cara-Compact-a-kl.jpg'
+image: '/images/items/150127-Weinsberg-Cara-Compact-a.jpg'
 
 # taxonomies
 categories: 

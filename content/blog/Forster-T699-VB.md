@@ -8,7 +8,7 @@ summary: |
 
 
 # post thumb
-image: '/images/items/140116_Forster_T_699_VB_a2_kl.jpg'
+image: '/images/items/140116_Forster_T_699_VB_a2.jpg'
 
 # taxonomies
 categories: 

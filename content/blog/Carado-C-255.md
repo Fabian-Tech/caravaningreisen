@@ -7,7 +7,7 @@ summary: |
  Seit knapp fünf Jahren werden im sächsischen Neustadt Caravans der Marke Carado gebaut. Unter der Federführung von Hymer entstehen hier auf günstige Preise ausgerichtete Produkte. Inzwischen hat sich Carado erfolgreich am Markt etabliert. Grund genug für die Fachzeitschrift Camping, Cars & Caravans den Wohnwagen Carado C 255
 
 # post thumb
-image: '/images/items/110927_WW_CarC255_a_kl.jpg'
+image: '/images/items/110927_WW_CarC255_a.jpg'
 
 # taxonomies
 categories: 

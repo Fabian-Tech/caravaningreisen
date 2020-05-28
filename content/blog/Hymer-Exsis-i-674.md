@@ -7,7 +7,7 @@ summary: |
  Nur noch Kenner können den Hymer Exsis-i 674 auf Anhieb von einer B-Klasse unterscheiden. Zur B-Klasse fehlen dem Exsis in der Breite nur 13 Zentimeter. Sicherstes Unterscheidungsmerkmal: Der Hymer-Schriftzug dient nicht als Lufteinlass des Kühlergrills, sondern prangt in silbernen Lettern auf der Motorhaube. Der Exsis-i im Profitest.
 
 # post thumb
-image: '/images/items/111216_WM_HymExi674_aFront_kl.jpg'
+image: '/images/items/111216_WM_HymExi674_aFront.jpg'
 
 # taxonomies
 categories: 

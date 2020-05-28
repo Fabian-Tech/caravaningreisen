@@ -7,7 +7,7 @@ summary: |
  Der Wohnwagen Knaus Sport&Fun fällt nicht nur optisch auf: In seiner eigenwilligen Form und hinter dem flippig-bunten Design mit großen Applikationen verbirgt sich ein großes Transport- und Wohnangebot. Im Profitest der Fachzeitschrift Camping, Cars & Caravans zeigt sich, welche Möglichkeiten im Wohnwagen Knaus Sport&Fun stecken.
 
 # post thumb
-image: '/images/items/160624-Knaus-Sport-Fun-480-QL-a-kl.jpg'
+image: '/images/items/160624-Knaus-Sport-Fun-480-QL-a.jpg'
 
 # taxonomies
 categories: 

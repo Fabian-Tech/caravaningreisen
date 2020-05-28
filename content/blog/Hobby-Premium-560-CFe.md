@@ -7,7 +7,7 @@ summary: |
  Der Wohnwagen Hobby Premium 560 CFe hat nachgerüstet: Jetzt passt die Optik innen zum spektakulären Außenauftritt. Drei neue Dekore sorgen im Hobby Premium 560 CFe für ein extravagantes Wohnerlebnis. Der Profitest der Fachzeitschrift Camping, Cars & Caravans hat sich die Neuauflage angesehen.
 
 # post thumb
-image: '/images/items/161230-Hobby-Premium-560-CFe-a-kl.jpg'
+image: '/images/items/161230-Hobby-Premium-560-CFe-a.jpg'
 
 # taxonomies
 categories: 

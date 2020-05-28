@@ -7,7 +7,7 @@ summary: |
  LMC bekennt sich seit zwei Jahren zur gehobenen Klasse und hat das seit 2008 angebotene Flaggschiff Maestro konsequent auf Oberklasse getrimmt. Im Profitest der Fachzeitschrift Camping, Cars & Caravans darf der Maestro 552 D seine meisterlichen Qualitäten unter Beweis stellen. Französisches Bett und seitliches Bad mit separatem
 
 # post thumb
-image: '/images/items/110726_WW_LMCMaest552D_a_kl.jpg'
+image: '/images/items/110726_WW_LMCMaest552D_a.jpg'
 
 # taxonomies
 categories: 

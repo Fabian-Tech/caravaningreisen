@@ -7,7 +7,7 @@ summary: |
  Das Wohnmobil Bürstner Lyseo T 744  verkörpert den Start eines neuen Modellkonzepts der Bürstner Reisemobile. Das Flaggschiff der teilintegrierten Lyseos gefällt schon durch sein elegantes Außendesign: Die dynamische Dachhaube und breite abgerundete Kanten geben dem Lyseo eine moderne automobile Anmutung.
 
 # post thumb
-image: '/images/items/160715-Buerstner-Lyseo-T-744-1274-kl.jpg'
+image: '/images/items/160715-Buerstner-Lyseo-T-744-1274.jpg'
 
 # taxonomies
 categories: 

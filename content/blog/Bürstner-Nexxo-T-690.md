@@ -7,7 +7,7 @@ summary: |
  Das Wohnmobil Bürstner Nexxo T ist das Flaggschiff der teilintegrierten Reisemobile von Bürstner. Im Modelljahr 2015 erhält die Baureihe serienmäßig Rahmenfenster und einen holzfreien Aufbau mit einem Kern aus XPS-Schaum. CaravaningReisen.de machte eine Probefahrt mit dem Bürstner Nexxo T 690.
 
 # post thumb
-image: '/images/items/140702-Bürstner-Nexxo-T-690-0032-kl.jpg'
+image: '/images/items/140702-Bürstner-Nexxo-T-690-0032.jpg'
 
 # taxonomies
 categories: 

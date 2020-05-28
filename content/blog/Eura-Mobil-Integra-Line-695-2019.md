@@ -7,7 +7,7 @@ summary: |
  Das Wohnmobil Eura Mobil Integra Line ist ein Vertreter der Oberklasse des Sprendlinger Herstellers. Vor zwei Jahren noch als Prototyp von den Profis der Fachzeitschrift Reisemobil International probegefahren, unterzieht sich der Vollintegrierte Eura Mobil Integra Line 695 QB als Serienmodell nun erneut dem Test.
 
 # post thumb
-image: '/images/items/181015-Eura-Mobil-Integra-Line-695-QB-a-kl.jpg'
+image: '/images/items/181015-Eura-Mobil-Integra-Line-695-QB-a.jpg'
 
 # taxonomies
 categories: 

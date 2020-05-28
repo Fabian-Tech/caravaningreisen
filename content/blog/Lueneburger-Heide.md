@@ -7,7 +7,7 @@ summary: |
  Erholung in der Natur ist das Kernthema des Campingparks Lüneburger Heide. Hier hat die Familie Vollmer eine Oase der Ruhe geschaffen, die in der Ferienzeit Familien und in der Nebensaison rüstige Senioren erfreut. Der Campingplatz in Heber bei Schneverdingen ist ein Idealer Ausgangspunkt für das Naturerlebnis Lüneburger Heide.
 
 # post thumb
-image: '/images/items/150820-Campingpark-Lueneburger-Heide-Titel-kl.jpg'
+image: '/images/items/150820-Campingpark-Lueneburger-Heide-Titel.jpg'
 
 # taxonomies
 categories: 

@@ -7,7 +7,7 @@ summary: |
  Das Wohnmobil Bürstner Ixeo time, Bürstners Einsteiger-Baureihe der Teilintegrierten mit Hubbett, wurde für das Modelljahr 2015 komplett neu entwickelt und aufgewertet. Zur Wahl stehen fünf Grundrisse zwischen rund sechs und 7,5 Metern Länge. CaravaningReisen.de ist den Bürstner Ixeo time it 726 Probe gefahren.
 
 # post thumb
-image: '/images/items/141014-Buerstner-Ixeo-time-it-726-a1-kl.jpg'
+image: '/images/items/141014-Buerstner-Ixeo-time-it-726-a1.jpg'
 
 # taxonomies
 categories: 

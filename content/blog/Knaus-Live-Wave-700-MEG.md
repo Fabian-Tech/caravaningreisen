@@ -7,7 +7,7 @@ summary: |
  Das Wohnmobil Knaus Live eröffnet eine neue Einsteiger-Baureihe. Über der Sitzgruppe im Bug wartet serienmäßig ein Hubbett auf seinen Einsatz und macht das Fahrzeug somit zum vollwertigen Vier-Personen-Mobil. Im Profitest der Fachzeitschrift Reisemobil International zeigt der Knaus Live Wave 700 MEG, was er kann. 
 
 # post thumb
-image: '/images/items/170814-Knaus-Live-Wave-700-MEG-a-kl.jpg'
+image: '/images/items/170814-Knaus-Live-Wave-700-MEG-a.jpg'
 
 # taxonomies
 categories: 

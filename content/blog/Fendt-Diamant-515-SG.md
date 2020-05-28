@@ -7,7 +7,7 @@ summary: |
  Der Wohnwagen Fendt Diamant ist ein Oberklassenmodell, das mit klassischer Eleganz eine konservative Klientel anspricht. Ob die Qualität mit der eines lupenreinen Diamanten mithalten kann, zeigt sich im XXL-Dauertest der Fachzeitschrift Camping, Cars & Caravans.
 
 # post thumb
-image: '/images/items/140530-Fendt-Diamant-515-SG-a-kl.jpg'
+image: '/images/items/140530-Fendt-Diamant-515-SG-a.jpg'
 
 # taxonomies
 categories: 

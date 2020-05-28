@@ -7,7 +7,7 @@ summary: |
  Im Familienwohnwagen Averso plus 440 TK schlafen die Eltern quasi im Obergeschoss: Bürstner nutzt den Platz über der Sitzgruppe für ein absenkbares Doppelbett – die Kinder schlafen in Etagenbetten im Bug. Der überarbeitete Averso plus 440 TK unterzieht sich dem Profitest der Fachzeitschrift Camping, Cars & Caravans. 
 
 # post thumb
-image: '/images/items/131219-WW-Buerstner-Averso-Plus-440-TK-a_kl.jpg'
+image: '/images/items/131219-WW-Buerstner-Averso-Plus-440-TK-a.jpg'
 
 # taxonomies
 categories: 

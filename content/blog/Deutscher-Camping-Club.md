@@ -7,7 +7,7 @@ summary: |
  Der Deutsche Camping Club wurde 1948 als Institution gegründet, die das damals noch verbotene Reisen in der Bundesrepublik ermöglichen sollte. Gleichzeitig unterstützte der Club von Anfang an die Behörden bei der Einrichtung einer Infrastruktur von Campingplätzen und
 
 # post thumb
-image: '/images/items/110725_DCCInfomobil_kl.jpg'
+image: '/images/items/110725_DCCInfomobil.jpg'
 
 # taxonomies
 categories: 

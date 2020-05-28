@@ -7,7 +7,7 @@ summary: |
  Der Look des Wohnwagens Sterckeman Alizé 420 CP für die Saison 2014 überrascht: Der kleine, leichte Franzose hat eine moderne neue Schale erhalten. Im Profitest der Fachzeitschrift Camping Cars & Caravans zeigt sich, ob der Touringwohnwagen Sterckeman Alizé innen halten kann, was er von außen verspricht. 
 
 # post thumb
-image: '/images/items/131111-Sterckeman-Alize-420-CP-a_kl.jpg'
+image: '/images/items/131111-Sterckeman-Alize-420-CP-a.jpg'
 
 # taxonomies
 categories: 

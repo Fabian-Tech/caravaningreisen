@@ -7,7 +7,7 @@ summary: |
  Dethleffs gestaltet bei seinen Teilintegrierten der Esprit Baureihe die Frontschürze des Ducato Fahrerhauses vollkommen neu. Die Baureihe erhält so ein unverwechselbares Gesicht. Auch die farbigen Seitenwände und die sportlichen Heckleuchten des Wohnmobils sorgen für ein ansprechendes Äußeres. Ob 
 
 # post thumb
-image: '/images/items/120516_WM_DethEspT7150EB_a_kl.jpg'
+image: '/images/items/120516_WM_DethEspT7150EB_a.jpg'
 
 # taxonomies
 categories: 

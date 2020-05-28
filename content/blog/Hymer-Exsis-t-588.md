@@ -7,7 +7,7 @@ summary: |
  Das Wohnmobil Hymer Exsis-t gilt als sehr beliebt. Für die neue Saison hat der Hersteller den Teilintegrierten komplett überarbeitet und dabei besonders auf das Gewicht geachtet. Die Fachzeitschrift Reisemobil International hat sich den neuen Hymer Exsis-t 588 im Profitest angesehen.
 
 # post thumb
-image: '/images/items/170619-Hymer-Exsis-t-588-a-kl.jpg'
+image: '/images/items/170619-Hymer-Exsis-t-588-a.jpg'
 
 # taxonomies
 categories: 

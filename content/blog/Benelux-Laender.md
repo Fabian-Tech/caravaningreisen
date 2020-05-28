@@ -7,7 +7,7 @@ summary: |
  Es ist kein weiter Weg, schon gar nicht aus Deutschlands Westen. In kurzer Zeit sind die Niederlande, Belgien und Luxemburg zu erreichen. Innerhalb weniger Tage können Reisemobilisten bei einer Rundfahrt Eindrücke aus gleich drei Ländern sammeln.
 
 # post thumb
-image: '/images/items/170221-007-Spa-kl.jpg'
+image: '/images/items/170221-007-Spa.jpg'
 
 # taxonomies
 categories: 

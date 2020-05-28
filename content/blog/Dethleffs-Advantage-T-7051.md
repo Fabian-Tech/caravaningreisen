@@ -7,7 +7,7 @@ summary: |
  Das Wohnmobil Dethleffs Advantage folgt dem Trend, den Aufbau komplett holzfrei zu konstruieren: Die Baureihe wurde für die neue Saison dem aktuellen Stand der Technik angepasst. Das teilintegrierte Modell Dethleffs Advantage T 7051 DBM unterzieht sich dem Profitest der Fachzeitschrift Reisemobil International.
 
 # post thumb
-image: '/images/items/141124-Dethleffs-Advantage-T-7051-DBM-a-kl.jpg'
+image: '/images/items/141124-Dethleffs-Advantage-T-7051-DBM-a.jpg'
 
 # taxonomies
 categories: 

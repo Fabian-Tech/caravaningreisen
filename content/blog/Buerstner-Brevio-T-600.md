@@ -7,7 +7,7 @@ summary: |
  Mit dem Brevio präsentierte Bürstner zum Caravan Salon 2012 ein sehr kompaktes Wohnmobil das nur unwesentlich größer ist als ein vergleichbarer Kastenwagen. Der Kehler Hersteller möchte damit Kastenwagenkunden den Übergang zu den „richtigen“ Wohnmobilen erleichtern. Der Brevio ist 5,99 Meter lang, 2,10 Meter breit und 2,75 Meter 
 
 # post thumb
-image: '/images/items/121023_WM_BuerBrevT600_a_kl.jpg'
+image: '/images/items/121023_WM_BuerBrevT600_a.jpg'
 
 # taxonomies
 categories: 

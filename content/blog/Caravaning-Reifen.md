@@ -7,7 +7,7 @@ summary: |
  Die Reifen des Wohnwagens oder Wohnmobils zu vernachlässigen ist ein Fehler, der fatale Folgen haben kann. Der richtige Reifendruck, ausreichendes Profil und vor allem das richtige Alter der Reifen sind für eine sichere Fahrt wichtig.
 
 # post thumb
-image: '/images/items/110323_Reifen_kl.jpg.jpg'
+image: '/images/items/110323_Reifen.jpg.jpg'
 
 # taxonomies
 categories: 

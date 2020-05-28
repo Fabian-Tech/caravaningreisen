@@ -7,7 +7,7 @@ summary: |
  Der Wohnwagen Fendt Opal ist aufgestiegen: Mit neuem Interieur und technischen Details tritt der Caravan nun in der Oberklasse an. Wie sich der Neuling im neuen Revier behauptet, zeigt der Profitest des Wohnwagens Fendt Opal 560 SRF in der Fachzeitschrift Camping, Cars & Caravans.
 
 # post thumb
-image: '/images/items/151203-Fendt-Opal-560-SRF-a-kl.jpg'
+image: '/images/items/151203-Fendt-Opal-560-SRF-a.jpg'
 
 # taxonomies
 categories: 

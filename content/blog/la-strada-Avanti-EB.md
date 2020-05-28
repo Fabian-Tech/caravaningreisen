@@ -7,7 +7,7 @@ summary: |
  Mit dem la strada Avanti EB präsentiert die hessische Reisemobilmanufaktur einen ausgebauten Kastenwagen mit Einzelbetten und viel Stauraum. Das Reisemobil auf Basis des Fiat Ducato legt so den Schwerpunkt auf Schlafkomfort, ohne die anderen Funktionen zu vernachlässigen.
 
 # post thumb
-image: '/images/items/140917-la-strada-Avanti-EB-a01-kl.jpg'
+image: '/images/items/140917-la-strada-Avanti-EB-a01.jpg'
 
 # taxonomies
 categories: 

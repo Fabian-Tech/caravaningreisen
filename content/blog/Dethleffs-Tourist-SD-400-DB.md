@@ -7,7 +7,7 @@ summary: |
  Dethleffs hat den Trend zu aerodynamischeren Wohnwagenformen mit seinen Modellen Aerostyle und Aerotourist vorangetrieben. Nun verstärkt der Tourist die Kompaktklasse. Den kleinen Reisewagen gibt es in vier Grundrissen, in zwei Karosserieformen und sechs Lackvarianten. Der Dethleffs im Profitest der Zeitschrift Camping, Cars & Caravans.
 
 # post thumb
-image: '/images/items/120126_WW_DethTourSD400DB_a_kl.jpg'
+image: '/images/items/120126_WW_DethTourSD400DB_a.jpg'
 
 # taxonomies
 categories: 

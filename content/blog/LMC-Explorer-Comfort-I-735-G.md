@@ -7,7 +7,7 @@ summary: |
  Das Wohnmobil LMC Explorer Comfort I 735 G ist eine Gemeinschaftsproduktion: Der Integrierte mit technischem Doppelboden von LMC wird bei Bürstner in Kehl gefertigt. Wie gut diese Kombination beim LMC Explorer Comfort I 735 G funktioniert, testen die Profis der Fachzeitschrift Reisemobil International.
 
 # post thumb
-image: '/images/items/180409-LMC-Explorer-Comfort-I-735-G-a-kl.jpg'
+image: '/images/items/180409-LMC-Explorer-Comfort-I-735-G-a.jpg'
 
 # taxonomies
 categories: 

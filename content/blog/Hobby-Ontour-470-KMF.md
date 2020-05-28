@@ -7,7 +7,7 @@ summary: |
  Der Wohnwagen Hobby Ontour ist ein Einsteigermodell. Die Baureihe wurde für die neue Saison überarbeitet und zeigt sich nun im Hobby-typischer Optik. Der Familiencaravan Hobby Ontour 470 KMF unterzog sich dem Profitest der Fachzeitschrift Camping, Cars & Caravans.
 
 # post thumb
-image: '/images/items/171230-Hobby-Ontour-470-KMF-a-kl.jpg'
+image: '/images/items/171230-Hobby-Ontour-470-KMF-a.jpg'
 
 # taxonomies
 categories: 

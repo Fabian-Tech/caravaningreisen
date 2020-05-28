@@ -7,7 +7,7 @@ summary: |
  Der Saphir ist das Volumenmodell und zugleich die Einstiegsbaureihe des Wohnwagenherstellers Fendt. Insgesamt 19 Grundrisse lassen für Familien und Paare kaum Wünsche offen. Die neuen Saphir Wohnwagen der 2013er Saison sind sofort am Heckleuchtenträger und den Heckblenden erkennbar. Die größten Veränderungen zu den Vorjahresmodellen
 
 # post thumb
-image: '/images/items/121119_WW_FenSaph490TKM_a_kl.jpg'
+image: '/images/items/121119_WW_FenSaph490TKM_a.jpg'
 
 # taxonomies
 categories: 

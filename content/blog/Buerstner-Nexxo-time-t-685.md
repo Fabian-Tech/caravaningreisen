@@ -7,7 +7,7 @@ summary: |
  Das Wohnmobil Bürstner Nexxo time tritt in der unteren Mittelklasse der Teilintegrierten gegen zahlreiche Konkurrenten an. Die Baureihe spricht preisbewusste Käufer an, die ein voll ausgestattetes Wohnmobil suchen. Der Profitest der Fachzeitschrift Reisemobil International nimmt den Nexxo time t 685 genau unter die Lupe.
 
 # post thumb
-image: '/images/items/141016-Buerstner-Nexxo-time-t-685-a-kl.jpg'
+image: '/images/items/141016-Buerstner-Nexxo-time-t-685-a.jpg'
 
 # taxonomies
 categories: 

@@ -7,7 +7,7 @@ summary: |
  Mit der Ixeo time Baureihe spricht Bürstner Einsteiger in die teilintegrierten Reisemobile mit Hubbett an. Flaggschiff dieser Baureihe ist der Ixeo time it 745. Der 7,49 Meter lange Teilintegrierte basiert auf dem Fiat Ducato mit Vorderradantrieb. Zur Wahl stehen
 
 # post thumb
-image: '/images/items/141128-Buerstner-Ixeo-time-it-745-a1-kl.jpg'
+image: '/images/items/141128-Buerstner-Ixeo-time-it-745-a1.jpg'
 
 # taxonomies
 categories: 

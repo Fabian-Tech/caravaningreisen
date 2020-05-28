@@ -7,7 +7,7 @@ summary: |
  Der Weg ins Paradies sei steinig, sagt der Volksmund. Nun, steinig ist der Weg zur Tenuta delle Ripalte nicht. Die nicht geteerte 9 Kilometer lange Anfahrt ab Capoliveri ist eher holprig und staubig. Der spektakuläre Ausblick entschädigt ein wenig für das Gerüttel. Und am Ende des Weges wartet ein wahrhaftiges Urlaubsparadies.
 
 # post thumb
-image: '/images/items/131112-Tenuta-delle-Ripalte-R2-004_kl.jpg'
+image: '/images/items/131112-Tenuta-delle-Ripalte-R2-004.jpg'
 
 # taxonomies
 categories: 

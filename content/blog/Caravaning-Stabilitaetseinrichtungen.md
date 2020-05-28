@@ -7,7 +7,7 @@ summary: |
  Unter der etwas sperrigen Bezeichnung "elektromechanische Stabilitätseinrichtung" widmet sich eine Art ESP der Stabilität von Wohnwagen. Diese auch nachrüstbaren Systeme beziehen ihre Messdaten direkt von der Achse des Wohnwagens und können damit früher auf Schwingungen reagieren als das 
 
 # post thumb
-image: '/images/items/131214_Stabilitaetseinrichtungen_kl.jpg'
+image: '/images/items/131214_Stabilitaetseinrichtungen.jpg'
 
 # taxonomies
 categories: 

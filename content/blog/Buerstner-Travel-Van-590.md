@@ -7,7 +7,7 @@ summary: |
  In der Kürze liegt die Würze, das trifft auf jeden Fall beim neuen Bürstner Travel Van t 590 G zu. 2,20 Meter breit und keine 6 Meter lang. Mit seinen kompakten Außenmaßen ist er so sportlich und wendig unterwegs, dass jedes Ziel zügig erreichbar ist. Gewundene Straßen, enge Kurven, Städtetouren durch schmale Gassen
 
 # post thumb
-image: '/images/items/141120-Buerstner-Travel-Van-590-a1-kl.jpg'
+image: '/images/items/141120-Buerstner-Travel-Van-590-a1.jpg'
 
 # taxonomies
 categories: 

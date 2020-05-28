@@ -7,7 +7,7 @@ summary: |
  Der Wohnwagen Eriba Exciting ist kein Neuling im Markt. Der Paarwohnwagen ähnelt in der neuen Saison äußerlich nun mehr dem großen Bruder Nova S, auch innen wurde gefeilt. Wie das neue Gesicht des Wohnwagens Eriba Exciting und die neue Einrichtung ankommen, testen die Profis von Camping, Cars & Caravans.
 
 # post thumb
-image: '/images/items/160824-Eriba-Exciting-485-a-kl.jpg'
+image: '/images/items/160824-Eriba-Exciting-485-a.jpg'
 
 # taxonomies
 categories: 

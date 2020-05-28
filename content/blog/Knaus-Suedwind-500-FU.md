@@ -7,7 +7,7 @@ summary: |
  Die erfolgreichste Wohnwagen Baureihe bei Knaus wird seit 50 Jahren unter dem Namen Südwind produziert. Zur Saison 2013 kommt der Knaus Südwind in neuer Optik und mit komplett überarbeitetem Innenraum auf den Markt. Im Profitest der Fachzeitschrift Camping, Cars & Caravans soll der Knaus Südwind 500 FU die Qualitäten der neusten 
 
 # post thumb
-image: '/images/items/121122_WW_KnaSuedw500FU_a_kl.jpg'
+image: '/images/items/121122_WW_KnaSuedw500FU_a.jpg'
 
 # taxonomies
 categories: 

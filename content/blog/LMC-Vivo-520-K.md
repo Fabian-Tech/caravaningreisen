@@ -7,7 +7,7 @@ summary: |
  Der Wohnwagen LMC Vivo 520 K ist ein klassischer Familienwohnwagen. Ab 2016 wird er mit leichten Veränderungen auf der gleichen Plattform gebaut wie der Musica und Maestro, nur in Design und Ausstattung unterscheiden sich die Baureihen. Die Fachzeitschrift Camping, Cars & Caravans hat sich den LMC Vivo 520 K genau angesehen.
 
 # post thumb
-image: '/images/items/151103-LMC-Vivo-520-K-a-kl.jpg'
+image: '/images/items/151103-LMC-Vivo-520-K-a.jpg'
 
 # taxonomies
 categories: 

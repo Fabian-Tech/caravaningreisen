@@ -7,7 +7,7 @@ summary: |
  Der Campingpark Zell an der Mosel liegt direkt am Flussufer auf halber Strecke zwischen Trier und Koblenz. Der kleine, aber feine Platz hat sich mittlerweile vier Sterne verdient. Zahlreiche Stellplätze haben einen Blick auf den Fluss und von jedem Stellplatz bietet sich ein herrlicher Ausblick auf die Weinberge.
 
 # post thumb
-image: '/images/items/131120-Camping-Zell-Mosel-R1-001-kl.jpg'
+image: '/images/items/131120-Camping-Zell-Mosel-R1-001.jpg'
 
 # taxonomies
 categories: 

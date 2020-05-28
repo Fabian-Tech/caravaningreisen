@@ -7,7 +7,7 @@ summary: |
  Der Wohnwagen Eriba Touring Troll ist so handlich, wie sein Name es vermuten lässt. Der nur 2,10 Meter breite und 5,79 Meter lange Caravan steckt dabei aber voller technischer Finessen. Der Profitest der Fachzeitschrift Camping, Cars & Caravans schaut sich den Eriba Touring Troll genauer an.
 
 # post thumb
-image: '/images/items/171115-Eriba-Touring-Troll-535-a-kl.jpg'
+image: '/images/items/171115-Eriba-Touring-Troll-535-a.jpg'
 
 # taxonomies
 categories: 

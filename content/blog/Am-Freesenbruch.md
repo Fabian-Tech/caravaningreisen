@@ -7,7 +7,7 @@ summary: |
  Der Campingplatz „Am Freesenbruch“ in Zingst liegt eingebettet zwischen Ostsee und der stillen Schönheit der Boddengewässer und nur 100 m vom weißen Sandstrand gleich hinter dem Deich. Am Freesenbruch bietet auf ungefähr 6 Hektar Gesamtfläche rund 360 Stellplätze für Wohnwagen, Wohnmobile und Zelte.
 
 # post thumb
-image: '/images/items/130625-Camping-Freesenbruch-R1-014-kl.jpg'
+image: '/images/items/130625-Camping-Freesenbruch-R1-014.jpg'
 
 # taxonomies
 categories: 

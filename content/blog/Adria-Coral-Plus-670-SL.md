@@ -7,7 +7,7 @@ summary: |
  Kaum wiederzuerkennen ist in dieser Saison das Wohnmobil Adria Coral Plus: Windschnittig und innen wie außen rundum erneuert präsentiert der slowenische Hersteller sein Flaggschiff für zwei Personen. Ob sich die Modernisierung gelohnt hat, zeigt der Profitest der Fachzeitschrift Reisemobil International.
 
 # post thumb
-image: '/images/items/140325-Adria-Coral-Plus-670SL-a_kl.jpg'
+image: '/images/items/140325-Adria-Coral-Plus-670SL-a.jpg'
 
 # taxonomies
 categories: 

@@ -7,7 +7,7 @@ summary: |
  Das Wohnmobil Hymer ML-I baut auf Mercedes-Benz-Sprinter-Basis auf und will mit zwei Grundrissen in der wettbewerbsstarken 3,5-Tonnen-Klasse seinen Platz erobern. Der Profitest der Fachzeitschrift Reisemobil International prüft, ob das Vorhaben dieses schmalen Integrierten unter einem guten Stern steht.
 
 # post thumb
-image: '/images/items/150520-Hymer-ML-I-580-a-kl.jpg'
+image: '/images/items/150520-Hymer-ML-I-580-a.jpg'
 
 # taxonomies
 categories: 

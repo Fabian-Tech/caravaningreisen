@@ -7,7 +7,7 @@ summary: |
  Der Wohnwagen Weinsberg CaraOne 450 FU, für die aktuelle Saison innen und außen überarbeitet, lockt mit einem sehr günstigen Einstiegspreis: Ab 12.300 Euro ist er zu haben. Wie viel Caravan der Käufer dafür bekommt, testet die Fachzeitschrift Camping, Cars & Caravans in ihrem Profitest.
 
 # post thumb
-image: '/images/items/140718-Weinsberg-CaraOne-450FU-a-kl.jpg'
+image: '/images/items/140718-Weinsberg-CaraOne-450FU-a.jpg'
 
 # taxonomies
 categories: 

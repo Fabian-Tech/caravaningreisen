@@ -7,7 +7,7 @@ summary: |
  Das Wohnmobil Profila RS von Eura Mobil ist als Allround-Talent ausgelegt: Der Teilintegrierte soll bei günstigem Preis vier Personen bequemes und autarkes Reisen ermöglichen. Der Profitest der Fachzeitschrift Reisemobil International stellt die Talente des Profila RS 720 mit Hubbett auf den Prüfstand.
 
 # post thumb
-image: '/images/items/140206-EuraMobil-Profila-RS-a2_kl.jpg'
+image: '/images/items/140206-EuraMobil-Profila-RS-a2.jpg'
 
 # taxonomies
 categories: 

@@ -7,7 +7,7 @@ summary: |
  Das Wohnmobil Westfalia Sven Hedin weckt bei vielen Campern Erinnerungen, fand man doch das Kastenwagen-Mobil in den 70er und 80er Jahren auf Basis des VW LT 28 vielfach auf den Straßen. Jetzt kommt der Westfalia Sven Hedin als Nachfolgemodell auf dem VW Crafter als Basis. Reisemobil International schaut sich die Neuauflage an. 
 
 # post thumb
-image: '/images/items/180507-Westfalia-Sven-Hedin-a-kl.jpg'
+image: '/images/items/180507-Westfalia-Sven-Hedin-a.jpg'
 
 # taxonomies
 categories: 

@@ -7,7 +7,7 @@ summary: |
  Es sollte der perfekte Urlaub werden. Doch beim ersten Mal ging der Plan schief, der Urlaub gelang dennoch. Der zweite Versuch glückte. Das Ziel hieß beide Male Frankreich, genauer Bordeaux, noch genauer Lacanau-Océan im Médoc. Ein persönlicher Erfahrungsbericht über Wellen, Wein, Wohnmobil und Wohnwagen.
 
 # post thumb
-image: '/images/items/130523-T1R2005-Lacanau-Duene-kl.jpg'
+image: '/images/items/130523-T1R2005-Lacanau-Duene.jpg'
 
 # taxonomies
 categories: 

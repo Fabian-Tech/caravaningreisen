@@ -7,7 +7,7 @@ summary: |
  Das Wohnmobil Bürstner Lyseo ist das neueste Familienmitglied des Kehler Herstellers. Mit Funktions-Doppelboden und stufenfreier Lauffläche im Wohnraum geht der Teilintegrierte ins Rennen. Was der Neue kann, zeigt der teilintegrierte Bürstner Lyseo T 690 G im Profitest von Reisemobil International.
 
 # post thumb
-image: '/images/items/160906-Buerstner-Lyseo-T690-a-kl.jpg'
+image: '/images/items/160906-Buerstner-Lyseo-T690-a.jpg'
 
 # taxonomies
 categories: 

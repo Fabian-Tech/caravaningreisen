@@ -7,7 +7,7 @@ summary: |
  HYMER bringt zum Modelljahr 2011 eine neu konzipierte Nova-Baureihe auf den Markt. Beispielhaft für die Überarbeitung ist der HYMER Nova 541 der auf einer Fahrzeugbreite von 2,40 m eine Rundsitzgruppe im Heck und zwei Einzelbetten im Bug beherbergt. Die Preisliste beginnt bei rund 23.000 Euro. Dafür erhält der Kunde aber auch einigen Komfort.
 
 # post thumb
-image: '/images/items/100916_WW_Nova541_a_kl.jpg'
+image: '/images/items/100916_WW_Nova541_a.jpg'
 
 # taxonomies
 categories: 

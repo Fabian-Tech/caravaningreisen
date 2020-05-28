@@ -7,7 +7,7 @@ summary: |
  Hobby geht mit neun Premium-Grundrissen in die Saison 2012. Vom kompakten Touringwohnwagen 440 SFr bis zum großen Tandemachser 720 UML reicht die Palette der neuen Oberklasse-Caravans. Die Grundpreise für den Premium beginnen bei 18.170 Euro und enden bei 25.880 Euro. Premiere hatte der Premium auf dem CARAVAN SALON 2012.
 
 # post thumb
-image: '/images/items/110802_WW_HobPrem560CFe_a2_kl.jpg'
+image: '/images/items/110802_WW_HobPrem560CFe_a2.jpg'
 
 # taxonomies
 categories: 

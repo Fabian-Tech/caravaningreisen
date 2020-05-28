@@ -7,7 +7,7 @@ summary: |
  Die Anstrengungen der Wohnmobil-Hersteller in Sachen Leichtbau haben Fortschritte gemacht. Allen voran entwickelt der Hersteller TEC aus Sassenberg einen großen Familienalkoven für sechs Personen mit nicht mehr als 3,5 Tonnen zulässigem Gesamtgewicht: Das Modell TEC Freetec XS light 694 G. Den Leichtbaualkoven gibt es in Deutschland ab rund
 
 # post thumb
-image: '/images/items/110203_WM_FreeTEClight_a_kl.jpg'
+image: '/images/items/110203_WM_FreeTEClight_a.jpg'
 
 # taxonomies
 categories: 

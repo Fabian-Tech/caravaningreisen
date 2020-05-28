@@ -7,7 +7,7 @@ summary: |
  Jütland ist der flächenmäßig größte Teil Dänemarks, wenn mal einmal von der Insel Grönland absieht, die ebenfalls ein, wenn auch autonomer, Bestandteil Dänemarks ist. Die Halbinsel erstreckt sich von der Grenze zu Deutschland kurz hinter Flensburg bis an den Skagerak, der Meerenge zwischen Nord- und Ostsee. Wir starten die Rundreise im Norden Dänemarks. 
 
 # post thumb
-image: '/images/items/120131_RB_Juetland_kl.jpg'
+image: '/images/items/120131_RB_Juetland.jpg'
 
 # taxonomies
 categories: 

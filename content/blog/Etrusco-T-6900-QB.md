@@ -7,7 +7,7 @@ summary: |
  Das Wohnmobil Etrusco ist die jüngste Marke des Hymer-Konzerns und rollt in der Toskana vom Band. Das Einsteigermodell will mit einfachem Aufbau, aber guter Verarbeitung den Markt erobern. Das Wohnmobil Etrusco T 6900 QB stellt sich dem Profitest der Fachzeitschrift Reisemobil International.
 
 # post thumb
-image: '/images/items/180305-Etrusco-T-6900-QB-a-kl.jpg'
+image: '/images/items/180305-Etrusco-T-6900-QB-a.jpg'
 
 # taxonomies
 categories: 

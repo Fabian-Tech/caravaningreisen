@@ -7,7 +7,7 @@ summary: |
  Der Wohnwagen LMC Vivo 522 K ist ein typischer Familiencaravan. Im Dauertest muss sich der Münsterländer beweisen: Zwölf Monate war der LMC Vivo 522 K mit einer Familie im Dauereinsatz. Nun testen die Profis von Camping, Cars & Caravans, ob er hält, was Camper sich von diesem Modell versprechen. 
 
 # post thumb
-image: '/images/items/170314-LMC-Vivo-522-K-a-kl.jpg'
+image: '/images/items/170314-LMC-Vivo-522-K-a.jpg'
 
 # taxonomies
 categories: 

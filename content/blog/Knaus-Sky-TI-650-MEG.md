@@ -7,7 +7,7 @@ summary: |
  Das Wohnmobil Knaus Sky TI gehört zur Mittelklasse-Baureihe des Herstellers. Mit dem Modell Knaus Sky TI 650 MEG erweitert Knaus nun die Grundrisspalette und setzt zwei Einzelbetten ins Heck. Der Profitest der Fachzeitschrift Reisemobil International schaut sich den Neuen genauer an.
 
 # post thumb
-image: '/images/items/180110-Knaus-Sky-TI-650-MEG-a-kl.jpg'
+image: '/images/items/180110-Knaus-Sky-TI-650-MEG-a.jpg'
 
 # taxonomies
 categories: 

@@ -7,7 +7,7 @@ summary: |
  Neun Grundrisse der überarbeiteten B-Klasse sollen zur Saison 2011 die Früchte der Qualitätsoffensive bei Hymer tragen. Der Hymer B 594 sticht mit seinem Grundriss aus den bekannten Klassikern der Baureihe heraus. Er stellt auf einer Länge von 6,99 Meter ein Hubbett im Bug und ein Doppelbett im Heck bereit.
 
 # post thumb
-image: '/images/items/100923_WM_HYB594_a_kl.jpg'
+image: '/images/items/100923_WM_HYB594_a.jpg'
 
 # taxonomies
 categories: 

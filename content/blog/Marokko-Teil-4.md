@@ -7,7 +7,7 @@ summary: |
  Kaum eine Stadt in Marokko weckt bereits vorab so viele Erwartungen wie Marrakesch. Die Stadt im Zentrum Marokkos hat über eine Million Einwohner und ist auf Grund der Vielzahl der Sehenswürdigkeiten ein beliebtes Touristenziel. Eine 12 km lange lehmfarbige, mit Türmen befestigte Stadtmauer aus dem 12. Jahrhundert legt ihren mächtigen Ring 
 
 # post thumb
-image: '/images/items/100925_RB_MarokT4_R3_010_kl.jpg'
+image: '/images/items/100925_RB_MarokT4_R3_010.jpg'
 
 # taxonomies
 categories: 

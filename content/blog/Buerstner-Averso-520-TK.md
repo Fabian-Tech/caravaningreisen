@@ -7,7 +7,7 @@ summary: |
  Der Wohnwagen Bürstner Averso 520 TK greift einen klassischen Familiengrundriss auf, bringt diesen aber auf einem schmalerem Aufbau als beim 2,50 Meter breiten Schwestermodell Premio unter. Ob Kind und Kegel dafür Kompromisse eingehen müssen, zeigt der Profitest der Fachzeitschrift Camping, Cars & Caravans.
 
 # post thumb
-image: '/images/items/141130-Buerstner-Averso-TK-520-a-kl.jpg'
+image: '/images/items/141130-Buerstner-Averso-TK-520-a.jpg'
 
 # taxonomies
 categories: 

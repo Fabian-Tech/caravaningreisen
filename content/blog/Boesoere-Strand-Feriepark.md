@@ -7,7 +7,7 @@ summary: |
  Unmittelbar am Großen Belt unweit von Hesselager liegt der dänische Campingplatz Bösöre Strand Feriepark. Auf der Fünf-Sterne-Anlage werden die Ferien zum Erlebnis für die ganze Familie. Das Herz von Bösöre Strand Feriepark bildet der alte Gutshof. Er beherbergt die Rezeption, von der aus die rund 300 Stellplätze organisiert werden.
 
 # post thumb
-image: '/images/items/160113-Boesoere-Strand-Feriepark-013_kl.jpg'
+image: '/images/items/160113-Boesoere-Strand-Feriepark-013.jpg'
 
 # taxonomies
 categories: 

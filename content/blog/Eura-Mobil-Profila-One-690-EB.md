@@ -7,7 +7,7 @@ summary: |
  Das Wohnmobil Eura Mobil Profila One spart viel Gewicht durch konsequente Leichtbauweise und Verzicht auf einen Doppelboden. Welche Vorteile das Leichtgewicht hat und ob auch bei der weiteren Ausstattung gespart wurde, nehmen die Profis der Fachzeitschrift Reisemobil International genau unter die Lupe.
 
 # post thumb
-image: '/images/items/150218-Eura-Mobil-Profila-One-690-EB-a-kl.jpg'
+image: '/images/items/150218-Eura-Mobil-Profila-One-690-EB-a.jpg'
 
 # taxonomies
 categories: 

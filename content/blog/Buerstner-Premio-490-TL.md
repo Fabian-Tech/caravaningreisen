@@ -7,7 +7,7 @@ summary: |
  Der Wohnwagen Bürstner Premio hat viel Konkurrenz aus der eigenen Unternehmensgruppe: Drei Einsteiger-Caravans unterschiedlicher Marken aus dem Hymer-Konzern bauen auf der gleichen Basis auf. Wie sich der Wohnwagen Bürstner Premio schlägt, zeigt der Profitest der Fachzeitschrift Camping, Cars & Caravans.
 
 # post thumb
-image: '/images/items/160104-Buerstner-Premio-490-TL-a-kl.jpg'
+image: '/images/items/160104-Buerstner-Premio-490-TL-a.jpg'
 
 # taxonomies
 categories: 

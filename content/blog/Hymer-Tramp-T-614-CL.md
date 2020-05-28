@@ -7,7 +7,7 @@ summary: |
  Äußerlich ist das teilintegrierte Wohnmobil Hymer Tramp T 614 CL kein Revoluzzer. Auch im Innenraum geht es dezent zu. Die Revolution steckt unter dem Kleid. Eine Grundmasse von weniger als 2.900 Kilogramm ermöglicht es, den 7,20 Meter langen Teilintegrierten bis 3.500 Kilogramm zuzulassen. Und das bei ausreichender Zuladung für 
 
 # post thumb
-image: '/images/items/120918_WM_HymTramT614CL_a_kl.jpg'
+image: '/images/items/120918_WM_HymTramT614CL_a.jpg'
 
 # taxonomies
 categories: 

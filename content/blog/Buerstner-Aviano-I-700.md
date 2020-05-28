@@ -7,7 +7,7 @@ summary: |
  Im Wohnmobil Bürstner Aviano vereinen sich das bekannte Bürstner-Design und die Leichtbau-Technik des Schwesterunternehmens LMC. Ob diese Liaison eine glückliche Verbindung ist, testen die Profis der Fachzeitschrift Reisemobil International am Wohnmobil Bürstner Aviano I 700.
 
 # post thumb
-image: '/images/items/151130-Buerstner-Aviano-I-700-a-kl.jpg'
+image: '/images/items/151130-Buerstner-Aviano-I-700-a.jpg'
 
 # taxonomies
 categories: 

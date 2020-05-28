@@ -7,7 +7,7 @@ summary: |
  Zum Caravan Salon 2010 feierte die Wohnmobilmarke Weinsberg ihre Premiere im Wohnwagenbau. Dabei setzte Weinsberg mit den CaraOne getauften Wohnwagen auf ein bemerkenswertes Preis-Leistungs-Verhältnis bei solider Qualität. Mit dem CaraOne 740 UDF hat die junge Marke nun auch einen Großraumwohnwagen im Programm.
 
 # post thumb
-image: '/images/items/120403_WW_WeinsCarOn740UDF_a_kl.jpg'
+image: '/images/items/120403_WW_WeinsCarOn740UDF_a.jpg'
 
 # taxonomies
 categories: 

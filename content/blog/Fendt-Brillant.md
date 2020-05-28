@@ -7,7 +7,7 @@ summary: |
  Fendt Caravan hat mit der Baureihe Brillant seine Luxusklasse neu definiert. Bereits die äußere Optik setzt Maßstäbe in puncto Design. Im Innenraum kreierte Fendt eine Ausstattung von unaufdringlicher Eleganz. Den kleinsten Brillant gibt es für knapp unter 33.000 Euro. Das Flaggschiff Brillant 700 TFD beginnt bei knapp unter 40.000 Euro.
 
 # post thumb
-image: '/images/items/100914_WW_FeBrill700TFD_a_kl.jpg'
+image: '/images/items/100914_WW_FeBrill700TFD_a.jpg'
 
 # taxonomies
 categories: 

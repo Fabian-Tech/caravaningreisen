@@ -7,7 +7,7 @@ summary: |
  Nach zwei Jahren Pause stellt la strada den Avanti M wieder ins Schaufenster. Zum Modelljahr 2016 hat die hessische Reisemobilmanufaktur ihren kleinsten Kastenwagen neu aufgelegt. Dazu wurde der Grundriss des la strada Avanti M deutlich überarbeitet.
 
 # post thumb
-image: '/images/items/150620-la-strada-Avanti-M-a01-kl.jpg'
+image: '/images/items/150620-la-strada-Avanti-M-a01.jpg'
 
 # taxonomies
 categories: 

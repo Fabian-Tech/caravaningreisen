@@ -7,7 +7,7 @@ summary: |
  Der Dethleffs Aero Style Baujahr 2012 sieht von außen fast aus wie gehabt. Innen ist er jedoch deutlich umgestylt. Und auch die Grundrisse sind anders als in den Vorjahren. Vom Familienwohnwagen entwickelte sich der Aero Style zum kompakten Paarwohnwagen. Die Fachzeitschrift Camping, Cars & Caravans testete den Dethleffs Aero Style 
 
 # post thumb
-image: '/images/items/120627_WW_DethAerSty460V_a_kl.jpg'
+image: '/images/items/120627_WW_DethAerSty460V_a.jpg'
 
 # taxonomies
 categories: 

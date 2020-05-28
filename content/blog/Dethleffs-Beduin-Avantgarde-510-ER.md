@@ -7,7 +7,7 @@ summary: |
  Der Wohnwagen Dethleffs Beduin Avantgarde 510 ER ist ein Testballon für die nächste Saison: Mit Eleganz und Komfort schickt der Hersteller aus Isny den Oberklassen-Caravan in das Rennen um die Kundengunst. Der Profitest der Fachzeitschrift Camping, Cars & Caravans urteilt, ob er das Zeug zum Bestseller hat.
 
 # post thumb
-image: '/images/items/150501-Dethleffs-Beduin-Avantgarde-510-ER-a-kl.jpg'
+image: '/images/items/150501-Dethleffs-Beduin-Avantgarde-510-ER-a.jpg'
 
 # taxonomies
 categories: 

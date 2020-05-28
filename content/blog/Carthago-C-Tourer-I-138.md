@@ -7,7 +7,7 @@ summary: |
  Das vollintegrierte Wohnmobil Carthago C Tourer I 138 bewirbt der Allgäuer Hersteller als Super-Leichtgewicht mit üppiger Ausstattung. 2.835 Kilogramm Leergewicht für einen 6,35 Meter langen Vollintegrierten mit Doppelboden klingt durchaus schlank. Auch der Grundpreis des Carthago C Tourer I 138 von knapp 67.800 Euro erscheint 
 
 # post thumb
-image: '/images/items/130312-WM-Carthago-C-Tourer-I-138-a_kl.jpg'
+image: '/images/items/130312-WM-Carthago-C-Tourer-I-138-a.jpg'
 
 # taxonomies
 categories: 

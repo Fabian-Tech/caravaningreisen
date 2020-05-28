@@ -7,7 +7,7 @@ summary: |
  Das Wohnmobil Malibu T 460 bekommt in der neuen Saison einen durchgehenden Doppelboden. Der Teilintegrierte übernimmt damit ein Qualitätsmerkmal des Mutterunternehmens Carthago. Reisemobil International testet, ob der Malibu T 460 eine billige Kopie oder eine günstige Alternative zu den Carthago-Modellen ist.
 
 # post thumb
-image: '/images/items/171204-Malibu-T-460-a2-kl.jpg'
+image: '/images/items/171204-Malibu-T-460-a2.jpg'
 
 # taxonomies
 categories: 

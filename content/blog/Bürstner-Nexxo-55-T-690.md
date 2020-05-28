@@ -7,7 +7,7 @@ summary: |
  Mit dem Wohnmobil Nexxo 55 bringt Bürstner im 55. Jahr seiner Gründung eine neue Edition des Bestsellers Bürstner Nexxo mit besonderem Design und umfangreicher Ausstattung auf den Markt. Zwei verschiedene 55 Grundrisse ergänzen das Nexxo Programm. Wir fuhren den Bürstner Nexxo 55 T 690 mit Einzelbetten und Variobad.
 
 # post thumb
-image: '/images/items/130709-Bürstner-Nexxo-55-T-690_kl.jpg'
+image: '/images/items/130709-Bürstner-Nexxo-55-T-690.jpg'
 
 # taxonomies
 categories: 

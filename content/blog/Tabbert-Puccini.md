@@ -7,7 +7,7 @@ summary: |
  Wenn Tabbert in der oberen Preisklasse eine Premiere ankündigt, darf man gespannt sein. Die neue Modellgeneration des Puccini ist leicht ans Topmodel Paganini angelehnt und will damit die große Bühne erobern. Ob der Auftritt gelingt, testet die Fachzeitschrift Camping, Cars & Caravans in ihrer Mai-Ausgabe. Der Tabbert Puccini 506 TD
 
 # post thumb
-image: '/images/items/110419_WW_TabPuc560TD_a_kl.jpg'
+image: '/images/items/110419_WW_TabPuc560TD_a.jpg'
 
 # taxonomies
 categories: 

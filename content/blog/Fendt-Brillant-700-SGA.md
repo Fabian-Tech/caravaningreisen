@@ -7,7 +7,7 @@ summary: |
  Der Wohnwagen Fendt Brillant ist das Oberklassenmodell des Mertinger Herstellers und auf Luxus getrimmt. Der Caravan beeindruckt durch seine Größe und die Ausstattung - ein einfaches Reisegefährt ist er nicht. Die Profis von Camping, Cars & Caravans haben den Fendt Brillant 700 SGA getestet. 
 
 # post thumb
-image: '/images/items/180611-Fendt-Brillant-700-SGA-a-kl.jpg'
+image: '/images/items/180611-Fendt-Brillant-700-SGA-a.jpg'
 
 # taxonomies
 categories: 

@@ -7,7 +7,7 @@ summary: |
  Seit 30 Jahren baut Bürstner Reisemobile. Grund genug für Jubel – Zum Jubiläum bietet Bürstner seine Bestseller im Edition 30 Look, mit reichlich Ausstattung und attraktivem Preisvorteil. Die Auswahl unter den Bürstner Edition 30 Modellen ist vielfältig: Die Edition 30 bietet für jeden Geschmack und Anspruch das passende Modell. 
 
 # post thumb
-image: '/images/items/160715-Buerstner-Edition-30-5964_kl.jpg'
+image: '/images/items/160715-Buerstner-Edition-30-5964.jpg'
 
 # taxonomies
 categories: 

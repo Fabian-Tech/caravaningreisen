@@ -7,7 +7,7 @@ summary: |
  Wer sich ein ausgebautes Kastenwagen-Wohnmobil zulegt, sucht in der Regel eine Kompromiss zwischen Alltagstauglichkeit und Wohnkomfort. Von einem Kompromiss kann beim la strada Avanti C jedoch keine Rede sein. Das C im Namen steht für Comfort. Den bietet der la strada Avanti C mit Platz und reichlich Ausstattung im Innenraum.
 
 # post thumb
-image: '/images/items/140915-la-strada-Avanti-C-a01-kl.jpg'
+image: '/images/items/140915-la-strada-Avanti-C-a01.jpg'
 
 # taxonomies
 categories: 

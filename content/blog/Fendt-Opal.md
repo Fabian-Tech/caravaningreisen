@@ -7,7 +7,7 @@ summary: |
  Mit der Wohnwagen Baureihe Opal möchte Fendt seine Oberklasse neue definieren. Der Opal vereint die Eigenschaften seiner Vorgänger Platin und Topas, die zum Ende der Saison 2012 auslaufen. Das Möbeldekor verbindet helle und dunkle Elemente, helle Stoffe und ein heller Bodenbelag sollen dem Opal eine „frische“ Wohnatmosphäre geben.
 
 # post thumb
-image: '/images/items/121122_WW_FenOpal560_a_kl.jpg'
+image: '/images/items/121122_WW_FenOpal560_a.jpg'
 
 # taxonomies
 categories: 

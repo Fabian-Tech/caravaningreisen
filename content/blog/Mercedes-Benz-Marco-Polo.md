@@ -7,7 +7,7 @@ summary: |
  Mehr Freiheit und Unabhängigkeit verspricht das neue Modell des Mercedes Marco Polo. Auf dem Caravan Salon 2014 wurde die aktuelle Generation des kompakten Reisemobils auf Basis der V-Klasse vorgestellt, das Funktionalität mit Stil kombinieren soll.
 
 # post thumb
-image: '/images/items/150119-Mercedes-Marco-Polo-a-kl.jpg'
+image: '/images/items/150119-Mercedes-Marco-Polo-a.jpg'
 
 # taxonomies
 categories: 

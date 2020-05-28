@@ -7,7 +7,7 @@ summary: |
  Vacanceselect bietet mit Selectcamp auf dem Campingplatz Norcenni Girasole Club den idealen Urlaub für Familien an. Die Ferienanlage im Herzen der Toskana liegt rund 40 Kilometer von Florenz entfernt und erstreckt sich auf den Hügeln des Chianti mit von Bäumen gesäumten Terrassen. Selectcamp hält hier eine breite Auswahl an Unterkünften bereit:
 
 # post thumb
-image: '/images/items/131015-Camping-Norcenni-Girasole-R1-002_kl.jpg'
+image: '/images/items/131015-Camping-Norcenni-Girasole-R1-002.jpg'
 
 # taxonomies
 categories: 

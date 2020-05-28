@@ -7,7 +7,7 @@ summary: |
  Der la strada Avanti F ist für Paare und Familien gleichermaßen geeignet. Die auf kompakte Mobile spezialisierte Echzeller Reisemobilmanufaktur baut ein großes Doppelbett unter die Decke, das tagsüber hoch geklappt ist, sowie ein zweites Doppelbett hinten quer. So finden bis zu vier Personen im la strada Avanti F eine Schlafstatt
 
 # post thumb
-image: '/images/items/141118-la-strada-Avanti-F-a1-kl.jpg'
+image: '/images/items/141118-la-strada-Avanti-F-a1.jpg'
 
 # taxonomies
 categories: 

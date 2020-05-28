@@ -7,7 +7,7 @@ summary: |
  Der Dethleffs Campy ist auch für kleinere Zugfahrzeuge geeignet. Trotz einer Aufbaulänge von gerade mal 3,72 Metern und einer Breite von 2,13 Metern bietet er ausreichend Platz für zwei Personen. Im Modelljahr 2011 ist der Campy auch in einer zweiten Variante mit einer zum Bett umbaubaren Sitzgruppe im Bug zu haben. Der Preis für den Campy beginnt bei 8.600 Euro.
 
 # post thumb
-image: '/images/items/110321_Campy_a_kl.jpg'
+image: '/images/items/110321_Campy_a.jpg'
 
 # taxonomies
 categories: 

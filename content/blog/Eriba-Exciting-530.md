@@ -7,7 +7,7 @@ summary: |
  Der Wohnwagen Eriba Exciting wurde runderneuert: Nach der äußerlichen Umgestaltung im Vorjahr erhielt er nun ein komplett neues Innenleben. Mit dem neuen Look will der Caravan reisende Paare von sich überzeugen. Die Profis von Camping, Cars & Caravans haben geprüft, wie gut der Eriba Exciting 530 gelungen ist.
 
 # post thumb
-image: '/images/items/180514-Eriba-Exciting-530-a-kl.jpg'
+image: '/images/items/180514-Eriba-Exciting-530-a.jpg'
 
 # taxonomies
 categories: 

@@ -7,7 +7,7 @@ summary: |
  Die Provence ist ein Klassiker unter den Caravaning-Zielen Europas. Ganz gleich ob mit dem Caravan auf einem der 836 Campingplätze der Region oder mit dem Reisemobil auf einem Stellplatz. Dabei ist nicht nur der azurblaue Küstenstreifen zwischen Saintes-Maries-de-la-Mer in der Camargue und Menton an der italienischen Grenze interessant.
 
 # post thumb
-image: '/images/items/180129-Provence-001-Landschaft-kl.jpg'
+image: '/images/items/180129-Provence-001-Landschaft.jpg'
 
 # taxonomies
 categories: 

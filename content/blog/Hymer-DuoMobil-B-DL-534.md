@@ -7,7 +7,7 @@ summary: |
  Das Wohnmobil Hymer DuoMobil B DL 534 ist die sportliche Version der Hymer B-Klasse. Der Vollintegrierte ist schmaler und auf reisende Paare zugeschnitten. Der Profitest der Fachzeitschrift Reisemobil International zeigt, ob das Hymer DuoMobil B DL 534 die positiven Eigenschaften des großen Bruders erhalten hat. 
 
 # post thumb
-image: '/images/items/161024-Hymer-B-DL-534-a-kl.jpg'
+image: '/images/items/161024-Hymer-B-DL-534-a.jpg'
 
 # taxonomies
 categories: 

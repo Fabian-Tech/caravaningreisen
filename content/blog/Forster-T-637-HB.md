@@ -7,7 +7,7 @@ summary: |
  Das Wohnmobil Forster T 637 HB stellt sich den Billigimporten aus Südeuropa und der heimischen Konkurrenz im Einsteigerbereich. Ob der Teilintegrierte Forster T 637 H konkurrenzfähig ist, prüft der Profitest von Reisemobil international.
 
 # post thumb
-image: '/images/items/161228-Forster-T-637-HB-a2-kl.jpg'
+image: '/images/items/161228-Forster-T-637-HB-a2.jpg'
 
 # taxonomies
 categories: 

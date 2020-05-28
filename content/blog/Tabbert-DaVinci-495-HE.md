@@ -7,7 +7,7 @@ summary: |
  Der Wohnwagen Tabbert DaVinci steigt in der neuen Saison vom Einsteiger in die Mittelklasse auf. Der Caravan will mit mehr Komfort und Reisetauglichkeit reisende Paare für sich gewinnen. Der Profitest von Camping, Cars & Caravans prüft, ob der Aufstieg des Tabbert DaVinci 495 HE gelungen ist.
 
 # post thumb
-image: '/images/items/171009-Tabbert-DaVinci-495-HE-a-kl.jpg'
+image: '/images/items/171009-Tabbert-DaVinci-495-HE-a.jpg'
 
 # taxonomies
 categories: 

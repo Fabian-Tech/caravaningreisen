@@ -7,7 +7,7 @@ summary: |
  Der Campingplatz Naturcamp Pruchten liegt nur wenige hundert Meter vom Barther Bodden entfernt direkt neben dem Nationalpark Vorpommersche Boddenlandschaft. Der familienfreundliche Campingplatz hat ein vier Sterne Klassifizierung und liegt inmitten einer schönen Naturlandschaft. Eine wahre Oase der Ruhe.
 
 # post thumb
-image: '/images/items/141022-Naturcamp-Pruchten-002-kl.jpg'
+image: '/images/items/141022-Naturcamp-Pruchten-002.jpg'
 
 # taxonomies
 categories: 

@@ -7,7 +7,7 @@ summary: |
  Langeland ist eine 52 km lange und bis zu 11 km schmale Insel in der sogenannten „Dänischen Südsee“. Über ein Brückensystem das noch kleinere Inseln einschließt ist sie mit Fünen verbunden. Gerade einmal 13.000 Einwohner bevölkern das Eiland. In den Ferien ist Langeland dank 
 
 # post thumb
-image: '/images/items/120206_RB_LangLol_Fahr_kl.jpg'
+image: '/images/items/120206_RB_LangLol_Fahr.jpg'
 
 # taxonomies
 categories: 

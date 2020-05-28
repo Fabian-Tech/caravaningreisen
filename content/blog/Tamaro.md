@@ -7,7 +7,7 @@ summary: |
  Der Campingplatz Tamaro in Tenero existiert seit 60 Jahren, doch erst 2006 hat ihn die Familie Zanolini erstanden und professionell in die Liga der besten Plätze am Lago Maggiore geführt. Zahlreiche Auszeichnungen belegen, dass hier der Schweizer Qualitätstourismus zuhause ist. Eine Auszeichnung gab‘s vor kurzem vom Schweizer Tourismus 
 
 # post thumb
-image: '/images/items/120808_CP_Tamaro_StrandPaar_kl.jpg'
+image: '/images/items/120808_CP_Tamaro_StrandPaar.jpg'
 
 # taxonomies
 categories: 

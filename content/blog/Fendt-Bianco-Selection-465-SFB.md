@@ -7,7 +7,7 @@ summary: |
  Der Wohnwagen Fendt Bianco Selection ist neu in der Familie: Mit edlerem Interieur in hellen Farbtönen und viel Technik an Bord setzt sich der Paarwohnwagen vom normalen Bianco ab. Ist er wirklich eine gute Wahl, wie es der Name suggeriert? Der Profitest der Fachzeitschrift Camping, Cars & Caravans gibt die Antwort.
 
 # post thumb
-image: '/images/items/150112-Fendt-Bianco-Selection-465-SFB-Performance-a-kl.jpg'
+image: '/images/items/150112-Fendt-Bianco-Selection-465-SFB-Performance-a.jpg'
 
 # taxonomies
 categories: 

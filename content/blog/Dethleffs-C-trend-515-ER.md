@@ -7,7 +7,7 @@ summary: |
  Beim Wohnwagen Dethleffs C’trend will der Name Programm sein: Als preisgünstig, modern, attraktiv und mit guter Ausstattung wirbt der Caravan um Einsteiger als Kunden. Kann der C’trend Trends setzen? Das beantwortet der Profitest der Fachzeitschrift Camping, Cars & Caravans.
 
 # post thumb
-image: '/images/items/141001-Dethleffs-c-trend-515-ER-a-kl.jpg'
+image: '/images/items/141001-Dethleffs-c-trend-515-ER-a.jpg'
 
 # taxonomies
 categories: 

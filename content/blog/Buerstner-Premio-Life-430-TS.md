@@ -7,7 +7,7 @@ summary: |
  Der Wohnwagen Bürstner Premio Life bringt auf knapp fünf Metern Aufbaulänge alle Basics für's Campen unter. Der kleine Einsteiger ist leicht, gut manövrierbar und günstig. Wie viel Wohnwagen bietet der Bürstner Premio Life 430 TS? Das untersucht der Profitest von Camping, Cars & Caravans. 
 
 # post thumb
-image: '/images/items/170626-Buerstner-Premio-Life-430-TS-a-kl.jpg'
+image: '/images/items/170626-Buerstner-Premio-Life-430-TS-a.jpg'
 
 # taxonomies
 categories: 

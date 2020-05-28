@@ -7,7 +7,7 @@ summary: |
  Die Wohnmobile der Terrestra Baureihe sind ein Bestseller im Programm des Herstellers Eura Mobil. Zum Modelljahr 2013 bekommt die Baureihe Zuwachs. Vier neue Grundrisse ergänzen das Programm. Die Fachzeitschrift Reisemobil International hat den neuen Teilintegrierten Eura Mobil Terrestra T 690 HB im Profitest unter die Lupe genommen.
 
 # post thumb
-image: '/images/items/121114_WM_EurMoTerT690HB_a_kl.jpg'
+image: '/images/items/121114_WM_EurMoTerT690HB_a.jpg'
 
 # taxonomies
 categories: 

@@ -7,7 +7,7 @@ summary: |
  Der Wohnwagen Dethleffs Generation ist der Beginn einer neuen Mittelklasse-Baureihe, die mit fünf Grundrissen und neuen Interieur-Ideen um die Gunst der Kunden wirbt. Das Modell Dethleffs Generation 515 LE, für zwei Camper ausgelegt, wird von den Profis von Camping, Cars & Caravans getestet.
 
 # post thumb
-image: '/images/items/180820-Dethleffs-Generation-515-LE-a-kl.jpg'
+image: '/images/items/180820-Dethleffs-Generation-515-LE-a.jpg'
 
 # taxonomies
 categories: 

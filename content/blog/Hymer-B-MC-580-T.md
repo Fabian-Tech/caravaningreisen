@@ -7,7 +7,7 @@ summary: |
  Das Wohnmobil Hymer B-MC 580 T bringt jede Menge Neues mit: Baureihe und Basisfahrzeug sind ganz neu, das SLC-Chassis ist auch noch jung. Der Teilintegrierte ist auf dem neuen Mercedes Sprinter aufgebaut und mit viel Technik ausgestattet. Was der Hymer B-MC 580 T kann, sehen sich die Profis von Reisemobil International an.
 
 # post thumb
-image: '/images/items/181105-Hymer-B-MC-580-T-a-kl.jpg'
+image: '/images/items/181105-Hymer-B-MC-580-T-a.jpg'
 
 # taxonomies
 categories: 

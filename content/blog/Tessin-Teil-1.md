@@ -7,7 +7,7 @@ summary: |
  Das Tessin macht sieben Prozent der Gesamtfläche der Schweiz aus und ist damit eine durchaus überschaubare Region. Dennoch ist es so vielseitig, dass es sich nur schwer in Kürze beschreiben lässt. Es gibt viel Gegensätzliches: Palmen und Gletscher, Genuß und Extremsport, moderne Architektur und alte Kirchen. Der höchste Berg, das Rheinwaldhorn 
 
 # post thumb
-image: '/images/items/110914_RB_TessT1_R1_11_kl.jpg'
+image: '/images/items/110914_RB_TessT1_R1_11.jpg'
 
 # taxonomies
 categories: 

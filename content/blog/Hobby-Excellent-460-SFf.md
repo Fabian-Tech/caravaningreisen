@@ -7,7 +7,7 @@ summary: |
  Der Wohnwagen Hobby Excellent ist ein Mittelklasse-Modell. Reisende Paare können aus 12 unterschiedlichen Ausführungen ihren Favoriten wählen, darunter auch den neuen Hobby Excellent 460 SFf mit einem polarisierenden Grundriss. Die Profis von Camping, Cars & Caravans schauen sich den Wohnwagen genauer an.
 
 # post thumb
-image: '/images/items/180430-Hobby-Excellent-460-SFf-a-kl.jpg'
+image: '/images/items/180430-Hobby-Excellent-460-SFf-a.jpg'
 
 # taxonomies
 categories: 

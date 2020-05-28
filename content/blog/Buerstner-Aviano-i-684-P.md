@@ -7,7 +7,7 @@ summary: |
  MP3-Player anschließen, Playlist „Urlaub“ wählen, Armlehnen runter, Automatik auf A, Tempomat auf 100 km/h (Autobahn), entspannen und die Aussicht genießen. So macht Wohnmobil fahren Spaß. Die Pilotensitze des Bürstner Aviano I 684 P Testwohnmobils sind gemütlich - auch während langer Autobahnfahrten. Der 115 KW (157 PS) Motor
 
 # post thumb
-image: '/images/items/110608_WM_BueAvi684_a_kl.jpg'
+image: '/images/items/110608_WM_BueAvi684_a.jpg'
 
 # taxonomies
 categories: 

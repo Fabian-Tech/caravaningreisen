@@ -7,7 +7,7 @@ summary: |
  Das Wohnmobil Adria Coral kommt aus gutem Hause: Der Hersteller ist bekannt für sein gutes Preis-Leistungs-Verhältnis. Als Adria Coral Supreme wartet der Teilintegrierte mit üppiger Ausstattung auf. Am Beispiel des Adria Coral Supreme 670 SL testen die Profis von Reisemobil International, wie komplett das Wohnmobil wirklich ist. 
 
 # post thumb
-image: '/images/items/180531-Adria-Coral-Supreme-670-SL-a-kl.jpg'
+image: '/images/items/180531-Adria-Coral-Supreme-670-SL-a.jpg'
 
 # taxonomies
 categories: 

@@ -7,7 +7,7 @@ summary: |
  Der Paarwohnwagen Hobby Prestige 495 UL hat den Anspruch, Komfort und Eleganz mit kompakter Bauweise zu verbinden. Die Optik des Caravans greift Elemente der edlen Premium-Baureihe des Fockbeker Herstellers auf. Der Profitest der Fachzeitschrift Camping, Cars & Caravans nimmt den Hobby Prestige 495 UL unter die Lupe.
 
 # post thumb
-image: '/images/items/131016-Hobby-Prestige-495-UL-a_kl.jpg'
+image: '/images/items/131016-Hobby-Prestige-495-UL-a.jpg'
 
 # taxonomies
 categories: 

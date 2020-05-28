@@ -7,7 +7,7 @@ summary: |
  Für seinen ersten Ausbau auf Fiat Ducato-Basis, den „Columbus“, setzt Westfalia auf ein Innenraumkonzept, das maximale Flexibilität bieten soll. Die Innenausstattung des neuen Columbus präsentiert sich im modernen und geradlinigen Design. Der ausgebaute Kastenwagen Westfalia Columbus ist ab einem Grundpreis von 47.000 Euro erhältlich.
 
 # post thumb
-image: '/images/items/110217_WM_WestCol_a_kl.jpg'
+image: '/images/items/110217_WM_WestCol_a.jpg'
 
 # taxonomies
 categories: 

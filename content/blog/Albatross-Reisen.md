@@ -7,7 +7,7 @@ summary: |
  Albatross Reisen ist spezialisiert auf Campingreisen in Europa. Der Reiseanbieter vermietet rund 1000 Unterkünfte in unterschiedlichen Varianten auf über 120 Campingplätze in 11 europäischen Ländern, von Italien über Kroatien und Spanien bis hin nach Deutschland. Gebucht wird im Internet und per Telefon. Die Anreise erfolgt 
 
 # post thumb
-image: '/images/items/150820-Albatross-Reisen-Titel-kl.jpg'
+image: '/images/items/150820-Albatross-Reisen-Titel.jpg'
 
 # taxonomies
 categories: 

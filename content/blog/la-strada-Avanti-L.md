@@ -7,7 +7,7 @@ summary: |
  Das Kastenwagen-Wohnmobil Avanti L ist der Dauerbrenner im Programm der la strada Fahrzeugbau GmbH. Bereits seit Anfang der 90er Jahre ist das Modell im Angebot. Zum Modelljahr 2017 präsentiert la strada seinen Bestseller in neuem Glanz. Mehr Schlafkomfort und erhöhte Variabilität stehen im Mittelpunkt des neuen Avanti L-Grundrisses.
 
 # post thumb
-image: '/images/items/160519_lastradaAvantiL_0293_kl.jpg'
+image: '/images/items/160519_lastradaAvantiL_0293.jpg'
 
 # taxonomies
 categories: 

@@ -7,7 +7,7 @@ summary: |
  Mit dem Premio hat Bürstner seit drei Jahren einen leichten und preiswerten Wohnwagen im Programm. Nun soll er noch leichter werden. Deshalb spart erstmals im Premio ein neuer Bodenaufbau Gewicht: bei mittelgroßen Wagen etwa 40 Kilo. Außerdem gibt es vier neue Grundrisse, die den Leichtbau für kleinere Autos voll umsetzen sollen.
 
 # post thumb
-image: '/images/items/110824_WW_BuePrem395_a2_kl.jpg'
+image: '/images/items/110824_WW_BuePrem395_a2.jpg'
 
 # taxonomies
 categories: 

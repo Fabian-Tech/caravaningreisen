@@ -7,7 +7,7 @@ summary: |
  Der Hobby Excellent 560 CFe muss im Profitest der Fachzeitschrift Camping, Cars & Caravans beweisen, dass er hält was er verspricht, nämlich viel Komfort für zwei Personen. Der neue Paarwohnwagen hat eine Sitzgruppe im Heck, Küche über der Achse, Bad und Bett im Bug. Mit nahezu kompletter Ausstattung ist der Hobby Excellent 560 CFe für 18.800 Euro zu haben.
 
 # post thumb
-image: '/images/items/110412_WW_Hobexc560_a2_kl.jpg'
+image: '/images/items/110412_WW_Hobexc560_a2.jpg'
 
 # taxonomies
 categories: 

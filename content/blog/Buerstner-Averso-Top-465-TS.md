@@ -7,7 +7,7 @@ summary: |
  Zur Saison 2013 stellt Bürstner die Produktion seiner Oberklasse-Wohnwagen ein. Die Spitze der Wohnwagenpalette aus Kehl übernimmt damit der zum Caravan Salon 2012 neu vorgestellte Averso Top. Das Modell Bürstner Averso Top 465 TS durfte im Profitest von Camping, Cars und Caravans beweisen, was in ihm steckt. Konstruktiv identisch 
 
 # post thumb
-image: '/images/items/120905_WW_BueAversTop465_a_kl.jpg'
+image: '/images/items/120905_WW_BueAversTop465_a.jpg'
 
 # taxonomies
 categories: 

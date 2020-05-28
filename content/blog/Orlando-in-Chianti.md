@@ -7,7 +7,7 @@ summary: |
  Camping Orlando in Chianti liegt umgeben von Wald in einer Höhe von 720 Metern mitten in der Natur der hügeligen Toskana. Das Weinanbaugebiet des Chianti Classico ist nur wenige Kilometer entfernt. Ausflüge nach Florenz, Siena und San Gimignano sind mit dem Auto oder Motorroller möglich.
 
 # post thumb
-image: '/images/items/131206-Camping-Orlando_kl.jpg'
+image: '/images/items/131206-Camping-Orlando.jpg'
 
 # taxonomies
 categories: 

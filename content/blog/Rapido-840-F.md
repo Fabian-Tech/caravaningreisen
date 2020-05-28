@@ -7,7 +7,7 @@ summary: |
  Rapido schickt in der Saison 2014 mit dem integrierten Wohnmobil 840 F einen ungewöhnlichen Grundriss ins Rennen um die Käufer: Die Küche ist quer zur Seitenwand eingebaut. Vor der Serienproduktion unterzieht sich das Wohnmobil Rapido 840 F exklusiv dem Profitest der Fachzeitschrift Reisemobil International.
 
 # post thumb
-image: '/images/items/131126-Rapido-840-F-a_kl.jpg'
+image: '/images/items/131126-Rapido-840-F-a.jpg'
 
 # taxonomies
 categories: 
