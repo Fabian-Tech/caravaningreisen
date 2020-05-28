@@ -4,8 +4,7 @@ languageCode = "de-de"
 paginate = 8
 summaryLength = "10"
 theme = "revolve-hugo"
-title = "Revolve | Hugo Blog Template"
-pluralizeListTitles = true
+title = "Caravaning Reisen"
 
 [[module.mounts]]
 source = "static"
