@@ -1,17 +1,20 @@
 ---
-title: "Fünen"
-subTitle: "Märchen und Schlösser"
-summary: "Die grüne Insel Fünen liegt mitten in Dänemark zwischen dem kleinen und dem großen Belt. Es ist die zweitgrößte Insel des Königreichs. Etwa 150.000 Einwohner, ein Drittel aller Inselbewohner, leben in Odense. Odense ist eine der ältesten Städte Dänemarks mit einer 1000jährigen Geschichte. Dank vieler Museen und Sehenswürdigkeiten}"
+title: |
+ Fünen
+subTitle: |
+ Märchen und Schlösser
+summary: |
+ Die grüne Insel Fünen liegt mitten in Dänemark zwischen dem kleinen und dem großen Belt. Es ist die zweitgrößte Insel des Königreichs. Etwa 150.000 Einwohner, ein Drittel aller Inselbewohner, leben in Odense. Odense ist eine der ältesten Städte Dänemarks mit einer 1000jährigen Geschichte. Dank vieler Museen und Sehenswürdigkeiten
 
 # post thumb
-image: "/images/items/120206_RB_Fuen_Egeskov_002_kl.jpg"
+image: '/images/items/120206_RB_Fuen_Egeskov_002_kl.jpg'
 
 # taxonomies
 categories: 
-  - "Reisebericht"
-  - "Reiseziele"
+  - 'ReisezieleDaenemark'
+  - 'Reiseziele'
 tags:
-  - "Inseln"
+  - 'Inseln'
 
 # post type
 type: "post"

@@ -1,0 +1,25 @@
+---
+title: |
+ la strada Regent L
+subTitle: |
+ Herrschaftlich reisen
+summary: |
+ Der la strada Regent L ist der edelste Vertreter der la strada Kastenwagen. Das knapp unter sechs Meter lange Kastenwagen Wohnmobil kombiniert die hervorragenden Fahreigenschaften des neuen Mercedes Sprinter mit dem hochwertigen und durchdachten Wohnausbau von la strada.
+
+# post thumb
+image: '/images/items/'
+
+# taxonomies
+categories: 
+  - 'Kastenwagen'
+  - 'Wohnmobile'
+tags:
+  - ''
+
+# post type
+type: "post"
+---
+
+Saison 2014; Text und Fotos: Ralph Binder  
+
+Die hessische Reisemobilmanufaktur la strada präsentierte auf der CMT 2014 erstmals den neuen Regent L. Das knapp unter sechs Meter lange Kastenwagen Reisemobil kombiniert die hervorragenden Fahreigenschaften des neuen Mercedes Sprinter mit dem hochwertigen und durchdachten Wohnausbau von la strada. Gleich fünf Assistenzsysteme des neuen Sprinters sorgen für mehr Sicherheit im Straßenverkehr. Seine Motoren sind kraftvoll und dabei erfreulich leise. Der Clou des [la strada Regent L](http://caravaningreisen.de/LinkClick.aspx?link=http%3a%2f%2flastrada-mobile.de%2f%3fapp%3dconfigurator%26mod%3dcategorie%26category%3d2%26itemid%3d8%26menuid%3d3%26subid%3d52%26language%3d1&tabid=684&portalid=5&mid=1708) ist ein geräumiges Badezimmer mit vollwertiger Dusche, das quer im Heck eingebaut ist. Neu ist die in vier Positionen verstellbare Sitzbank der Wohnraumsitzgruppe. Die konvexe Form der Sitzlehne sorgt für bequemes Sitzen in allen Positionen im Wohn- und Fahrbetreib. Wohl kaum ein Kastenwagen-Reisemobil verfügt über ein so geräumiges Badezimmer wie der la strada Regent L. Durch den Einbau quer im Heck kann das Bad die volle Fahrzeugbreite nutzen. Neben Toilette, Waschbecken und Stauraum für Hygieneartikel gehört auch eine vollwertige Dusche zur Ausstattung des Bades. Davor steht die Küche. Neben mehreren Auszügen und Wandschränken für Kochutensilien, darunter sogar ein Apotheker-Auszug, bietet sie eine Spüle und einen Dreiflammkocher mit Piezo-Zünder. Gegenüber der Küchenzeile befindet sich ein 80 Liter Kühlschrank in griffgünstiger Höhe. Daneben, darüber und darunter liegen ein Schrank und Staufächer für Kleidung. Geschlafen wird beim Regent L im Obergeschoß auf einer 2 mal 1,40 Meter großen Bettstatt, die über eine Leiter zugänglich ist. Die hochwertige Kaltschaummatratze und ein Froli Tellerfedersystem sorgen für einen erholsamen Schlaf. Tagsüber wird das Bett hochgeklappt und gewährt so die volle Stehhöhe im Fahrzeug. Auch bei heruntergeklapptem Bett lässt es sich in den gedrehten Fahrerhaussitzen weiterhin bequem sitzen. Zur Sitzgruppe gehört eine neu entwickelte Sitzbank. Deren Rückenlehne und Sitzfläche lassen sich in vier Positionen arretieren: Mit senkrechter Lehne für den Fahrbetrieb und mit zurückgelegter Lehne und vorgerückter Sitzfläche für den Wohnbetrieb. Für bequemes Sitzen in allen Positionen sorgt die konvexe Form der Sitzlehne, die sich dem Rücken anpasst. Die Sitzbank ist mit zwei Drei-Punkt-Gurten ausgestattet. Im Wohnbetrieb dienen die gedrehten Fahrerhaussitze als Sessel. Im Wohn- und Fahrbetrieb gleichermaßen bequem sind die optionalen Aguti Fahrerhaussitze, die la strada dem Regent L spendiert. Das neue Sitzkonzept ist in Kombination mit allen zehn Stoff- und vielen Ledervarianten erhältlich. Drei Möbeldekore stehen ebenso zur Auswahl wie 14 Außenlackierungen. Für schnelles Vorankommen sorgt beim la strada Regent L der Mercedes Sprinter. Die neueste Generation des Transporters verwöhnt den Reisemobilisten mit zahlreichen optionalen Assistenzsystemen und Komfortfunktionen. Der Seitenwind-Assistent hält das Reisemobil bei starken Böen sicher auf Kurs. Der Totwinkel-Assistent informiert vor dem Spurwechsel über gefährlich nahe Fahrzeuge auf der benachbarten Fahrbahn. Der Abstandswarn-Assistent signalisiert zu geringen Abstand auf vorausfahrende Fahrzeuge sowie ein Stauende. Alle drei Systeme sind Weltpremieren in dieser Fahrzeugklasse. Ebenfalls neu sind der Spurhalte-Assistent und der Fernlicht-Assistent. Die Motoren entsprechen den Anforderungen der Abgasnorm Euro V, oder optional sogar schon der Euro VI und sind Klassenbeste im Kraftstoffverbrauch. 130 bis 190 Pferdestärken treiben den komfortablen Regent L zügig voran. Erfreulich dabei ist die geringe Geräuschentwicklung der Aggregate. Extras wie Tempomat, Automatik-Getriebe, Multifunktionslenkrad und Fahrerhausklimaanlage erhöhen den Fahrkomfort zusätzlich. Seinen Anspruch als herrschaftliche Urlaubsresidenz macht der la strada Regent L allerdings auch im Grundpreis von 67.753 Euro deutlich. Unser Testwagen brachte es mit 163 PS Motor, Komfort-Paket, Technik-Paket, la strada Safe Paket, Automatikgetriebe, Alu-Felgen, Markise und weiteren Extras auf fast 90.000 Euro. Dafür ist es aber auch das beste Kastenwagen-Wohnmobil, das wir bisher fahren durften.  

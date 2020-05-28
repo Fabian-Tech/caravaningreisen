@@ -1,17 +1,20 @@
 ---
-title: "Niedersachsen Teil 1"
-subTitle: "Goslar, Harz und Yukon Bay"
-summary: "Niedersachsen hat enorm viel zu bieten: Ostfriesland, das Land hinter dem Deich. Osnabrück, die Stadt des Westfälischen Friedens. Der Harz, das Gebirge Niedersachsens. Die Lüneburger Heide und das „Nasse Dreieck“ zwischen Elbe- und Wesermündung, von Mooren durchzogen, mit der Künstlerkolonie Worpswede.}"
+title: |
+ Niedersachsen Teil 1
+subTitle: |
+ Goslar, Harz und Yukon Bay
+summary: |
+ Niedersachsen hat enorm viel zu bieten: Ostfriesland, das Land hinter dem Deich. Osnabrück, die Stadt des Westfälischen Friedens. Der Harz, das Gebirge Niedersachsens. Die Lüneburger Heide und das „Nasse Dreieck“ zwischen Elbe- und Wesermündung, von Mooren durchzogen, mit der Künstlerkolonie Worpswede.
 
 # post thumb
-image: "/images/items/100908_Goslar_034_kl.jpg"
+image: '/images/items/100908_Goslar_034_kl.jpg'
 
 # taxonomies
 categories: 
-  - "Reisebericht"
-  - "Reiseziele"
+  - 'ReisezieleDeutschland'
+  - 'Reiseziele'
 tags:
-  - "Niedersachen"
+  - 'Niedersachen'
 
 # post type
 type: "post"
@@ -19,15 +22,15 @@ type: "post"
 
 Fotos und Text: Ralph Binder
 
-Niedersachsen in einem einzigen Bericht zusammenfassen zu wollen ist nahezu unmöglich. Denn das zweitgrößte Flächenland Deutschlands hat enorm viel zu bieten: Eine Rundreise kann zum Beispiel in Ostfriesland beginnen, dem Land hinter dem Deich, das länger als jede andere Region in Niedersachsen selbständig war. Schlupfwinkel des Seeräubers Störtebecker, mit holländisch anmutenden Städten und dem höchsten Teeverbrauch in Deutschland. Das Oldenburger Münsterland hat sich von einem armen Bauernland zum europäischen Viehzuchtzentrum entwickelt – in Nachbarschaft zu Osnabrück, der Stadt des Westfälischen Friedens am Teutoburger Wald. Von Hexen handeln die Geschichten im Harz, dem Gebirge Niedersachsens, dessen Silberminen Reichtum bescherten. Nordwestlich davon die Lüneburger Heide, deren Namensgeberin Lüneburg im Mittelalter durch Salzhandel reich wurde. Vor den Toren Hamburgs beginnt das „Nasse Dreieck“: Flaches Land zwischen Elbe- und Wesermündung, von Mooren durchzogen, mit der Fischereistadt Cuxhaven und der Künstlerkolonie Worpswede.   
+Niedersachsen in einem einzigen Bericht zusammenfassen zu wollen ist nahezu unmöglich. Denn das zweitgrößte Flächenland Deutschlands hat enorm viel zu bieten: Eine Rundreise kann zum Beispiel in Ostfriesland beginnen, dem Land hinter dem Deich, das länger als jede andere Region in Niedersachsen selbständig war. Schlupfwinkel des Seeräubers Störtebecker, mit holländisch anmutenden Städten und dem höchsten Teeverbrauch in Deutschland. Das Oldenburger Münsterland hat sich von einem armen Bauernland zum europäischen Viehzuchtzentrum entwickelt – in Nachbarschaft zu Osnabrück, der Stadt des Westfälischen Friedens am Teutoburger Wald. Von Hexen handeln die Geschichten im Harz, dem Gebirge Niedersachsens, dessen Silberminen Reichtum bescherten. Nordwestlich davon die Lüneburger Heide, deren Namensgeberin Lüneburg im Mittelalter durch Salzhandel reich wurde. Vor den Toren Hamburgs beginnt das „Nasse Dreieck“: Flaches Land zwischen Elbe- und Wesermündung, von Mooren durchzogen, mit der Fischereistadt Cuxhaven und der Künstlerkolonie Worpswede.  
 
- Verbunden werden alle diese Sehenswürdigkeiten durch eine beeindruckende Landschaft zwischen Ems und Elbe, den Berggipfeln des Harz und den Stränden der Nordsee mit den Inseln Borkum, Juist, Norderney, Baltrum, Langeoog, Spiekeroog und Wangerooge. Und natürlich ist das Land auch für Camping und Caravaning bestens geeignet. Insgesamt verfügt Niedersachsen über 335 touristisch relevante Campingplätze, wobei die Qualität der Plätze nach einer Studie des Bundeswirtschaftsministeriums über dem bundesweiten Durchschnitt liegt. Die Messe Stuttgart würdigt die Bedeutung des Campinglandes Niedersachen und hat Niedersachsen zur Partnerregion des Caravaningteils ihrer Tourismusmesse CMT 2011 gekürt. Aus diesem Anlass startet CaravaningReisen.de jetzt eine dreiteilige Reihe mit Reiseberichten aus dem Land zwischen Ostfriesischen Inseln und Harz.  
+Verbunden werden alle diese Sehenswürdigkeiten durch eine beeindruckende Landschaft zwischen Ems und Elbe, den Berggipfeln des Harz und den Stränden der Nordsee mit den Inseln Borkum, Juist, Norderney, Baltrum, Langeoog, Spiekeroog und Wangerooge. Und natürlich ist das Land auch für Camping und Caravaning bestens geeignet. Insgesamt verfügt Niedersachsen über 335 touristisch relevante Campingplätze, wobei die Qualität der Plätze nach einer Studie des Bundeswirtschaftsministeriums über dem bundesweiten Durchschnitt liegt. Die Messe Stuttgart würdigt die Bedeutung des Campinglandes Niedersachen und hat Niedersachsen zur Partnerregion des Caravaningteils ihrer Tourismusmesse CMT 2011 gekürt. Aus diesem Anlass startet CaravaningReisen.de jetzt eine dreiteilige Reihe mit Reiseberichten aus dem Land zwischen Ostfriesischen Inseln und Harz.  
 
 ### Goslar
 
 Unsere Reise beginnt in Goslar. Auf dem Parkplatz vor der Kaiserpfalz stellen wir unser Wohnmobil auf gesegneten Boden, denn hier stand einst der Dom, der 1820 abgerissen wurde. Nur noch eine kleine Vorhalle eines ehemaligen Seiteneingangs ist übriggeblieben. Goslar lebte einst von den Bodenschätzen Eisenerz, Silber, Kupfer, Blei und ein wenig Gold, die seit dem führen Mittelalter im Rammelsberg abgebaut wurden. Daher befand sich zu der Zeit in der Stadt auch eine bedeutende kaiserliche Münzprägestätte. Bereits im Jahr 1005 ist die Existenz eines Pfalzbaus durch Heinrich II. beurkundet. In ihrer heutigen Form geht die Kaiserpfalz zurück auf Heinrich III., der sie zwischen 1040 und 1050 erbauen ließ. Es ist die größte Kaiserpfalz, die heute noch in Deutschland steht. 100 kaiserliche Besuche, sogenannte Reichstage, wurden allein in den ersten 200 Jahren der Kaiserpfalz in Goslar dokumentiert, davon acht von Kaiser Barbarossa. Für die Stadt bedeutete das einen enormen Aufwand. Bei einem Reichstag wurden vom Kaiser und seinem mitreisenden Gefolge 1000 Schweine verspeist. Nach dem Ende der Kaiserzeit verfiel die Pfalz. Unter anderem diente sie lange Zeit als Kornkammer. Erst Wilhelm I. baute sie im 19. Jahrhundert wieder auf. Die Pfalz, das Erzbergwerk Rammelsberg, die Altstadt von Goslar und die Oberharzer Wasserwirtschaft sind heute UNESCO Weltkulturerbe. Allein in Goslar stehen 1.000 Häuser unter Denkmalschutz. Darunter auch das Stammhaus der Familie Siemens. Deren Ursprünge gehen auf eine alte Brauerfamilie zurück, die das Gosebier erfand – ein spontangäriges Bier mit dem Wasser aus dem Goslarer Fluss Gose. Bereits im Jahr 1397 wurde die Goslarer Gose urkundlich erwähnt. Es heißt, vor Brautagen hätten die Nachwächter der Stadt in früheren Zeiten folgenden Aufruf verkünden müssen: „Heute wird bekannt gemaket, dass keiner in die Gose kaket, denn morgen wird gebraut.“Sehenswert ist auch das Hospiz Großes Heiliges Kreuz, das 1254 errichtet wurde und Bedürftigen, Gebrechlichen und Pilgern ein Nachlager bot. 1650 wurden die Pfründnerstübchen errichtet, die Platz für ein Bett, einen Schrank und einen kleinen Tisch für die Bewohner des Stifts boten. Heute sind in diesen Stuben Kunsthandwerker angesiedelt, die hier ihre Werke verkaufen und zum Teil auch herstellen.  
 
- Ein guter Ausgangspunkt für Ausflüge nach Goslar und in den Rest des Harz ist der Campingplatz Harz Camp in Göttingerrode. Der Platz hat neben rund 430 Stellplätzen eine Saunalandschaft mit 5 verschiedenen Saunen, Solarium, Whirlpool, Schwimmbecken und einer Salzgrotte. Entspannt geht es daher am nächsten Tag zum nächsten Weltkulturerbe.  
+Ein guter Ausgangspunkt für Ausflüge nach Goslar und in den Rest des Harz ist der Campingplatz Harz Camp in Göttingerrode. Der Platz hat neben rund 430 Stellplätzen eine Saunalandschaft mit 5 verschiedenen Saunen, Solarium, Whirlpool, Schwimmbecken und einer Salzgrotte. Entspannt geht es daher am nächsten Tag zum nächsten Weltkulturerbe.  
 
 ### Oberharzer Wasserregal
 

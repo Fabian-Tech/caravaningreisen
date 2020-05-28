@@ -1,0 +1,31 @@
+---
+title: |
+ Eura Mobil Profila RS
+subTitle: |
+ Fast Alleskönner
+summary: |
+ Das Wohnmobil Profila RS von Eura Mobil ist als Allround-Talent ausgelegt: Der Teilintegrierte soll bei günstigem Preis vier Personen bequemes und autarkes Reisen ermöglichen. Der Profitest der Fachzeitschrift Reisemobil International stellt die Talente des Profila RS 720 mit Hubbett auf den Prüfstand.
+
+# post thumb
+image: '/images/items/140206-EuraMobil-Profila-RS-a2_kl.jpg'
+
+# taxonomies
+categories: 
+  - 'Teilintegrierte'
+  - 'Wohnmobile'
+tags:
+  - ''
+
+# post type
+type: "post"
+---
+
+<!--[if gte mso 9]><xml> <w:WordDocument> <w:View>Normal</w:View> <w:Zoom>0</w:Zoom> <w:TrackMoves /> <w:TrackFormatting /> <w:HyphenationZone>21</w:HyphenationZone> <w:PunctuationKerning /> <w:ValidateAgainstSchemas /> <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid> <w:IgnoreMixedContent>false</w:IgnoreMixedContent> <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText> <w:DoNotPromoteQF /> <w:LidThemeOther>DE</w:LidThemeOther> <w:LidThemeAsian>X-NONE</w:LidThemeAsian> <w:LidThemeComplexScript>X-NONE</w:LidThemeComplexScript> <w:Compatibility> <w:BreakWrappedTables /> <w:SnapToGridInCell /> <w:WrapTextWithPunct /> <w:UseAsianBreakRules /> <w:DontGrowAutofit /> <w:SplitPgBreakAndParaMark /> <w:DontVertAlignCellWithSp /> <w:DontBreakConstrainedForcedTables /> <w:DontVertAlignInTxbx /> <w:Word11KerningPairs /> <w:CachedColBalance /> </w:Compatibility> <m:mathPr> <m:mathFont m:val="Cambria Math" /> <m:brkBin m:val="before" /> <m:brkBinSub m:val="--" /> <m:smallFrac m:val="off" /> <m:dispDef /> <m:lMargin m:val="0" /> <m:rMargin m:val="0" /> <m:defJc m:val="centerGroup" /> <m:wrapIndent m:val="1440" /> <m:intLim m:val="subSup" /> <m:naryLim m:val="undOvr" /> </m:mathPr></w:WordDocument> </xml><![endif]-->Saison 2014; Originaltext: Heiko Paul; Fotos: Hardy Mutschler
+
+<!--[if gte mso 10]> <style> /* Style Definitions */ table.MsoNormalTable {mso-style-name:"Normale Tabelle"; mso-tstyle-rowband-size:0; mso-tstyle-colband-size:0; mso-style-noshow:yes; mso-style-priority:99; mso-style-qformat:yes; mso-style-parent:""; mso-padding-alt:0cm 5.4pt 0cm 5.4pt; mso-para-margin-top:0cm; mso-para-margin-right:0cm; mso-para-margin-bottom:10.0pt; mso-para-margin-left:0cm; line-height:115%; mso-pagination:widow-orphan; font-size:11.0pt; font-family:"Calibri","sans-serif"; mso-ascii-font-family:Calibri; mso-ascii-theme-font:minor-latin; mso-fareast-font-family:"Times New Roman"; mso-fareast-theme-font:minor-fareast; mso-hansi-font-family:Calibri; mso-hansi-theme-font:minor-latin;} </style> <![endif]-->
+
+Das Wohnmobil Profila RS von Eura Mobil ist als Allround-Talent ausgelegt:  Der Teilintegrierte soll bei günstigem Preis vier Personen bequemes und autarkes Reisen ermöglichen. Der Profitest der Fachzeitschrift Reisemobil International stellt die Talente des Profila RS 720 mit Hubbett auf den Prüfstand.
+
+Der Grundpreis des 7,40 Meter langen Eura Mobil Profila RS 720 auf Fiat-Chassis bewegt sich mit 53.490 Euro tatsächlich im „eher günstigen Bereich“. Leider kosten sinnvolle und nach Aussage der Tester „in der heutigen Zeit selbstverständliche Features wie ESP, ASR“ und anderes Aufpreis, so dass das Testfahrzeug auf 65.530 Euro kommt – auch dank weiterer Extras wie größerem Motor, Maxi-Fahrgestell, Panoramaglasdach und Sonderaußendekor. Gute Noten erhält der rundum versiegelte Aufbau mit Doppelboden: Die Verarbeitung und Materialwahl sprechen für eine „lange Lebensdauer“ des Mobils. Zwei integrierte Trittstufen mit „unangenehm stark“ differenzierenden Stufenhöhen führen in den Innenraum des Eura Mobil Profila RS. Eine Winkelsitzbank, ein Einzelsitz und die beiden umgedrehten Fahrerhaussitze sorgen zusammen mit dem in alle Richtungen verschiebbaren Tisch für ausreichend Platz zum Essen und Wohnen. Bei der Fahrt beeinträchtigen jedoch die leicht herunterfallenden Kopflehnen der Sitzbank den Komfort. Viel Licht lässt das große Panoramadach in der Dachhutze in den Wohnbereich. Die Winkelküche überzeugt mit „reichlich Arbeits- und Stellfläche“, sie verfügt über drei Kochstellen mit elektrischem Zünder. Der große Kühlschrank fasst 175 Liter. Das Bad, aufgeteilt in Dusche und WC, befindet sich hinter dem Küchenblock und dem Kühlschrank. Die WC-Tür trennt bei Bedarf Wohnbereich und Küche vom Bade- und Schlafzimmer ab. Kritik gibt es von den Profis für niedrige Relingkanten in den Badregalen und scharfkantige Bleche. Im Heck des Eura Mobil Profila RS befinden sich zwei Einzelbetten, die über zwei Stufen erreichbar sind. „Beide Betten berühren sich vom Kopfende über die Mitte hinaus, was eine respektable Liegefläche ergibt“. Stauraum für Kleider und Wäsche findet sich unter den Betten sowie in einem Oberschrank über dem Fußende. Von außen ist unter den Betten eine große Heckgarage sehr gut erreichbar, die aber Zurrschienen oder Ösen für sicheres Verstauen vermissen lässt. Die Besonderheit des Profila RS offenbart sich über den Fahrersitzen: Ein Hubbett ist in der leicht erhöhten Dachhutze so montiert, dass es „vollständig im Dach verschwindet – mit dem Resultat einer eben durchlaufenden Decke, die im gesamten Mobil eine Stehhöhe von 197 cm garantiert“. Ist es jedoch abgesenkt, blockiert es die Aufbautür komplett. Beim Fahren zeigt der Teilintegrierte Eura Mobil Profila RS keine Schwächen. Insgesamt bewerten die Profis von Reisemobil International den Profila RS als „interessantes Angebot“, das „beste Voraussetzungen bietet, über viele Jahre hinweg dicht zu bleiben“ und mit dem Hubbett ein „beachtenswertes Feature“ bietet. In der Kategorie Teilintegrierte bis 60.000 Euro mit erhielt der Eura Mobil Profila RS 720 insgesamt 119 von 200 Punkten.
+
+Den ausführlichen Profitest des Eura Mobil Profila RS 720 finden Sie in der Ausgabe Februar 2014 der Fachzeitschrift Reisemobil International in jedem gut sortierten Zeitschriftenhandel. Darin enthalten sind alle technischen Spezifikationen des Wohnmobils sowie die Vergleichstabellen und detaillierten Bewertungen der Kategorien Fahrkomfort, Wohnaufbau, Innenausbau, Geräte/Installation, Fahrzeugtechnik und Betriebskosten.

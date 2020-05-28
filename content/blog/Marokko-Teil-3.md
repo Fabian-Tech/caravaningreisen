@@ -1,17 +1,20 @@
 ---
-title: "3 Am Atlantik"
-subTitle: "Geschmeide, Öl und Ziegen"
-summary: "Sidi Ifni ist die erste Etappe an der Atlantikküste. Ein Küstenort mit Hotels und mehreren Campingplätzen direkt am weitläufigen Strand. Die weißen Häuser mit blau gestrichenen Türen und Fenstern prägen den Ort. Der ehemalige spanische Gouverneurs-Palast verrottet langsam vor sich hin, weil die internationalen Besitzrechte nicht geklärt sind. }"
+title: |
+ 3 Am Atlantik
+subTitle: |
+ Geschmeide, Öl und Ziegen
+summary: |
+ Sidi Ifni ist die erste Etappe an der Atlantikküste. Ein Küstenort mit Hotels und mehreren Campingplätzen direkt am weitläufigen Strand. Die weißen Häuser mit blau gestrichenen Türen und Fenstern prägen den Ort. Der ehemalige spanische Gouverneurs-Palast verrottet langsam vor sich hin, weil die internationalen Besitzrechte nicht geklärt sind. 
 
 # post thumb
-image: "/images/items/100925_RB_MarokT3_R1_008_kl.jpg"
+image: '/images/items/100925_RB_MarokT3_R1_008_kl.jpg'
 
 # taxonomies
 categories: 
-  - "Reisebericht"
-  - "Reiseziele"
+  - 'ReisezieleMarokko'
+  - 'Reiseziele'
 tags:
-  - "SuedMarokko"
+  - 'SuedMarokko'
 
 # post type
 type: "post"

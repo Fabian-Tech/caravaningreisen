@@ -1,17 +1,20 @@
 ---
-title: "Var Teil 1"
-subTitle: "Die vare Cote d’Azur"
-summary: "Die Cote d’Azur, die azurblaue Küste, reicht geografisch von Marseille bis Menton. Die meisten Touristen jedoch reduzieren die Cote d’Azur auf den mondänen Küstenstreifen zwischen Cannes und Monaco an dem alljährlich die Schönen, die Reichen und die ganz schön Reichen ihren Wohlstand zur Schau tragen. Das ist schade. Denn der übrige }"
+title: |
+ Var Teil 1
+subTitle: |
+ Die vare Cote d’Azur
+summary: |
+ Die Cote d’Azur, die azurblaue Küste, reicht geografisch von Marseille bis Menton. Die meisten Touristen jedoch reduzieren die Cote d’Azur auf den mondänen Küstenstreifen zwischen Cannes und Monaco an dem alljährlich die Schönen, die Reichen und die ganz schön Reichen ihren Wohlstand zur Schau tragen. Das ist schade. Denn der übrige 
 
 # post thumb
-image: "/images/items/110514_RB_Var1_R1_001_kl.jpg"
+image: '/images/items/110514_RB_Var1_R1_001_kl.jpg'
 
 # taxonomies
 categories: 
-  - "Reisebericht"
-  - "Reiseziele"
+  - 'ReisezieleFrankreich'
+  - 'Reiseziele'
 tags:
-  - "VarTeil"
+  - 'VarTeil'
 
 # post type
 type: "post"

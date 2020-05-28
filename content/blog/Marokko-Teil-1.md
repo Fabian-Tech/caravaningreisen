@@ -1,17 +1,20 @@
 ---
-title: "1 Von Tarifa nach Meski"
-subTitle: "Paläste, Felsen und die blaue Quelle"
-summary: "Wer sich einer geführten Reisegruppe nach Marokko angeschlossen hat, fährt zunächst nach eigener Planung bis in den Südzipfel Spaniens, nach Tarifa. Hier, am südlichsten Campingplatz Europas, 15 Kilometer entfernt von Afrika, treffen sich die Teilnehmer des Wohnmobilkonvois, um von Algeciras nach Ceuta überzusetzen. In Ceuta geht es an die marokkanische Grenze }"
+title: |
+ 1 Von Tarifa nach Meski
+subTitle: |
+ Paläste, Felsen und die blaue Quelle
+summary: |
+ Wer sich einer geführten Reisegruppe nach Marokko angeschlossen hat, fährt zunächst nach eigener Planung bis in den Südzipfel Spaniens, nach Tarifa. Hier, am südlichsten Campingplatz Europas, 15 Kilometer entfernt von Afrika, treffen sich die Teilnehmer des Wohnmobilkonvois, um von Algeciras nach Ceuta überzusetzen. In Ceuta geht es an die marokkanische Grenze 
 
 # post thumb
-image: "/images/items/100925_RB_MarokT1_R2_001_kl.jpg"
+image: '/images/items/100925_RB_MarokT1_R2_001_kl.jpg'
 
 # taxonomies
 categories: 
-  - "Reisebericht"
-  - "Reiseziele"
+  - 'ReisezieleMarokko'
+  - 'Reiseziele'
 tags:
-  - "NordMarokko"
+  - 'NordMarokko'
 
 # post type
 type: "post"

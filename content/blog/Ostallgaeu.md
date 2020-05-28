@@ -1,17 +1,20 @@
 ---
-title: "Ostallgäu"
-subTitle: "Zwischen Glanz und Gemütlichkeit"
-summary: "Dieser Winkel Deutschlands gehört zu den weltweit bekanntesten. Selbst japanische oder amerikanische Touristen, die sich für ganz Europa höchstens zwei Wochen Zeit nehmen, kommen hier vorbei: Füssen im Ostallgäu mit den Königsschlössern Hohenschwangau und Neuschwanstein. Beide Schlösser gehören zu }"
+title: |
+ Ostallgäu
+subTitle: |
+ Zwischen Glanz und Gemütlichkeit
+summary: |
+ Dieser Winkel Deutschlands gehört zu den weltweit bekanntesten. Selbst japanische oder amerikanische Touristen, die sich für ganz Europa höchstens zwei Wochen Zeit nehmen, kommen hier vorbei: Füssen im Ostallgäu mit den Königsschlössern Hohenschwangau und Neuschwanstein. Beide Schlösser gehören zu 
 
 # post thumb
-image: "/images/items/100809_RB_Ostall_01_kl.jpg"
+image: '/images/items/100809_RB_Ostall_01_kl.jpg'
 
 # taxonomies
 categories: 
-  - "Reisebericht"
-  - "Reiseziele"
+  - 'ReisezieleDeutschland'
+  - 'Reiseziele'
 tags:
-  - "Ostallgaeu-Teil-1"
+  - 'Ostallgaeu-Teil-1'
 
 # post type
 type: "post"

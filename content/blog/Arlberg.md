@@ -1,17 +1,20 @@
 ---
-title: "Arlberg"
-subTitle: "Auf der Höhe"
-summary: "Skiurlaub de Luxe: Die Wintersportregion St. Anton verheißt Brettlspaß der Spitzenklasse – seit drei Jahren auch für Wohnmobilisten. Von nichts kommt nichts. Das ist das Credo am Arlberg. Dort baute der Campingunternehmer Reinhard Haslwanter buchstäblich auf der grünen Wiese für vier Millionen Euro einen Campingplatz, der heute}"
+title: |
+ Arlberg
+subTitle: |
+ Auf der Höhe
+summary: |
+ Skiurlaub de Luxe: Die Wintersportregion St. Anton verheißt Brettlspaß der Spitzenklasse – seit drei Jahren auch für Wohnmobilisten. Von nichts kommt nichts. Das ist das Credo am Arlberg. Dort baute der Campingunternehmer Reinhard Haslwanter buchstäblich auf der grünen Wiese für vier Millionen Euro einen Campingplatz, der heute
 
 # post thumb
-image: "/images/items/100309_RB_Arl_08_kl.jpg"
+image: '/images/items/100309_RB_Arl_08_kl.jpg'
 
 # taxonomies
 categories: 
-  - "Reisebericht"
-  - "Reiseziele"
+  - 'ReisezieleOesterreich'
+  - 'Reiseziele'
 tags:
-  - "Tirol"
+  - 'Tirol'
 
 # post type
 type: "post"

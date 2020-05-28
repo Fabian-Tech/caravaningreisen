@@ -1,0 +1,31 @@
+---
+title: |
+ Adria Coral Plus 670 SL
+subTitle: |
+ Operation gelungen
+summary: |
+ Kaum wiederzuerkennen ist in dieser Saison das Wohnmobil Adria Coral Plus: Windschnittig und innen wie außen rundum erneuert präsentiert der slowenische Hersteller sein Flaggschiff für zwei Personen. Ob sich die Modernisierung gelohnt hat, zeigt der Profitest der Fachzeitschrift Reisemobil International.
+
+# post thumb
+image: '/images/items/140325-Adria-Coral-Plus-670SL-a_kl.jpg'
+
+# taxonomies
+categories: 
+  - 'Teilintegrierte'
+  - 'Wohnmobile'
+tags:
+  - ''
+
+# post type
+type: "post"
+---
+
+<!--[if gte mso 9]><xml> <w:WordDocument> <w:View>Normal</w:View> <w:Zoom>0</w:Zoom> <w:TrackMoves /> <w:TrackFormatting /> <w:HyphenationZone>21</w:HyphenationZone> <w:PunctuationKerning /> <w:ValidateAgainstSchemas /> <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid> <w:IgnoreMixedContent>false</w:IgnoreMixedContent> <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText> <w:DoNotPromoteQF /> <w:LidThemeOther>DE</w:LidThemeOther> <w:LidThemeAsian>X-NONE</w:LidThemeAsian> <w:LidThemeComplexScript>X-NONE</w:LidThemeComplexScript> <w:Compatibility> <w:BreakWrappedTables /> <w:SnapToGridInCell /> <w:WrapTextWithPunct /> <w:UseAsianBreakRules /> <w:DontGrowAutofit /> <w:SplitPgBreakAndParaMark /> <w:DontVertAlignCellWithSp /> <w:DontBreakConstrainedForcedTables /> <w:DontVertAlignInTxbx /> <w:Word11KerningPairs /> <w:CachedColBalance /> </w:Compatibility> <m:mathPr> <m:mathFont m:val="Cambria Math" /> <m:brkBin m:val="before" /> <m:brkBinSub m:val="--" /> <m:smallFrac m:val="off" /> <m:dispDef /> <m:lMargin m:val="0" /> <m:rMargin m:val="0" /> <m:defJc m:val="centerGroup" /> <m:wrapIndent m:val="1440" /> <m:intLim m:val="subSup" /> <m:naryLim m:val="undOvr" /> </m:mathPr></w:WordDocument> </xml><![endif]-->Saison 2014; Originaltext: Juan Gamero; Fotos: Hardy Mutschler
+
+<!--[if gte mso 10]> <style> /* Style Definitions */ table.MsoNormalTable {mso-style-name:"Normale Tabelle"; mso-tstyle-rowband-size:0; mso-tstyle-colband-size:0; mso-style-noshow:yes; mso-style-priority:99; mso-style-qformat:yes; mso-style-parent:""; mso-padding-alt:0cm 5.4pt 0cm 5.4pt; mso-para-margin-top:0cm; mso-para-margin-right:0cm; mso-para-margin-bottom:10.0pt; mso-para-margin-left:0cm; line-height:115%; mso-pagination:widow-orphan; font-size:11.0pt; font-family:"Calibri","sans-serif"; mso-ascii-font-family:Calibri; mso-ascii-theme-font:minor-latin; mso-fareast-font-family:"Times New Roman"; mso-fareast-theme-font:minor-fareast; mso-hansi-font-family:Calibri; mso-hansi-theme-font:minor-latin;} </style> <![endif]-->
+
+Kaum wiederzuerkennen ist in dieser Saison das Wohnmobil Adria Coral Plus: Windschnittig und innen wie außen rundum erneuert präsentiert der slowenische Hersteller sein Flaggschiff für zwei Personen. Ob sich die Modernisierung gelohnt hat, zeigt der Profitest der Fachzeitschrift Reisemobil International.
+
+Sportlich ist der erste Eindruck des 7,38 Meter langen Testmobils Adria Coral Plus 670 SL: Mit 2,69 Metern Höhe ist das teilintegrierte Wohnmobil auf Fiat-Ducato-Chassis ganze 10 cm niedriger als das Vorjahrsmodell. „Dynamisch“ wirken neben der windschnittigen Dachhutze auch das Heck mit markantem Stoßfänger und Spoiler. Den guten Eindruck bestätigen die „professionelle“ Abdichtung des Aufbaus, die leicht schließende Aufbautür und zwei Schlösser. Im Boden ist „vollständig isoliert in einer beheizten Kunststoffwanne“ der Abwassertankt untergebracht. Serienmäßig stattet Adria die Dachhutze mit einem großen Dachfenster aus, das im Inneren für viel Licht sorgt. Die Tester zeigen sich begeistert vom neuen, „nahezu spektakulären“ Interieur. Das „dezent abgerundete Mobiliar“ gefällt optisch und haptisch und punktet mit „perfekt eingepassten“ Möbeln. Im Bug lassen sich Fahrer- und Beifahrersitz drehen, um mit einer L-Sitzgruppe und einem Einzelsitz hinter dem Beifahrer Platz für maximal 5 Personen um den drehbaren Tisch zu schaffen. Der Einzelsitz ist mit einem Beckengurt ausgestattet und bietet einen sicheren fünften Sitz mit Rücken zur Fahrtrichtung. Abstriche in  puncto Bequemlichkeit müssen Reisende auf den Sitzbänken machen, denn die senkrechte Lehne „zwingt die Mitfahrer zu unbequemer Haltung“. In der L-Küche mit elektrisch zündendem Dreiflamm-Kocher findet sich für alle Utensilien genügend Platz. Serienmäßig baut Adria im Coral Plus 670 SL einen 150-Liter-Kühlschrank ein. Das geräumige Bad und die Dusche liegen einander gegenüber und können dank einer Tür zum Wohnbereich zu einem Raumbad zusammengelegt werden. Im Heck sind die beiden Einzelbetten mit dicken Matratzen und Lattenrosten über zwei Stufen leicht erreichbar, mit wenigen Handgriffen lassen sie sich zu einer großen Liegewiese umbauen. Unter den Betten lassen sich Kleider und Wäsche verstauen. Viel Stauraum bietet die durchladbare Fahrradgarage, die Adria mit fest verankerten Zurrösen ausstattet. Innen gibt nur die wechselnde Stehhöhe Anlass zu Kritik: Sie variiert zwischen 178 und 198 cm, so dass größere Caravaning-Fans den Kopf gelegentlich einziehen müssen. Das neue Kontroll-Panel mit Touchscreen-Benutzeroberfläche gefällt den Profis. Auch bei der Fahrt macht das Wohnmobil Adria Coral Plus 670 SL eine gute Figur: „Nach kürzerer Eingewöhnungsphase lässt sich das Reisemobil leicht manövrieren. Beim Rangieren sollte der Fahrer allerdings den stattlichen Hecküberhang von 238 Zentimetern nicht außer Acht lassen.“ Der Gesamteindruck überzeugt die Profis: Das mit Sonderausstattung 64.741 Euro teure Testmodell Adria Coral Plus 670 SL, im Grundpreis ab 56.399 Euro erhältlich, kommt in „ sehr guter Verarbeitungsqualität“ und besitzt ein „üppiges Stauraumangebot und eine umfangreiche Serienausstattung“. In der Kategorie Teilintegrierte bis 60.000 Euro vergeben die Profis 128 von 200 möglichen Punkten.
+
+Den ausführlichen Profitest des Adria Coral Plus 670 SL finden Sie in der Ausgabe April 2014 der Fachzeitschrift Reisemobil International in jedem gut sortierten Zeitschriftenhandel. Darin enthalten sind alle technischen Spezifikationen des Wohnmobils sowie die Vergleichstabellen und detaillierten Bewertungen der Kategorien Fahrkomfort, Wohnaufbau, Innenausbau, Geräte/Installation, Fahrzeugtechnik und Betriebskosten.

@@ -1,17 +1,20 @@
 ---
-title: "Mecklenburg-Vorpommern 1"
-subTitle: "Nach Meck-Pomm, der Natur zuliebe"
-summary: "Land der 1000 Seen nennt sich Mecklenburg-Vorpommern auch. Aber das darf getrost als norddeutsche Bescheidenheit bezeichnet werden. Tatsächlich sind es nämlich 2.033 Seen mit mehr als einem Hektar Grundfläche. Hinzu kommt noch die Ostsee mit 1.700 Kilometer Küste. Wer hier Urlaub machen möchte sollte also Wasser mögen. Es gibt}"
+title: |
+ Mecklenburg-Vorpommern 1
+subTitle: |
+ Nach Meck-Pomm, der Natur zuliebe
+summary: |
+ Land der 1000 Seen nennt sich Mecklenburg-Vorpommern auch. Aber das darf getrost als norddeutsche Bescheidenheit bezeichnet werden. Tatsächlich sind es nämlich 2.033 Seen mit mehr als einem Hektar Grundfläche. Hinzu kommt noch die Ostsee mit 1.700 Kilometer Küste. Wer hier Urlaub machen möchte sollte also Wasser mögen. Es gibt
 
 # post thumb
-image: "/images/items/110505_RB_MV_SchwerinSchloss_kl.jpg"
+image: '/images/items/110505_RB_MV_SchwerinSchloss_kl.jpg'
 
 # taxonomies
 categories: 
-  - "Reisebericht"
-  - "Reiseziele"
+  - 'ReisezieleDeutschland'
+  - 'Reiseziele'
 tags:
-  - "MecklenburgVorpommern"
+  - 'MecklenburgVorpommern'
 
 # post type
 type: "post"

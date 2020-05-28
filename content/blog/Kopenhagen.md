@@ -1,19 +1,39 @@
 ---
-title: "Kopenhagen"
-subTitle: "Entspannte Großstadt"
-summary: "Kopenhagen ist nur 333 km von Hamburg entfernt und bequem mit dem Wohnmobil zu erreichen. Die zwei Brücken über den kleinen und großen Belt machen es möglich. Sechs Campingplätze in und um Kopenhagen bieten ausreichende Übernachtungmöglichkeiten. Entweder QuickStop Camping vor der Schranke oder }"
+title: |
+ Kopenhagen
+subTitle: |
+ Entspannte Großstadt
+summary: |
+ Kopenhagen ist nur 333 km von Hamburg entfernt und bequem mit dem Wohnmobil zu erreichen. Die zwei Brücken über den kleinen und großen Belt machen es möglich. Sechs Campingplätze in und um Kopenhagen bieten ausreichende Übernachtungmöglichkeiten. Entweder QuickStop Camping vor der Schranke oder 
 
 # post thumb
-image: "/images/items/110715_RB_Kophag_Meerjungfraugross_kl.jpg"
+image: '/images/items/110715_RB_Kophag_Meerjungfraugross_kl.jpg'
 
 # taxonomies
 categories: 
-  - "Reisebericht"
-  - "Reiseziele"
+  - 'ReisezieleDaenemark'
+  - 'Reiseziele'
 tags:
-  - "Inseln"
+  - 'Inseln'
 
 # post type
 type: "post"
 ---
 
+Text: Stefan Peine, Ralph Binder; Fotos: Ralph Binder  
+
+Kopenhagen ist nur 333 km von Hamburg entfernt und bequem mit dem Wohnmobil zu erreichen. Die zwei Brücken über den kleinen und großen Belt machen es möglich. Sechs Campingplätze in und um Kopenhagen bieten ausreichende Übernachtungsmöglichkeiten. Entweder Quick Camping vor der Schranke oder normale Übernachtung innerhalb des Campingplatzes. Vorteil des Quickcamping: Hier kann der Check-In rund um die Uhr am Automaten per Kreditkarte erfolgen. Die Stadtcampingplätze sind einfach, aber ordentlich ausgestattet. Wer nicht mit dem Wohnwagen oder Wohnmobil unterwegs ist übernachtet in einer der Hütten für 4-6 Personen. Die dänische Hauptstadt ist eine moderne Großstadt, die sich dennoch ein sympathisches kleinstädtisches Flair und vor allem große Lebenslust bewahrt hat. Beeindruckend ist das Nebeneinander von historischer Architektur und moderner Szene, wie zum Beispiel das Schauspielhaus und die neue Oper. Oder der Erweiterungsbau der traditionsreichen königlichen Bibliothek auch als „Schwarzer Diamant“ bezeichnet – modernes Design in Reinkultur.  
+
+Für unsere Rundreise durch Kopenhagen stellt sich das Fahrrad als ideales Fortbewegungsmittel heraus. Die Wege in Kopenhagen sind hervorragend ausgebaut. Wir beginnen mit dem wohl bekanntesten Wahrzeichen der Stadt. Das Fabelwesen aus Hans Christian Andersens Märchen „Die kleine Meerjungfrau“ sitzt an der Hafenpromenade vom Langelinie Pier. Nur 1,25 Meter groß wäre sie leicht zu übersehen, würde sie nicht ständig umringt von einer großen Touristenschar. Die Bronzestatue aus dem Jahr 1913 wurde vom Bierbrauer Carl Jacobsen gesponsert. Der war von Andersens Liebesmärchen so gerührt, dass er der Stadt dieses Wahrzeichen schenkte. Nicht weit entfernt liegt das Schloss Amalienborg. Mit seinem achteckigen Schlossplatz ist es seit 1794 Sitz der königlichen Familie. Wenn Margarethe die Zweite und ihre Familie sich hier sehen lassen, werden sie vom Volk gefeiert. Die Dänen lieben ihre Royals. Ein beliebtes Spektakel ist die Wachablösung der Leibgarde jeden Mittag um 12 Uhr. Zu beneiden sind die Wachen nicht, denn sie müssen ständig viel zu warme Mützen tragen, aber die tapferen Gardesoldaten lassen sich das natürlich nicht anmerken. Ebenso wenig wie sie sich ihre Gedanken über die albernen Touristen anmerken lassen, die versuchen mit Grimassen und allerlei Faxen irgendeine Reaktion zu provozieren. Die Jungs schauen einfach immer beharrlich geradeaus. Nach längerer Betrachtung sind wir uns nicht ganz einig, was hier die größere Attraktion ist, die stoische Garde oder die zappelnden Touristen. Wahrscheinlich die Mischung aus beidem. Unweit von Amalienborg liegt die Frederikskirche die oft auch als Marmorkirche bezeichnet wird. Sie besitzt die größte Kirchenkuppel Skandinaviens. König Frederik V. bestand 1749 darauf die Kirche aus Marmor zu errichten, was sich jedoch als nicht finanzierbar herausstellte. Nach einer langen Zeit als Bauruine wurde der prunkvolle Sakralbau 1894 vollendet – mit dänischem Sandstein.  
+
+### Historisches Vergnügen und moderner Nervenkitzel
+
+Wir radeln weiter und durchqueren die Fußgängerzone. Hinter dem großen Rathausplatz wartet ein historischer Freizeitpark. Der Tivoli. An ihm kommt kein Kopenhagen-Besucher vorbei, erst recht nicht mit Kindern. Mit vier Millionen Besuchern jährlich ist er Dänemarks meistbesuchte Sehenswürdigkeit. Seit der Gründung 1843 hat es der Freizeitpark geschafft, durch eine gelungene Mischung aus Tradition und Moderne den Zauber über Generationen hinweg zu erhalten. Gleich hinter dem Eingang fällt der prächtige orientalische Palast auf, der das Nimb Restaurant beherbergt. Es besitzt sogar einen Michelin Stern. Der Park bietet zahlreiche Attraktionen, dazu gehören Achterbahnen, Fahrgeschäfte, sowie das mit 80 Metern welthöchste Kettenkarussell, der „Starflyer“. Hier sollte man auf keinen Fall mit empfindlichen Magen hochfahren. Insgesamt gibt es 23 historische und moderne Fahrgeschäfte, eines davon ist die Holzachterbahn von 1914. Ihre Strecke ist nur 720 Meter lang, der Höhenunterschied beträgt gerade einmal 13 Meter. Nicht viel für heutige Verhältnisse aber dennoch geht‘s zur Sache. Weil die Züge keine Räder unter der Schiene haben, bestünde bei zu hohen Geschwindigkeiten die Gefahr des Entgleisens. Deswegen fährt ein aktiver Schaffner im Zug mit, der ihn vor den Kurven manuell abbremst. Das Tivoli hat auch eine lange musikalische Tradition. Hier finden klassische und moderne Konzerte sowohl im Freien als auch in der Konzerthalle statt. Mehrmals täglich defiliert die Tivoligarde durch den Park. Die 1844 gegründete Garde hatte ursprünglich die Aufgabe, die Tivoli-Gebäude zu als Ehrengarde zu bewachen. Heute besteht die Tivoligarde aus Jungs zwischen 9 und 16 Jahren und marschiert zur Freude der Besucher mit einem Spielmannszug durch den Park. Beim Galopper Spiel, einer der ältesten Attraktionen des Parks, treffen wir auf Maya. Sie unterhält das alte Pferde-Wettrennen im Tivoli Park. Gerade hat sie ihr Abitur bestanden und jobbt für den kommenden Urlaub. Sie kommentiert wie ein professioneller Sportreporter. 13 Stunden täglich. Immer auf Trab und voll motiviert. „Das ist wohl eine der witzigsten Attraktionen hier. Tolle Atmosphäre, man spricht mit den Leuten und jeder liebt das Pferderennen. Viele Leute erzählen, es sei ihre Lieblingsattraktion im Tivoli. Jedes Jahr kommen sie wieder.“ Das dauernde Quasseln ist für Maya der beste Job der Welt. Kein Wunder. Sie möchte Sportreporterin werden.  
+
+### Vom Bierbrauen und genießen
+
+Ein weiteres Highlight der Stadt ist die Carlsberg Brauerei. Den Eingangsbereich zieren zwei imposante, fünf Meter hohe Elefanten aus Granit. Kurz dahinter liegt das Besucherzentrum, wo alte Biertransporter die Besucher begrüßen.  
+
+Der gesamte Gebäudekomplex wurde gegen Ende des 19. Jahrhunderts errichtet und beherbergte die Carlsberg Brauerei, die längst in moderneren Produktionsanlagen arbeitet. In einer alten Abfüllhalle ist heute das Carlsberg-Museum untergebracht. Drinnen empfangen den Besucher die Büsten von Jacob Christian Jacobsen und seinem Sohn Carl, dem Namensgeber der Brauerei. Von Anfang an wurde hier das Bier nach dem deutschen Reinheitsgebot gebraut. Schon 1868 exportierte Carl Jacobson sein Getränk ins Ausland. Damit legt er den Grundstein für die weltweit erfolgreiche Marke „Carlsberg“. Heute können Carlsberg-Produkte in 140 Ländern genossen werden. Oben im Museum stehen 20.000 verschiedene Bierflaschen und damit die größte Bierflaschensammlung weltweit. Der größte Spaß der Besucher ist es die Biermarke aus ihrer Heimat zu finden. In den vielen Räumen ist das Leben der damaligen Mitarbeiter plastisch dargestellt. Originalgeräte von vor über 100 Jahren. Die Fließbandproduktion damals ist Vorbild für die heutige Massenproduktion. Für Familien mit Kindern ist ein Abstecher zu den großen Brauereipferden empfehlenswert. Die Jütland Pferde sind die einzige ursprüngliche Kaltblutrasse Dänemarks. Die Beine Kurz - die Schulter flach. Genau die richtigen Pferde zum Ziehen der alten Bierkutschen. Jeder Museumsbesuch endet beim Faßbier, da zwei Freigetränke im Eintrittsgeld enthalten sind. Eine gute Gelegenheit den Gerstensaft selbst zu testen.  
+
+Wer jetzt noch Energie hat der verbringt den Abend auf der wohl bekannteste Gastronomie-Meile Dänemarks dem neuen Hafen, dänisch Nyhavn genannt („Nühaun“ gesprochen). Erbaut um 1671 verbindet die Wasserstraße den Hafen mit dem Stadtzentrum, sodass die Segelschiffe mitten in der Stadt festmachen und gelöscht werden konnten. Nyhavn ist heute eine Kneipen- und Restaurantmeile mit internationaler Küche und der beliebteste Treffpunkt in der Stadt nicht nur für Touristen. Besonders an den langen Abenden um die Sommersonnenwende versprüht Nyhavn ein einzigartiges Flair. Unser großes Glas Carlsberg serviert uns Marianne Fries. Wir kommen ins Gespräch. Die Inhaberin einer gleichnamigen Kunstgalerie jobbt nebenher im Restaurant und kennt das allabendliche Treiben in Nyhavn: „Kopenhagen ist eigentlich ganz klein, wir sind nur wenig mehr als 1 Million Einwohner. Aber es passiert so viel hier. Neue Restaurants, Musik und das Leben ist ganz schön und entspannt.“ Mehr ist dem nicht hinzuzufügen.

@@ -1,17 +1,20 @@
 ---
-title: "Niedersachsen Teil 3"
-subTitle: "Würmer, Krabben und Laternen"
-summary: "Wasser ist das prägende Element in Ostfriesland: Kanäle, Klappbrücken, Deiche, Fischerhäfen, Sandstrände, sieben Ostfriesische Inseln, Ebbe und Flut. Bei Ebbe zeigt sich eine weitere ostfriesische Landschaft: das Watt. Wattführungen gehören zu Ostfriesland wie Krabben pulen und Tee trinken. Auf den ersten Blick }"
+title: |
+ Niedersachsen Teil 3
+subTitle: |
+ Würmer, Krabben und Laternen
+summary: |
+ Wasser ist das prägende Element in Ostfriesland: Kanäle, Klappbrücken, Deiche, Fischerhäfen, Sandstrände, sieben Ostfriesische Inseln, Ebbe und Flut. Bei Ebbe zeigt sich eine weitere ostfriesische Landschaft: das Watt. Wattführungen gehören zu Ostfriesland wie Krabben pulen und Tee trinken. Auf den ersten Blick 
 
 # post thumb
-image: "/images/items/100911_RB_Nied_Ost_13_kl.jpg"
+image: '/images/items/100911_RB_Nied_Ost_13_kl.jpg'
 
 # taxonomies
 categories: 
-  - "Reisebericht"
-  - "Reiseziele"
+  - 'ReisezieleDeutschland'
+  - 'Reiseziele'
 tags:
-  - "Niedersachen"
+  - 'Niedersachen'
 
 # post type
 type: "post"

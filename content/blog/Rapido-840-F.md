@@ -1,0 +1,31 @@
+---
+title: |
+ Rapido 840 F
+subTitle: |
+ Querdenker
+summary: |
+ Rapido schickt in der Saison 2014 mit dem integrierten Wohnmobil 840 F einen ungewöhnlichen Grundriss ins Rennen um die Käufer: Die Küche ist quer zur Seitenwand eingebaut. Vor der Serienproduktion unterzieht sich das Wohnmobil Rapido 840 F exklusiv dem Profitest der Fachzeitschrift Reisemobil International.
+
+# post thumb
+image: '/images/items/131126-Rapido-840-F-a_kl.jpg'
+
+# taxonomies
+categories: 
+  - 'Vollintegrierte'
+  - 'Wohnmobile'
+tags:
+  - ''
+
+# post type
+type: "post"
+---
+
+<!--[if gte mso 9]><xml> <w:WordDocument> <w:View>Normal</w:View> <w:Zoom>0</w:Zoom> <w:TrackMoves /> <w:TrackFormatting /> <w:HyphenationZone>21</w:HyphenationZone> <w:PunctuationKerning /> <w:ValidateAgainstSchemas /> <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid> <w:IgnoreMixedContent>false</w:IgnoreMixedContent> <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText> <w:DoNotPromoteQF /> <w:LidThemeOther>DE</w:LidThemeOther> <w:LidThemeAsian>X-NONE</w:LidThemeAsian> <w:LidThemeComplexScript>X-NONE</w:LidThemeComplexScript> <w:Compatibility> <w:BreakWrappedTables /> <w:SnapToGridInCell /> <w:WrapTextWithPunct /> <w:UseAsianBreakRules /> <w:DontGrowAutofit /> <w:SplitPgBreakAndParaMark /> <w:DontVertAlignCellWithSp /> <w:DontBreakConstrainedForcedTables /> <w:DontVertAlignInTxbx /> <w:Word11KerningPairs /> <w:CachedColBalance /> </w:Compatibility> <m:mathPr> <m:mathFont m:val="Cambria Math" /> <m:brkBin m:val="before" /> <m:brkBinSub m:val="--" /> <m:smallFrac m:val="off" /> <m:dispDef /> <m:lMargin m:val="0" /> <m:rMargin m:val="0" /> <m:defJc m:val="centerGroup" /> <m:wrapIndent m:val="1440" /> <m:intLim m:val="subSup" /> <m:naryLim m:val="undOvr" /> </m:mathPr></w:WordDocument> </xml><![endif]-->Saison 2014; Originaltext: Matthias Piontek, Fotos: Hardy Mutschler
+
+<!--[if gte mso 10]> <style> /* Style Definitions */ table.MsoNormalTable {mso-style-name:"Normale Tabelle"; mso-tstyle-rowband-size:0; mso-tstyle-colband-size:0; mso-style-noshow:yes; mso-style-priority:99; mso-style-qformat:yes; mso-style-parent:""; mso-padding-alt:0cm 5.4pt 0cm 5.4pt; mso-para-margin-top:0cm; mso-para-margin-right:0cm; mso-para-margin-bottom:10.0pt; mso-para-margin-left:0cm; line-height:115%; mso-pagination:widow-orphan; font-size:11.0pt; font-family:"Calibri","sans-serif"; mso-ascii-font-family:Calibri; mso-ascii-theme-font:minor-latin; mso-fareast-font-family:"Times New Roman"; mso-fareast-theme-font:minor-fareast; mso-hansi-font-family:Calibri; mso-hansi-theme-font:minor-latin;} </style> <![endif]-->
+
+Rapido schickt in der Saison 2014 mit dem integrierten Wohnmobil 840 F einen ungewöhnlichen Grundriss ins Rennen um die Käufer: Die Küche ist quer zur Seitenwand eingebaut. Vor der Serienproduktion unterzieht sich das Wohnmobil Rapido 840 F exklusiv dem Profitest der Fachzeitschrift Reisemobil International.
+
+Mit 6,58 Metern kompakt und von außen „ansprechend“ präsentiert sich das integrierte Wohnmobil Rapido 840 F. Positiv fallen den Testern sofort der „mehrteilig und damit reparaturfreundlich konstruierte Stoßfänger“ vorn und die Einzelscheinwerfer auf. Für von außen zugänglichen Stauraum sorgen der aufgeräumte Unterboden sowie die 196 mal 82 mal 94 cm große Heckgarage. Die Besonderheit des neuen Modells offenbart sich beim Einstieg in den Innenraum: Links neben der Aufbautür befindet sich die rechtwinklig zur Seitenwand eingebaute Küche. Durch eine Glasscheibe und einen Oberschrank fungiert sie als Raumteiler zwischen Wohnbereich vorn und dem Queensbett und dem Bad im Heck. Ein abklappbares Brett seitlich des Küchenblocks sorgt für eine größere Arbeitsfläche, der Durchgang zum Schlafbereich ist jederzeit möglich. Mit einem 160-L-Kühlschrank, einem Herd mit zwei Kochstellen mit Piezo-Zünder, großer Rundspüle mit Metall-Armatur, LED-Beleuchtung unter dem Oberschrank und ausreichend Stauraum ist die Küche gut ausgestattet. Ein Vorhang hinter der Glasscheibe sowie eine stabilen Schiebetür am Durchgang ermöglicht die Abtrennung zwischen Wohn- und Schlafbereich. Im Heck dominiert das längs montierte Queensbett mit Bultex-Matratze und mittels Gasdruckfedern aufstellbarem Alu-Rahmen. Rechts im Heck befindet sich das Längsbad mit Toilettenbank und Duschkabine mit Faltwand aus Plexiglas. Praktisch ist die Wäscheleine mit Aufrollmechanismus unter der Dachhaube. Das Waschbecken findet sich außerhalb des Bades und versteckt sich tagsüber unter einer Ablage. Durch Verschieben der Spiegelfront darüber lässt sich die Ablage öffnen und das kleine Waschbecken nutzen. Im Wohnbereich formiert sich „aus zwei Sitzen rechts und links, den drehbaren Vordersitzen und dem drehbaren sowie in alle Himmelsrichtungen verschiebbaren Tisch“ die Sitzgruppe. Das Hubbett über den Sitzen lässt sich „mühelos“ manuell bedienen. Zum Fahren lassen sich die beiden mit Dreipunktgurten ausgestatteten Sitze umbauen, wobei der rechte Sitz „wegen des eingeschränkten Fußraums zum Beifahrersitz hin eher für kürzere Strecken“ geeignet ist. Die Tester haben in puncto Fahrkomfort nichts zu bemängeln: Den Rapido 840 F empfanden sie als „angenehm leise“ und „gut beherrschbar“ bei „sehr guter Sicht“, lediglich der Federungskomfort sei durchschnittlich. Für das integrierte Wohnmobil werden in der Basisversion<span style="mso-spacerun:yes">  </span>63.200 Euro aufgerufen, das getestete Vorserienmodell verfügt über einen 130 PS Motor und einige Extras und kostet so fast 68.000 EUR. Der Rapido 840 F erhielt im Profitest der Fachzeitschrift Reisemobil International in sechs Wertungsklassen der Kategorie „Integrierte bis 60.000 Euro“ 77 von 100 möglichen Sternen.
+
+Den ausführlichen Profitest des Rapido 840 F finden Sie in der Ausgabe Dezember 2013 der Fachzeitschrift Reisemobil International in jedem gut sortierten Zeitschriftenhandel. Darin enthalten sind alle technischen Spezifikationen des Wohnmobils sowie die Vergleichstabellen und detaillierten Bewertungen der Kategorien Fahrkomfort, Wohnaufbau, Innenausbau, Geräte/Installation, Fahrzeugtechnik und Spritverbrauch.
